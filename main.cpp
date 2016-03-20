@@ -5,11 +5,11 @@
 #include "NeuralNet.h"
 
 
-#define num_linhas 11181
-#define num_colunas 12
+#define num_linhas 5862
+#define num_colunas 11
 
-#define num_linhas_conv 10800
-#define num_colunas_conv 12
+#define num_linhas_conv 5862
+#define num_colunas_conv 11
 
 using namespace std;
 
@@ -116,19 +116,7 @@ void conversao(int &numRowsTrain, int &numRowsTest)
 }
 
 void divisaoTeste()
-{￼
-Renata Cancian
-20 de abril de 2014 · 
- 
-Com Fhany Magalhães.
-Compartilhar
-1110
-1 compartilhamento
-Comentários
-￼
-Renata Cancian Casamento niver Nego e Titi pq família é tudo
-20 de abril de 2014 às 21:45
-
+{
 	int i, j;
 	int max, min;
 
