@@ -35,7 +35,7 @@ class NeuralNet
 
 		int definesNumberNeuronsH(int, int);
 		
-		void training(int, int, int, int, int, int*, float*, float*);
+		void training(int, int, int, int, int, int, float*, float*);
 		void testing(float*, int, int, int);
 
 

@@ -114,7 +114,7 @@ void Layer::presentDesiredOutputs(float label, int numberOutputs)
 
 	for (i = 0; i<numberOutputs; i++)
 		neuron[i].setD(DesiredOutput[i]);
-	//cout << label << "Escolhido " << j << "-"<< neuron[i].getD << endl;
+	cout << label << "Escolhido " << j << "-"<< neuron[i].getD << endl;
 
 }
 

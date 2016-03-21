@@ -67,26 +67,26 @@ void NeuralNet::training(int numRowsTrain, int numRowsCross, int numCols, int nu
 		//for (i=0; i<5; i++)
 		//{
 			layers[0].presentsInput(dataTrain, i, numNeuronsInput);
-			//cout << "Aw" << dataTrain[i*numCols+numCols-1] << endl;
+			cout << "Aw" << dataTrain[i*numCols+numCols-1] << endl;
 			layers[numberLayers-1].presentDesiredOutputs(dataTrain[i*numCols+numCols-1], numNeuronsOutput);
-			//cout << i << endl;
-			//layers[0].getOutputs();
+			cout << i << endl;
+			layers[0].getOutputs();
 			fowardPropagation();
-			//cout << "CAMADA DE ENTRADA" << endl;
-			//layers[numberLayers-1].getOutputs();
-			//cout << "CAMADA ESCONDIDA" << endl;
-			//layers[1].getOutputs();
-			//cout << "CAMADA SAÍDA" << endl;
-			//layers[numberLayers-1].getOutputs();
+			cout << "CAMADA DE ENTRADA" << endl;
+			layers[numberLayers-1].getOutputs();
+			cout << "CAMADA ESCONDIDA" << endl;
+			layers[1].getOutputs();
+			cout << "CAMADA SAÍDA" << endl;
+			layers[numberLayers-1].getOutputs();
 
 			backPropagation();	
 		
-			//cout << "CAMADA DE ENTRADA back" << endl;
-			//layers[0].getOutputs();
-			//cout << "CAMADA ESCONDIDA back" << endl;
-			//layers[1].getOutputs();
-			//cout << "CAMADA SAÍDA back" << endl;
-			//layers[numberLayers-1].getOutputs();
+			cout << "CAMADA DE ENTRADA back" << endl;
+			layers[0].getOutputs();
+			cout << "CAMADA ESCONDIDA back" << endl;
+			layers[1].getOutputs();
+			cout << "CAMADA SAÍDA back" << endl;
+			layers[numberLayers-1].getOutputs();
 		}
 		valor++;	
 	}
