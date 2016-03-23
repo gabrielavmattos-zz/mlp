@@ -38,12 +38,15 @@ Neuron Layer::getNeuron(int indice)
 
 
 // Precisa ser pensado como trabalhar essa input
-void Layer::presentsInput(float *datas, int numberImages, int numberNeuronsInput)
+void Layer::presentsInput(float *datas, int numberImages, int numNeuronsInput)
 {
 	int i, j=0;
-	int begin = numberImages*numberNeuronsInput;
+	int begin = numberImages*numNeuronsInput + numberImages;
+	
+	//if(begin != 0)
+	//	begin+=numberImages;
 
-	for (i = begin; i<(begin+numberNeuronsInput); i++)
+	for (i = begin; i<(begin+numNeuronsInput); i++)
 	{	
 		//cout << "image " << j << "   -   " << datas[i] << endl; 
 		//adaptValues(datas[i]/255, j++);

@@ -1,0 +1,7945 @@
+Number of layer hidden: 3
+Number of neurons layer hidden: 100
+Name input file: ../dadosFil.csv
+
+
+******Values******
+
+Numer train: 3602
+Numer cross: 1130
+Numer test : 1130
+Total: 5862
+
+******************
+
+Number of Layers: 5
+Gain term: 0.1
+Camada criada com 9 neuronios e 100 Sinapses.
+Camada criada com 100 neuronios e 100 Sinapses.
+Camada criada com 100 neuronios e 100 Sinapses.
+Camada criada com 100 neuronios e 10 Sinapses.
+Camada criada com 10 neuronios e 0 Sinapses.
+0.998696 - I max: 0
+:::::0
+:1
+Image 0 - Desired Output 0 - 0
+4.0491e-13 - I max: 0
+1.79401e-09 - I max: 1
+0.00321226 - I max: 8
+0.999783 - I max: 9
+:::::9
+:1
+Image 1 - Desired Output 9 - 9
+3.6765e-13 - I max: 0
+1.71599e-09 - I max: 1
+0.00329556 - I max: 8
+0.999829 - I max: 9
+:::::9
+:2
+Image 2 - Desired Output 9 - 9
+3.69982e-13 - I max: 0
+1.69953e-09 - I max: 1
+0.00333787 - I max: 8
+0.999836 - I max: 9
+:::::9
+:3
+Image 3 - Desired Output 9 - 9
+1.32149e-09 - I max: 0
+7.44993e-08 - I max: 1
+0.00311968 - I max: 7
+0.991682 - I max: 8
+:::::8
+:1
+Image 4 - Desired Output 8 - 8
+3.36517e-08 - I max: 0
+1.81199e-07 - I max: 1
+2.13937e-07 - I max: 3
+0.00629143 - I max: 5
+0.993802 - I max: 6
+:::::6
+:1
+Image 5 - Desired Output 6 - 6
+3.63096e-13 - I max: 0
+1.68914e-09 - I max: 1
+0.00335944 - I max: 8
+0.999842 - I max: 9
+:::::9
+:4
+Image 6 - Desired Output 9 - 9
+4.77365e-13 - I max: 0
+2.00305e-09 - I max: 1
+0.00305449 - I max: 8
+0.999601 - I max: 9
+:::::9
+:5
+Image 7 - Desired Output 9 - 9
+3.86781e-13 - I max: 0
+1.75718e-09 - I max: 1
+0.00325249 - I max: 8
+0.999807 - I max: 9
+:::::9
+:6
+Image 8 - Desired Output 9 - 9
+1.79417e-09 - I max: 0
+8.36857e-08 - I max: 1
+9.76692e-08 - I max: 6
+0.00653718 - I max: 7
+0.987507 - I max: 8
+:::::8
+:2
+Image 9 - Desired Output 8 - 8
+2.82021e-06 - I max: 0
+1.81746e-05 - I max: 1
+2.45158e-05 - I max: 2
+0.00672035 - I max: 3
+0.988105 - I max: 4
+:::::4
+:1
+Image 10 - Desired Output 4 - 4
+1.38683e-12 - I max: 0
+3.47031e-09 - I max: 1
+0.00706107 - I max: 8
+0.993682 - I max: 9
+:::::9
+:7
+Image 11 - Desired Output 9 - 9
+4.18871e-13 - I max: 0
+1.87193e-09 - I max: 1
+0.00309108 - I max: 8
+0.99972 - I max: 9
+:::::9
+:8
+Image 12 - Desired Output 9 - 9
+1.75399e-09 - I max: 0
+8.2782e-08 - I max: 1
+9.24174e-08 - I max: 6
+0.0061794 - I max: 7
+0.988331 - I max: 8
+:::::8
+:3
+Image 13 - Desired Output 8 - 8
+2.03299e-09 - I max: 0
+8.7773e-08 - I max: 1
+1.29353e-07 - I max: 6
+0.00887369 - I max: 7
+0.984445 - I max: 8
+:::::8
+:4
+Image 14 - Desired Output 8 - 8
+1.51881e-10 - I max: 0
+2.9854e-08 - I max: 1
+1.59228e-05 - I max: 7
+0.98811 - I max: 8
+:::::8
+:5
+Image 15 - Desired Output 8 - 8
+0.997548 - I max: 0
+:::::0
+:2
+Image 16 - Desired Output 0 - 0
+2.38927e-12 - I max: 0
+4.47277e-09 - I max: 1
+0.0161968 - I max: 8
+0.978242 - I max: 9
+:::::9
+:9
+Image 17 - Desired Output 9 - 9
+3.49108e-08 - I max: 0
+1.85639e-07 - I max: 1
+2.21557e-07 - I max: 3
+0.00554851 - I max: 5
+0.994068 - I max: 6
+:::::6
+:2
+Image 18 - Desired Output 6 - 6
+1.30111e-05 - I max: 0
+0.000311228 - I max: 1
+0.0215543 - I max: 2
+0.963818 - I max: 3
+:::::3
+:1
+Image 19 - Desired Output 2 - 3
+7.52285e-06 - I max: 0
+8.87138e-05 - I max: 1
+0.00143024 - I max: 2
+0.977787 - I max: 3
+:::::3
+:1
+Image 20 - Desired Output 3 - 3
+4.01496e-13 - I max: 0
+1.82357e-09 - I max: 1
+0.00314679 - I max: 8
+0.999758 - I max: 9
+:::::9
+:10
+Image 21 - Desired Output 9 - 9
+4.5319e-06 - I max: 0
+4.62572e-05 - I max: 1
+0.000300864 - I max: 2
+0.664415 - I max: 3
+:::::3
+:2
+Image 22 - Desired Output 3 - 3
+4.15046e-13 - I max: 0
+1.82948e-09 - I max: 1
+0.00317984 - I max: 8
+0.999767 - I max: 9
+:::::9
+:11
+Image 23 - Desired Output 9 - 9
+4.52986e-13 - I max: 0
+1.9071e-09 - I max: 1
+0.00310219 - I max: 8
+0.999703 - I max: 9
+:::::9
+:12
+Image 24 - Desired Output 9 - 9
+3.79489e-08 - I max: 0
+1.96267e-07 - I max: 1
+2.39932e-07 - I max: 3
+0.0041029 - I max: 5
+0.994056 - I max: 6
+:::::6
+:3
+Image 25 - Desired Output 6 - 6
+4.31444e-13 - I max: 0
+1.88414e-09 - I max: 1
+0.00312269 - I max: 8
+0.999727 - I max: 9
+:::::9
+:13
+Image 26 - Desired Output 9 - 9
+7.15175e-13 - I max: 0
+2.48582e-09 - I max: 1
+0.00346961 - I max: 8
+0.998796 - I max: 9
+:::::9
+:14
+Image 27 - Desired Output 9 - 9
+4.53529e-13 - I max: 0
+1.97353e-09 - I max: 1
+0.0030443 - I max: 8
+0.999633 - I max: 9
+:::::9
+:15
+Image 28 - Desired Output 9 - 9
+3.87232e-09 - I max: 0
+1.14804e-07 - I max: 1
+5.53779e-07 - I max: 6
+0.0462832 - I max: 7
+0.937735 - I max: 8
+:::::8
+:6
+Image 29 - Desired Output 8 - 8
+4.04105e-11 - I max: 0
+1.63189e-08 - I max: 1
+5.80529e-07 - I max: 7
+0.862519 - I max: 8
+:::::8
+:7
+Image 30 - Desired Output 8 - 8
+3.7645e-13 - I max: 0
+1.74822e-09 - I max: 1
+0.00324072 - I max: 8
+0.999805 - I max: 9
+:::::9
+:16
+Image 31 - Desired Output 9 - 9
+3.41543e-13 - I max: 0
+1.57578e-09 - I max: 1
+0.00346156 - I max: 8
+0.999873 - I max: 9
+:::::9
+:17
+Image 32 - Desired Output 9 - 9
+1.29512e-09 - I max: 0
+7.30385e-08 - I max: 1
+0.00287882 - I max: 7
+0.992727 - I max: 8
+:::::8
+:8
+Image 33 - Desired Output 8 - 8
+1.57889e-07 - I max: 0
+5.47245e-07 - I max: 1
+8.3203e-07 - I max: 3
+1.97416e-05 - I max: 5
+0.0378043 - I max: 6
+0.978014 - I max: 7
+:::::7
+:1
+Image 34 - Desired Output 7 - 7
+1.88809e-12 - I max: 0
+4.0222e-09 - I max: 1
+0.0112898 - I max: 8
+0.98703 - I max: 9
+:::::9
+:18
+Image 35 - Desired Output 9 - 9
+6.00607e-13 - I max: 0
+2.2739e-09 - I max: 1
+0.00318514 - I max: 8
+0.99923 - I max: 9
+:::::9
+:19
+Image 36 - Desired Output 9 - 9
+3.64203e-13 - I max: 0
+1.71676e-09 - I max: 1
+0.00330013 - I max: 8
+0.999829 - I max: 9
+:::::9
+:20
+Image 37 - Desired Output 9 - 9
+1.62372e-06 - I max: 0
+5.25352e-06 - I max: 1
+0.000184542 - I max: 3
+0.125794 - I max: 4
+0.888279 - I max: 5
+:::::5
+:1
+Image 38 - Desired Output 4 - 5
+1.06102e-12 - I max: 0
+3.03015e-09 - I max: 1
+0.00507483 - I max: 8
+0.996644 - I max: 9
+:::::9
+:21
+Image 39 - Desired Output 9 - 9
+1.54654e-07 - I max: 0
+5.4251e-07 - I max: 1
+8.17979e-07 - I max: 3
+2.055e-05 - I max: 5
+0.0404619 - I max: 6
+0.976123 - I max: 7
+:::::7
+:2
+Image 40 - Desired Output 7 - 7
+9.8377e-06 - I max: 0
+0.000161696 - I max: 1
+0.00554593 - I max: 2
+0.987098 - I max: 3
+:::::3
+:3
+Image 41 - Desired Output 3 - 3
+3.83713e-13 - I max: 0
+1.77545e-09 - I max: 1
+0.00319504 - I max: 8
+0.99979 - I max: 9
+:::::9
+:22
+Image 42 - Desired Output 9 - 9
+8.47501e-13 - I max: 0
+2.71207e-09 - I max: 1
+0.00389625 - I max: 8
+0.998191 - I max: 9
+:::::9
+:23
+Image 43 - Desired Output 9 - 9
+3.13888e-12 - I max: 0
+5.10337e-09 - I max: 1
+0.0269768 - I max: 8
+0.959811 - I max: 9
+:::::9
+:24
+Image 44 - Desired Output 9 - 9
+3.75953e-08 - I max: 0
+2.84011e-07 - I max: 1
+3.20917e-07 - I max: 3
+1.51221e-06 - I max: 5
+0.00013612 - I max: 6
+0.912276 - I max: 7
+:::::7
+:3
+Image 45 - Desired Output 7 - 7
+0.99745 - I max: 0
+:::::0
+:3
+Image 46 - Desired Output 0 - 0
+1.90209e-06 - I max: 0
+5.07549e-06 - I max: 1
+9.36391e-05 - I max: 3
+0.03266 - I max: 4
+0.973067 - I max: 5
+:::::5
+:1
+Image 47 - Desired Output 5 - 5
+6.59301e-10 - I max: 0
+5.45528e-08 - I max: 1
+0.000553757 - I max: 7
+0.995904 - I max: 8
+:::::8
+:9
+Image 48 - Desired Output 8 - 8
+3.05232e-10 - I max: 0
+3.95068e-08 - I max: 1
+8.88412e-05 - I max: 7
+0.994901 - I max: 8
+:::::8
+:10
+Image 49 - Desired Output 8 - 8
+0.99296 - I max: 0
+:::::0
+:4
+Image 50 - Desired Output 0 - 0
+4.48199e-08 - I max: 0
+2.31116e-07 - I max: 1
+2.85261e-07 - I max: 3
+0.0025445 - I max: 5
+0.99245 - I max: 6
+:::::6
+:4
+Image 51 - Desired Output 6 - 6
+4.72075e-05 - I max: 0
+0.0117889 - I max: 1
+0.988195 - I max: 2
+:::::2
+:1
+Image 52 - Desired Output 2 - 2
+0.998447 - I max: 0
+:::::0
+:5
+Image 53 - Desired Output 0 - 0
+4.05805e-13 - I max: 0
+1.85325e-09 - I max: 1
+0.00311026 - I max: 8
+0.999745 - I max: 9
+:::::9
+:25
+Image 54 - Desired Output 9 - 9
+1.03994e-12 - I max: 0
+3.02693e-09 - I max: 1
+0.00494422 - I max: 8
+0.996824 - I max: 9
+:::::9
+:26
+Image 55 - Desired Output 9 - 9
+4.33655e-13 - I max: 0
+1.8914e-09 - I max: 1
+0.00311738 - I max: 8
+0.999715 - I max: 9
+:::::9
+:27
+Image 56 - Desired Output 9 - 9
+3.89969e-13 - I max: 0
+1.78704e-09 - I max: 1
+0.00319189 - I max: 8
+0.999785 - I max: 9
+:::::9
+:28
+Image 57 - Desired Output 9 - 9
+4.25617e-11 - I max: 0
+1.68333e-08 - I max: 1
+6.74182e-07 - I max: 7
+0.881181 - I max: 8
+:::::8
+:11
+Image 58 - Desired Output 8 - 8
+3.67506e-13 - I max: 0
+1.70654e-09 - I max: 1
+0.00333704 - I max: 8
+0.999835 - I max: 9
+:::::9
+:29
+Image 59 - Desired Output 9 - 9
+4.7164e-13 - I max: 0
+1.98838e-09 - I max: 1
+0.00305678 - I max: 8
+0.999616 - I max: 9
+:::::9
+:30
+Image 60 - Desired Output 9 - 9
+4.74375e-13 - I max: 0
+2.02095e-09 - I max: 1
+0.00304729 - I max: 8
+0.999593 - I max: 9
+:::::9
+:31
+Image 61 - Desired Output 9 - 9
+2.3395e-10 - I max: 0
+3.52371e-08 - I max: 1
+4.61224e-05 - I max: 7
+0.993263 - I max: 8
+:::::8
+:12
+Image 62 - Desired Output 8 - 8
+0.998192 - I max: 0
+:::::0
+:6
+Image 63 - Desired Output 0 - 0
+7.33393e-08 - I max: 0
+3.15561e-07 - I max: 1
+6.34498e-07 - I max: 3
+1.38564e-06 - I max: 4
+0.204209 - I max: 5
+0.80855 - I max: 6
+:::::6
+:1
+Image 64 - Desired Output 5 - 6
+5.15713e-08 - I max: 0
+2.82366e-07 - I max: 1
+3.26143e-07 - I max: 3
+0.00055414 - I max: 5
+0.918629 - I max: 6
+:::::6
+:5
+Image 65 - Desired Output 6 - 6
+1.5993e-07 - I max: 0
+5.41821e-07 - I max: 1
+8.58618e-07 - I max: 3
+1.03554e-05 - I max: 5
+0.0102217 - I max: 6
+0.988726 - I max: 7
+:::::7
+:4
+Image 66 - Desired Output 7 - 7
+1.31379e-06 - I max: 0
+2.92682e-06 - I max: 1
+2.43405e-05 - I max: 3
+0.00238939 - I max: 4
+0.992676 - I max: 5
+:::::5
+:2
+Image 67 - Desired Output 5 - 5
+5.06021e-05 - I max: 0
+0.0130608 - I max: 1
+0.988495 - I max: 2
+:::::2
+:2
+Image 68 - Desired Output 2 - 2
+1.40261e-06 - I max: 0
+6.95463e-06 - I max: 1
+7.2796e-06 - I max: 2
+0.00105836 - I max: 3
+0.854917 - I max: 4
+:::::4
+:2
+Image 69 - Desired Output 4 - 4
+1.38451e-06 - I max: 0
+6.6383e-06 - I max: 1
+6.6527e-06 - I max: 2
+0.000892116 - I max: 3
+0.803338 - I max: 4
+:::::4
+:3
+Image 70 - Desired Output 4 - 4
+1.93964e-12 - I max: 0
+4.04717e-09 - I max: 1
+0.0119932 - I max: 8
+0.985839 - I max: 9
+:::::9
+:32
+Image 71 - Desired Output 9 - 9
+7.69637e-08 - I max: 0
+3.71342e-07 - I max: 1
+5.23743e-07 - I max: 3
+3.92726e-06 - I max: 5
+0.0010049 - I max: 6
+0.973621 - I max: 7
+:::::7
+:5
+Image 72 - Desired Output 7 - 7
+1.08365e-06 - I max: 0
+2.43925e-06 - I max: 1
+1.87788e-05 - I max: 3
+0.00140008 - I max: 4
+0.991798 - I max: 5
+:::::5
+:3
+Image 73 - Desired Output 5 - 5
+1.7635e-05 - I max: 0
+0.000518757 - I max: 1
+0.0525911 - I max: 2
+0.920006 - I max: 3
+:::::3
+:2
+Image 74 - Desired Output 2 - 3
+0.998527 - I max: 0
+:::::0
+:7
+Image 75 - Desired Output 0 - 0
+1.23127e-08 - I max: 0
+1.783e-07 - I max: 1
+3.90855e-07 - I max: 5
+8.39279e-06 - I max: 6
+0.47425 - I max: 7
+0.487965 - I max: 8
+:::::8
+:1
+Image 76 - Desired Output 7 - 8
+4.0127e-06 - I max: 0
+3.10525e-05 - I max: 1
+6.67856e-05 - I max: 2
+0.0434506 - I max: 3
+0.958291 - I max: 4
+:::::4
+:1
+Image 77 - Desired Output 3 - 4
+0.981779 - I max: 0
+:::::0
+:8
+Image 78 - Desired Output 0 - 0
+0.979203 - I max: 0
+:::::0
+:9
+Image 79 - Desired Output 0 - 0
+0.00382057 - I max: 0
+0.988133 - I max: 1
+:::::1
+:1
+Image 80 - Desired Output 1 - 1
+5.17935e-05 - I max: 0
+0.00496783 - I max: 1
+0.873642 - I max: 2
+:::::2
+:3
+Image 81 - Desired Output 2 - 2
+1.73809e-11 - I max: 0
+1.15284e-08 - I max: 1
+6.80357e-08 - I max: 7
+0.506086 - I max: 8
+:::::8
+:13
+Image 82 - Desired Output 8 - 8
+0.997808 - I max: 0
+:::::0
+:10
+Image 83 - Desired Output 0 - 0
+0.970334 - I max: 0
+:::::0
+:11
+Image 84 - Desired Output 0 - 0
+4.02977e-13 - I max: 0
+1.80439e-09 - I max: 1
+0.00320645 - I max: 8
+0.99978 - I max: 9
+:::::9
+:33
+Image 85 - Desired Output 9 - 9
+5.27506e-13 - I max: 0
+2.14932e-09 - I max: 1
+0.00307808 - I max: 8
+0.999462 - I max: 9
+:::::9
+:34
+Image 86 - Desired Output 9 - 9
+9.69777e-13 - I max: 0
+2.89935e-09 - I max: 1
+0.00442044 - I max: 8
+0.997433 - I max: 9
+:::::9
+:35
+Image 87 - Desired Output 9 - 9
+3.98108e-13 - I max: 0
+1.82226e-09 - I max: 1
+0.0031429 - I max: 8
+0.999761 - I max: 9
+:::::9
+:36
+Image 88 - Desired Output 9 - 9
+4.43421e-13 - I max: 0
+1.94593e-09 - I max: 1
+0.00308175 - I max: 8
+0.999678 - I max: 9
+:::::9
+:37
+Image 89 - Desired Output 9 - 9
+2.81263e-07 - I max: 0
+8.2902e-07 - I max: 1
+3.43259e-06 - I max: 3
+3.53907e-05 - I max: 4
+0.899529 - I max: 5
+:::::5
+:4
+Image 90 - Desired Output 5 - 5
+6.26727e-13 - I max: 0
+2.33967e-09 - I max: 1
+0.00325261 - I max: 8
+0.999123 - I max: 9
+:::::9
+:38
+Image 91 - Desired Output 9 - 9
+6.33478e-08 - I max: 0
+3.36141e-07 - I max: 1
+3.91907e-07 - I max: 3
+0.000206312 - I max: 5
+0.696627 - I max: 6
+:::::6
+:6
+Image 92 - Desired Output 6 - 6
+1.66926e-08 - I max: 0
+2.00476e-07 - I max: 1
+2.07876e-07 - I max: 3
+5.63181e-07 - I max: 5
+1.74791e-05 - I max: 6
+0.647311 - I max: 7
+:::::7
+:6
+Image 93 - Desired Output 7 - 7
+3.41842e-06 - I max: 0
+2.28949e-05 - I max: 1
+3.3005e-05 - I max: 2
+0.0102816 - I max: 3
+0.987919 - I max: 4
+:::::4
+:4
+Image 94 - Desired Output 4 - 4
+2.36157e-10 - I max: 0
+3.60907e-08 - I max: 1
+4.64745e-05 - I max: 7
+0.993337 - I max: 8
+:::::8
+:14
+Image 95 - Desired Output 8 - 8
+1.42025e-06 - I max: 0
+6.14998e-06 - I max: 1
+0.000583457 - I max: 3
+0.615676 - I max: 4
+:::::4
+:5
+Image 96 - Desired Output 4 - 4
+4.61875e-08 - I max: 0
+3.00322e-07 - I max: 1
+3.75116e-07 - I max: 3
+2.03491e-06 - I max: 5
+0.000240364 - I max: 6
+0.939932 - I max: 7
+:::::7
+:7
+Image 97 - Desired Output 7 - 7
+7.94965e-08 - I max: 0
+3.8598e-07 - I max: 1
+5.3181e-07 - I max: 3
+4.00817e-06 - I max: 5
+0.00108197 - I max: 6
+0.97446 - I max: 7
+:::::7
+:8
+Image 98 - Desired Output 7 - 7
+5.72511e-13 - I max: 0
+2.23835e-09 - I max: 1
+0.00316268 - I max: 8
+0.999276 - I max: 9
+:::::9
+:39
+Image 99 - Desired Output 9 - 9
+4.76044e-13 - I max: 0
+2.00694e-09 - I max: 1
+0.00303891 - I max: 8
+0.999589 - I max: 9
+:::::9
+:40
+Image 100 - Desired Output 9 - 9
+0.478477 - I max: 0
+0.53406 - I max: 1
+:::::1
+:1
+Image 101 - Desired Output 0 - 1
+5.11672e-08 - I max: 0
+2.58243e-07 - I max: 1
+3.82338e-07 - I max: 3
+5.69298e-07 - I max: 4
+0.0464157 - I max: 5
+0.965468 - I max: 6
+:::::6
+:2
+Image 102 - Desired Output 5 - 6
+1.09742e-11 - I max: 0
+8.96332e-09 - I max: 1
+2.27313e-08 - I max: 7
+0.271985 - I max: 8
+0.604679 - I max: 9
+:::::9
+:1
+Image 103 - Desired Output 8 - 9
+3.11756e-10 - I max: 0
+4.1323e-08 - I max: 1
+9.0151e-05 - I max: 7
+0.994799 - I max: 8
+:::::8
+:15
+Image 104 - Desired Output 8 - 8
+8.03886e-13 - I max: 0
+2.63866e-09 - I max: 1
+0.00386029 - I max: 8
+0.998255 - I max: 9
+:::::9
+:41
+Image 105 - Desired Output 9 - 9
+4.09779e-08 - I max: 0
+2.10448e-07 - I max: 1
+2.58327e-07 - I max: 3
+0.00274667 - I max: 5
+0.991761 - I max: 6
+:::::6
+:7
+Image 106 - Desired Output 6 - 6
+6.24557e-13 - I max: 0
+2.31659e-09 - I max: 1
+0.00321238 - I max: 8
+0.999185 - I max: 9
+:::::9
+:42
+Image 107 - Desired Output 9 - 9
+2.24706e-10 - I max: 0
+3.61614e-08 - I max: 1
+4.03493e-05 - I max: 7
+0.992823 - I max: 8
+:::::8
+:16
+Image 108 - Desired Output 8 - 8
+3.66957e-08 - I max: 0
+1.91844e-07 - I max: 1
+2.32332e-07 - I max: 3
+0.00469309 - I max: 5
+0.994216 - I max: 6
+:::::6
+:8
+Image 109 - Desired Output 6 - 6
+0.000623095 - I max: 0
+0.923511 - I max: 1
+:::::1
+:2
+Image 110 - Desired Output 1 - 1
+1.43804e-06 - I max: 0
+6.01273e-06 - I max: 1
+0.00050752 - I max: 3
+0.541791 - I max: 4
+:::::4
+:6
+Image 111 - Desired Output 4 - 4
+3.08984e-08 - I max: 0
+2.53972e-07 - I max: 1
+2.92194e-07 - I max: 3
+1.22594e-06 - I max: 5
+8.38399e-05 - I max: 6
+0.877129 - I max: 7
+:::::7
+:9
+Image 112 - Desired Output 7 - 7
+2.55467e-10 - I max: 0
+3.83026e-08 - I max: 1
+5.40749e-05 - I max: 7
+0.993166 - I max: 8
+:::::8
+:17
+Image 113 - Desired Output 8 - 8
+1.76488e-06 - I max: 0
+4.00705e-06 - I max: 1
+4.03163e-05 - I max: 3
+0.00629798 - I max: 4
+0.992122 - I max: 5
+:::::5
+:5
+Image 114 - Desired Output 5 - 5
+1.40531e-06 - I max: 0
+7.58932e-06 - I max: 1
+8.77756e-06 - I max: 2
+0.00155852 - I max: 3
+0.93517 - I max: 4
+:::::4
+:7
+Image 115 - Desired Output 4 - 4
+3.69467e-06 - I max: 0
+2.57284e-05 - I max: 1
+4.07619e-05 - I max: 2
+0.0149505 - I max: 3
+0.984737 - I max: 4
+:::::4
+:8
+Image 116 - Desired Output 4 - 4
+0.0872423 - I max: 0
+0.918755 - I max: 1
+:::::1
+:2
+Image 117 - Desired Output 0 - 1
+4.58648e-13 - I max: 0
+1.96687e-09 - I max: 1
+0.00305798 - I max: 8
+0.999652 - I max: 9
+:::::9
+:43
+Image 118 - Desired Output 9 - 9
+6.24596e-13 - I max: 0
+2.31486e-09 - I max: 1
+0.00323896 - I max: 8
+0.999118 - I max: 9
+:::::9
+:44
+Image 119 - Desired Output 9 - 9
+8.63986e-13 - I max: 0
+2.76642e-09 - I max: 1
+0.00400132 - I max: 8
+0.99806 - I max: 9
+:::::9
+:45
+Image 120 - Desired Output 9 - 9
+0.408233 - I max: 0
+0.602823 - I max: 1
+:::::1
+:3
+Image 121 - Desired Output 0 - 1
+3.91704e-13 - I max: 0
+1.76691e-09 - I max: 1
+0.00325112 - I max: 8
+0.999803 - I max: 9
+:::::9
+:46
+Image 122 - Desired Output 9 - 9
+4.22376e-13 - I max: 0
+1.89226e-09 - I max: 1
+0.00310155 - I max: 8
+0.999716 - I max: 9
+:::::9
+:47
+Image 123 - Desired Output 9 - 9
+5.3652e-08 - I max: 0
+2.97409e-07 - I max: 1
+3.39485e-07 - I max: 3
+0.000408271 - I max: 5
+0.877537 - I max: 6
+:::::6
+:9
+Image 124 - Desired Output 6 - 6
+4.25814e-13 - I max: 0
+1.89344e-09 - I max: 1
+0.00307882 - I max: 8
+0.999706 - I max: 9
+:::::9
+:48
+Image 125 - Desired Output 9 - 9
+5.59461e-13 - I max: 0
+2.19032e-09 - I max: 1
+0.00310625 - I max: 8
+0.999337 - I max: 9
+:::::9
+:49
+Image 126 - Desired Output 9 - 9
+4.3747e-13 - I max: 0
+1.91516e-09 - I max: 1
+0.00304255 - I max: 8
+0.999671 - I max: 9
+:::::9
+:50
+Image 127 - Desired Output 9 - 9
+7.01278e-12 - I max: 0
+7.46833e-09 - I max: 1
+0.118018 - I max: 8
+0.809501 - I max: 9
+:::::9
+:2
+Image 128 - Desired Output 8 - 9
+3.51115e-13 - I max: 0
+1.65725e-09 - I max: 1
+0.0034383 - I max: 8
+0.999858 - I max: 9
+:::::9
+:51
+Image 129 - Desired Output 9 - 9
+5.50113e-11 - I max: 0
+1.88186e-08 - I max: 1
+1.29163e-06 - I max: 7
+0.926868 - I max: 8
+:::::8
+:18
+Image 130 - Desired Output 8 - 8
+6.33273e-08 - I max: 0
+3.44278e-07 - I max: 1
+3.93836e-07 - I max: 3
+0.000170309 - I max: 5
+0.641612 - I max: 6
+:::::6
+:10
+Image 131 - Desired Output 6 - 6
+4.77209e-08 - I max: 0
+2.57353e-07 - I max: 1
+3.03049e-07 - I max: 3
+0.00100257 - I max: 5
+0.966439 - I max: 6
+:::::6
+:11
+Image 132 - Desired Output 6 - 6
+5.81774e-13 - I max: 0
+2.25472e-09 - I max: 1
+0.00318871 - I max: 8
+0.999255 - I max: 9
+:::::9
+:52
+Image 133 - Desired Output 9 - 9
+8.30538e-11 - I max: 0
+2.2296e-08 - I max: 1
+3.65721e-06 - I max: 7
+0.965789 - I max: 8
+:::::8
+:19
+Image 134 - Desired Output 8 - 8
+1.21577e-07 - I max: 0
+4.6785e-07 - I max: 1
+7.12856e-07 - I max: 3
+6.92301e-06 - I max: 5
+0.00385081 - I max: 6
+0.985669 - I max: 7
+:::::7
+:10
+Image 135 - Desired Output 7 - 7
+2.57023e-09 - I max: 0
+9.69975e-08 - I max: 1
+2.20073e-07 - I max: 6
+0.0164692 - I max: 7
+0.972837 - I max: 8
+:::::8
+:20
+Image 136 - Desired Output 8 - 8
+4.66431e-13 - I max: 0
+1.99141e-09 - I max: 1
+0.00304173 - I max: 8
+0.999617 - I max: 9
+:::::9
+:53
+Image 137 - Desired Output 9 - 9
+0.597178 - I max: 0
+:::::0
+:12
+Image 138 - Desired Output 0 - 0
+3.52392e-08 - I max: 0
+1.86083e-07 - I max: 1
+2.22932e-07 - I max: 3
+0.0052193 - I max: 5
+0.994097 - I max: 6
+:::::6
+:12
+Image 139 - Desired Output 6 - 6
+4.51966e-13 - I max: 0
+1.95351e-09 - I max: 1
+0.00304574 - I max: 8
+0.999646 - I max: 9
+:::::9
+:54
+Image 140 - Desired Output 9 - 9
+2.57315e-08 - I max: 0
+2.37268e-07 - I max: 1
+2.61108e-07 - I max: 3
+9.70854e-07 - I max: 5
+5.19308e-05 - I max: 6
+0.830247 - I max: 7
+:::::7
+:11
+Image 141 - Desired Output 7 - 7
+1.01652e-12 - I max: 0
+2.9711e-09 - I max: 1
+0.00478233 - I max: 8
+0.99695 - I max: 9
+:::::9
+:55
+Image 142 - Desired Output 9 - 9
+4.98189e-08 - I max: 0
+2.78416e-07 - I max: 1
+3.17918e-07 - I max: 3
+0.000576792 - I max: 5
+0.928154 - I max: 6
+:::::6
+:13
+Image 143 - Desired Output 6 - 6
+6.63124e-08 - I max: 0
+3.59624e-07 - I max: 1
+4.67598e-07 - I max: 3
+3.1211e-06 - I max: 5
+0.000635607 - I max: 6
+0.965713 - I max: 7
+:::::7
+:12
+Image 144 - Desired Output 7 - 7
+1.4406e-07 - I max: 0
+5.06647e-07 - I max: 1
+7.95263e-07 - I max: 3
+9.01189e-06 - I max: 5
+0.00720507 - I max: 6
+0.987672 - I max: 7
+:::::7
+:13
+Image 145 - Desired Output 7 - 7
+6.89345e-06 - I max: 0
+7.90898e-05 - I max: 1
+0.00111322 - I max: 2
+0.965807 - I max: 3
+:::::3
+:4
+Image 146 - Desired Output 3 - 3
+0.998331 - I max: 0
+:::::0
+:13
+Image 147 - Desired Output 0 - 0
+3.32673e-12 - I max: 0
+5.34329e-09 - I max: 1
+0.0308346 - I max: 8
+0.953866 - I max: 9
+:::::9
+:56
+Image 148 - Desired Output 9 - 9
+5.67828e-05 - I max: 0
+0.0154957 - I max: 1
+0.986279 - I max: 2
+:::::2
+:4
+Image 149 - Desired Output 2 - 2
+1.45739e-06 - I max: 0
+8.29812e-06 - I max: 1
+1.01462e-05 - I max: 2
+0.00204151 - I max: 3
+0.962018 - I max: 4
+:::::4
+:9
+Image 150 - Desired Output 4 - 4
+1.6836e-07 - I max: 0
+5.59856e-07 - I max: 1
+8.83276e-07 - I max: 3
+1.3234e-05 - I max: 5
+0.0173943 - I max: 6
+0.987216 - I max: 7
+:::::7
+:14
+Image 151 - Desired Output 7 - 7
+5.04878e-05 - I max: 0
+0.00410765 - I max: 1
+0.797732 - I max: 2
+:::::2
+:5
+Image 152 - Desired Output 2 - 2
+1.55664e-06 - I max: 0
+5.30224e-06 - I max: 1
+0.000221745 - I max: 3
+0.175135 - I max: 4
+0.841514 - I max: 5
+:::::5
+:2
+Image 153 - Desired Output 4 - 5
+4.72256e-05 - I max: 0
+0.010476 - I max: 1
+0.985697 - I max: 2
+:::::2
+:6
+Image 154 - Desired Output 2 - 2
+3.99619e-05 - I max: 0
+0.00210639 - I max: 1
+0.436364 - I max: 2
+0.477162 - I max: 3
+:::::3
+:3
+Image 155 - Desired Output 2 - 3
+1.90481e-06 - I max: 0
+5.05191e-06 - I max: 1
+9.15187e-05 - I max: 3
+0.0310942 - I max: 4
+0.974506 - I max: 5
+:::::5
+:3
+Image 156 - Desired Output 4 - 5
+5.09996e-08 - I max: 0
+3.22152e-07 - I max: 1
+3.89882e-07 - I max: 3
+2.24525e-06 - I max: 5
+0.000312263 - I max: 6
+0.947607 - I max: 7
+:::::7
+:15
+Image 157 - Desired Output 7 - 7
+4.8079e-05 - I max: 0
+0.00331568 - I max: 1
+0.687586 - I max: 2
+:::::2
+:7
+Image 158 - Desired Output 2 - 2
+5.22225e-05 - I max: 0
+0.0136911 - I max: 1
+0.988442 - I max: 2
+:::::2
+:8
+Image 159 - Desired Output 2 - 2
+5.21154e-12 - I max: 0
+6.50795e-09 - I max: 1
+0.0728404 - I max: 8
+0.88327 - I max: 9
+:::::9
+:3
+Image 160 - Desired Output 8 - 9
+1.09692e-11 - I max: 0
+9.33878e-09 - I max: 1
+2.14454e-08 - I max: 7
+0.272466 - I max: 8
+0.611252 - I max: 9
+:::::9
+:4
+Image 161 - Desired Output 8 - 9
+0.998361 - I max: 0
+:::::0
+:14
+Image 162 - Desired Output 0 - 0
+2.17918e-11 - I max: 0
+1.2386e-08 - I max: 1
+1.27983e-07 - I max: 7
+0.635585 - I max: 8
+:::::8
+:21
+Image 163 - Desired Output 8 - 8
+6.66798e-08 - I max: 0
+3.51407e-07 - I max: 1
+4.76506e-07 - I max: 3
+3.24736e-06 - I max: 5
+0.000658892 - I max: 6
+0.967035 - I max: 7
+:::::7
+:16
+Image 164 - Desired Output 7 - 7
+1.12794e-12 - I max: 0
+3.13007e-09 - I max: 1
+0.00539569 - I max: 8
+0.996087 - I max: 9
+:::::9
+:57
+Image 165 - Desired Output 9 - 9
+1.37435e-12 - I max: 0
+3.46913e-09 - I max: 1
+0.00691908 - I max: 8
+0.993888 - I max: 9
+:::::9
+:58
+Image 166 - Desired Output 9 - 9
+5.27036e-13 - I max: 0
+2.12556e-09 - I max: 1
+0.00306824 - I max: 8
+0.999462 - I max: 9
+:::::9
+:59
+Image 167 - Desired Output 9 - 9
+7.1567e-12 - I max: 0
+7.45611e-09 - I max: 1
+7.60255e-09 - I max: 7
+0.130118 - I max: 8
+0.795063 - I max: 9
+:::::9
+:5
+Image 168 - Desired Output 8 - 9
+8.95294e-08 - I max: 0
+4.14045e-07 - I max: 1
+5.22578e-07 - I max: 3
+7.22344e-05 - I max: 5
+0.284729 - I max: 6
+0.767016 - I max: 7
+:::::7
+:1
+Image 169 - Desired Output 6 - 7
+1.62732e-07 - I max: 0
+5.47679e-07 - I max: 1
+8.70478e-07 - I max: 3
+1.07259e-05 - I max: 5
+0.0110683 - I max: 6
+0.988773 - I max: 7
+:::::7
+:17
+Image 170 - Desired Output 7 - 7
+3.43691e-06 - I max: 0
+2.30481e-05 - I max: 1
+3.33117e-05 - I max: 2
+0.0104259 - I max: 3
+0.987829 - I max: 4
+:::::4
+:10
+Image 171 - Desired Output 4 - 4
+3.70097e-12 - I max: 0
+5.46538e-09 - I max: 1
+0.0377002 - I max: 8
+0.941093 - I max: 9
+:::::9
+:60
+Image 172 - Desired Output 9 - 9
+5.48924e-11 - I max: 0
+1.85237e-08 - I max: 1
+1.30342e-06 - I max: 7
+0.925422 - I max: 8
+:::::8
+:22
+Image 173 - Desired Output 8 - 8
+3.79959e-10 - I max: 0
+4.50735e-08 - I max: 1
+0.000145124 - I max: 7
+0.995098 - I max: 8
+:::::8
+:23
+Image 174 - Desired Output 8 - 8
+5.00629e-09 - I max: 0
+1.25866e-07 - I max: 1
+1.32132e-07 - I max: 5
+1.00183e-06 - I max: 6
+0.0839929 - I max: 7
+0.892527 - I max: 8
+:::::8
+:24
+Image 175 - Desired Output 8 - 8
+5.07566e-11 - I max: 0
+1.82328e-08 - I max: 1
+1.04594e-06 - I max: 7
+0.914792 - I max: 8
+:::::8
+:25
+Image 176 - Desired Output 8 - 8
+4.72529e-09 - I max: 0
+1.21529e-07 - I max: 1
+1.23472e-07 - I max: 5
+8.7877e-07 - I max: 6
+0.0725245 - I max: 7
+0.90738 - I max: 8
+:::::8
+:26
+Image 177 - Desired Output 8 - 8
+7.9516e-09 - I max: 0
+1.50645e-07 - I max: 1
+2.31082e-07 - I max: 5
+2.94711e-06 - I max: 6
+0.232999 - I max: 7
+0.728625 - I max: 8
+:::::8
+:2
+Image 178 - Desired Output 7 - 8
+1.82775e-07 - I max: 0
+6.00925e-07 - I max: 1
+9.4617e-07 - I max: 3
+1.33165e-05 - I max: 5
+0.0189681 - I max: 6
+0.988924 - I max: 7
+:::::7
+:18
+Image 179 - Desired Output 7 - 7
+8.33474e-10 - I max: 0
+6.11628e-08 - I max: 1
+0.000975943 - I max: 7
+0.995345 - I max: 8
+:::::8
+:27
+Image 180 - Desired Output 8 - 8
+3.03961e-08 - I max: 0
+1.69209e-07 - I max: 1
+1.96136e-07 - I max: 3
+0.0105439 - I max: 5
+0.991545 - I max: 6
+:::::6
+:14
+Image 181 - Desired Output 6 - 6
+2.43211e-12 - I max: 0
+4.50944e-09 - I max: 1
+0.0167567 - I max: 8
+0.977285 - I max: 9
+:::::9
+:61
+Image 182 - Desired Output 9 - 9
+1.36974e-07 - I max: 0
+4.9929e-07 - I max: 1
+7.73536e-07 - I max: 3
+8.06395e-06 - I max: 5
+0.00560272 - I max: 6
+0.98741 - I max: 7
+:::::7
+:19
+Image 183 - Desired Output 7 - 7
+1.78437e-10 - I max: 0
+3.26823e-08 - I max: 1
+2.28481e-05 - I max: 7
+0.990542 - I max: 8
+:::::8
+:28
+Image 184 - Desired Output 8 - 8
+8.98448e-13 - I max: 0
+2.80165e-09 - I max: 1
+0.00430015 - I max: 8
+0.997702 - I max: 9
+:::::9
+:62
+Image 185 - Desired Output 9 - 9
+9.9235e-06 - I max: 0
+0.000167052 - I max: 1
+0.00595275 - I max: 2
+0.986738 - I max: 3
+:::::3
+:5
+Image 186 - Desired Output 3 - 3
+1.25707e-07 - I max: 0
+4.74185e-07 - I max: 1
+7.27002e-07 - I max: 3
+7.2974e-06 - I max: 5
+0.00436054 - I max: 6
+0.986142 - I max: 7
+:::::7
+:20
+Image 187 - Desired Output 7 - 7
+3.87765e-06 - I max: 0
+3.17346e-05 - I max: 1
+8.09305e-05 - I max: 2
+0.0720092 - I max: 3
+0.926341 - I max: 4
+:::::4
+:2
+Image 188 - Desired Output 3 - 4
+7.82485e-06 - I max: 0
+9.24718e-05 - I max: 1
+0.00152472 - I max: 2
+0.979369 - I max: 3
+:::::3
+:6
+Image 189 - Desired Output 3 - 3
+1.5395e-07 - I max: 0
+5.34384e-07 - I max: 1
+8.11967e-07 - I max: 3
+2.02572e-05 - I max: 5
+0.0380128 - I max: 6
+0.976121 - I max: 7
+:::::7
+:21
+Image 190 - Desired Output 7 - 7
+1.82669e-07 - I max: 0
+6.01283e-07 - I max: 1
+2.01768e-06 - I max: 3
+1.1897e-05 - I max: 4
+0.763218 - I max: 5
+:::::5
+:6
+Image 191 - Desired Output 5 - 5
+4.26572e-06 - I max: 0
+4.12449e-05 - I max: 1
+0.00020212 - I max: 2
+0.435134 - I max: 3
+0.536687 - I max: 4
+:::::4
+:3
+Image 192 - Desired Output 3 - 4
+4.82135e-08 - I max: 0
+2.59049e-07 - I max: 1
+3.05093e-07 - I max: 3
+0.000962817 - I max: 5
+0.963832 - I max: 6
+:::::6
+:15
+Image 193 - Desired Output 6 - 6
+0.997352 - I max: 0
+:::::0
+:15
+Image 194 - Desired Output 0 - 0
+3.63893e-08 - I max: 0
+1.89198e-07 - I max: 1
+2.2966e-07 - I max: 3
+0.00434633 - I max: 5
+0.993954 - I max: 6
+:::::6
+:16
+Image 195 - Desired Output 6 - 6
+1.38092e-06 - I max: 0
+6.29502e-06 - I max: 1
+0.00071056 - I max: 3
+0.711946 - I max: 4
+:::::4
+:11
+Image 196 - Desired Output 4 - 4
+1.74042e-07 - I max: 0
+5.8273e-07 - I max: 1
+9.05866e-07 - I max: 3
+1.53089e-05 - I max: 5
+0.0243138 - I max: 6
+0.98609 - I max: 7
+:::::7
+:22
+Image 197 - Desired Output 7 - 7
+7.07991e-09 - I max: 0
+1.43032e-07 - I max: 1
+2.00934e-07 - I max: 5
+2.26144e-06 - I max: 6
+0.182191 - I max: 7
+0.783058 - I max: 8
+:::::8
+:29
+Image 198 - Desired Output 8 - 8
+0.883091 - I max: 0
+:::::0
+:16
+Image 199 - Desired Output 0 - 0
+1.93164e-06 - I max: 0
+5.02855e-06 - I max: 1
+8.60672e-05 - I max: 3
+0.0274186 - I max: 4
+0.977733 - I max: 5
+:::::5
+:7
+Image 200 - Desired Output 5 - 5
+2.58225e-06 - I max: 0
+1.6499e-05 - I max: 1
+2.20951e-05 - I max: 2
+0.00590215 - I max: 3
+0.987383 - I max: 4
+:::::4
+:12
+Image 201 - Desired Output 4 - 4
+1.5764e-07 - I max: 0
+5.42295e-07 - I max: 1
+8.50647e-07 - I max: 3
+9.8462e-06 - I max: 5
+0.00918984 - I max: 6
+0.98884 - I max: 7
+:::::7
+:23
+Image 202 - Desired Output 7 - 7
+1.21423e-06 - I max: 0
+2.70792e-06 - I max: 1
+2.20381e-05 - I max: 3
+0.00199063 - I max: 4
+0.992586 - I max: 5
+:::::5
+:8
+Image 203 - Desired Output 5 - 5
+0.0244999 - I max: 0
+0.978467 - I max: 1
+:::::1
+:3
+Image 204 - Desired Output 1 - 1
+8.67061e-06 - I max: 0
+0.000107112 - I max: 1
+0.00208509 - I max: 2
+0.986043 - I max: 3
+:::::3
+:7
+Image 205 - Desired Output 3 - 3
+1.76729e-05 - I max: 0
+0.000515428 - I max: 1
+0.0516863 - I max: 2
+0.920616 - I max: 3
+:::::3
+:8
+Image 206 - Desired Output 3 - 3
+1.00722e-07 - I max: 0
+3.86013e-07 - I max: 1
+9.62549e-07 - I max: 3
+2.86817e-06 - I max: 4
+0.437494 - I max: 5
+0.557534 - I max: 6
+:::::6
+:3
+Image 207 - Desired Output 5 - 6
+7.32699e-06 - I max: 0
+8.60314e-05 - I max: 1
+0.0013678 - I max: 2
+0.975991 - I max: 3
+:::::3
+:9
+Image 208 - Desired Output 3 - 3
+8.9254e-05 - I max: 0
+0.0470594 - I max: 1
+0.957553 - I max: 2
+:::::2
+:9
+Image 209 - Desired Output 2 - 2
+3.18296e-13 - I max: 0
+1.55917e-09 - I max: 1
+0.0036355 - I max: 8
+0.999894 - I max: 9
+:::::9
+:63
+Image 210 - Desired Output 9 - 9
+0.00383546 - I max: 0
+0.988354 - I max: 1
+:::::1
+:4
+Image 211 - Desired Output 1 - 1
+1.52091e-10 - I max: 0
+2.94271e-08 - I max: 1
+1.60452e-05 - I max: 7
+0.988002 - I max: 8
+:::::8
+:30
+Image 212 - Desired Output 8 - 8
+0.998369 - I max: 0
+:::::0
+:17
+Image 213 - Desired Output 0 - 0
+0.0106999 - I max: 0
+0.987825 - I max: 1
+:::::1
+:5
+Image 214 - Desired Output 1 - 1
+0.998136 - I max: 0
+:::::0
+:18
+Image 215 - Desired Output 0 - 0
+1.43948e-12 - I max: 0
+3.5324e-09 - I max: 1
+0.00732506 - I max: 8
+0.993107 - I max: 9
+:::::9
+:64
+Image 216 - Desired Output 9 - 9
+8.40821e-13 - I max: 0
+2.69295e-09 - I max: 1
+0.00401311 - I max: 8
+0.998056 - I max: 9
+:::::9
+:65
+Image 217 - Desired Output 9 - 9
+2.01211e-08 - I max: 0
+2.17646e-07 - I max: 1
+2.26877e-07 - I max: 3
+7.10456e-07 - I max: 5
+2.77014e-05 - I max: 6
+0.740672 - I max: 7
+:::::7
+:24
+Image 218 - Desired Output 7 - 7
+2.16054e-10 - I max: 0
+3.51122e-08 - I max: 1
+3.68757e-05 - I max: 7
+0.99242 - I max: 8
+:::::8
+:31
+Image 219 - Desired Output 8 - 8
+6.74082e-11 - I max: 0
+2.01124e-08 - I max: 1
+2.2114e-06 - I max: 7
+0.949157 - I max: 8
+:::::8
+:32
+Image 220 - Desired Output 8 - 8
+8.69023e-10 - I max: 0
+6.34163e-08 - I max: 1
+0.00110167 - I max: 7
+0.99424 - I max: 8
+:::::8
+:33
+Image 221 - Desired Output 8 - 8
+3.81083e-07 - I max: 0
+1.0008e-06 - I max: 1
+5.07675e-06 - I max: 3
+8.36085e-05 - I max: 4
+0.966178 - I max: 5
+:::::5
+:9
+Image 222 - Desired Output 5 - 5
+6.02491e-08 - I max: 0
+3.23953e-07 - I max: 1
+3.75037e-07 - I max: 3
+0.000246585 - I max: 5
+0.754225 - I max: 6
+:::::6
+:17
+Image 223 - Desired Output 6 - 6
+2.76688e-06 - I max: 0
+1.78581e-05 - I max: 1
+2.42144e-05 - I max: 2
+0.00663294 - I max: 3
+0.988114 - I max: 4
+:::::4
+:13
+Image 224 - Desired Output 4 - 4
+3.81806e-07 - I max: 0
+1.04846e-06 - I max: 1
+5.00209e-06 - I max: 3
+7.84059e-05 - I max: 4
+0.946015 - I max: 5
+:::::5
+:10
+Image 225 - Desired Output 5 - 5
+5.8415e-13 - I max: 0
+2.25559e-09 - I max: 1
+0.00318403 - I max: 8
+0.99924 - I max: 9
+:::::9
+:66
+Image 226 - Desired Output 9 - 9
+3.3457e-08 - I max: 0
+1.79302e-07 - I max: 1
+2.11949e-07 - I max: 3
+0.00597795 - I max: 5
+0.993834 - I max: 6
+:::::6
+:18
+Image 227 - Desired Output 6 - 6
+9.50451e-10 - I max: 0
+6.44672e-08 - I max: 1
+0.00135071 - I max: 7
+0.994728 - I max: 8
+:::::8
+:34
+Image 228 - Desired Output 8 - 8
+1.6167e-07 - I max: 0
+5.4219e-07 - I max: 1
+8.59074e-07 - I max: 3
+1.15028e-05 - I max: 5
+0.0126215 - I max: 6
+0.987862 - I max: 7
+:::::7
+:25
+Image 229 - Desired Output 7 - 7
+4.88883e-13 - I max: 0
+2.03852e-09 - I max: 1
+0.00304026 - I max: 8
+0.999552 - I max: 9
+:::::9
+:67
+Image 230 - Desired Output 9 - 9
+1.85583e-09 - I max: 0
+8.65591e-08 - I max: 1
+1.09638e-07 - I max: 6
+0.00732621 - I max: 7
+0.983365 - I max: 8
+:::::8
+:35
+Image 231 - Desired Output 8 - 8
+1.0847e-11 - I max: 0
+8.88728e-09 - I max: 1
+2.251e-08 - I max: 7
+0.269866 - I max: 8
+0.606032 - I max: 9
+:::::9
+:6
+Image 232 - Desired Output 8 - 9
+9.7325e-08 - I max: 0
+4.1906e-07 - I max: 1
+6.10858e-07 - I max: 3
+5.22844e-06 - I max: 5
+0.00196956 - I max: 6
+0.980943 - I max: 7
+:::::7
+:26
+Image 233 - Desired Output 7 - 7
+4.09409e-12 - I max: 0
+5.8733e-09 - I max: 1
+0.041969 - I max: 8
+0.932875 - I max: 9
+:::::9
+:68
+Image 234 - Desired Output 9 - 9
+8.33431e-07 - I max: 0
+1.90796e-06 - I max: 1
+1.35945e-05 - I max: 3
+0.000726202 - I max: 4
+0.990611 - I max: 5
+:::::5
+:11
+Image 235 - Desired Output 5 - 5
+5.34276e-08 - I max: 0
+2.95253e-07 - I max: 1
+3.37722e-07 - I max: 3
+0.000414381 - I max: 5
+0.879911 - I max: 6
+:::::6
+:19
+Image 236 - Desired Output 6 - 6
+6.77327e-08 - I max: 0
+3.53558e-07 - I max: 1
+4.80773e-07 - I max: 3
+3.32106e-06 - I max: 5
+0.000692265 - I max: 6
+0.967999 - I max: 7
+:::::7
+:27
+Image 237 - Desired Output 7 - 7
+0.99855 - I max: 0
+:::::0
+:19
+Image 238 - Desired Output 0 - 0
+0.990118 - I max: 0
+:::::0
+:20
+Image 239 - Desired Output 0 - 0
+0.00376149 - I max: 0
+0.988367 - I max: 1
+:::::1
+:6
+Image 240 - Desired Output 1 - 1
+0.00764431 - I max: 0
+0.988737 - I max: 1
+:::::1
+:7
+Image 241 - Desired Output 1 - 1
+1.4138e-06 - I max: 0
+6.9266e-06 - I max: 1
+7.13338e-06 - I max: 2
+0.00101282 - I max: 3
+0.8439 - I max: 4
+:::::4
+:14
+Image 242 - Desired Output 4 - 4
+0.463546 - I max: 0
+0.550686 - I max: 1
+:::::1
+:4
+Image 243 - Desired Output 0 - 1
+6.64889e-05 - I max: 0
+0.0222455 - I max: 1
+0.980356 - I max: 2
+:::::2
+:10
+Image 244 - Desired Output 2 - 2
+6.60866e-12 - I max: 0
+7.13145e-09 - I max: 1
+0.113697 - I max: 8
+0.816899 - I max: 9
+:::::9
+:69
+Image 245 - Desired Output 9 - 9
+3.91556e-06 - I max: 0
+3.76638e-05 - I max: 1
+0.000175311 - I max: 2
+0.367654 - I max: 3
+0.58227 - I max: 4
+:::::4
+:4
+Image 246 - Desired Output 3 - 4
+1.63339e-06 - I max: 0
+9.65757e-06 - I max: 1
+1.22832e-05 - I max: 2
+0.00272041 - I max: 3
+0.975047 - I max: 4
+:::::4
+:15
+Image 247 - Desired Output 4 - 4
+5.71512e-09 - I max: 0
+1.32042e-07 - I max: 1
+1.55355e-07 - I max: 5
+1.3717e-06 - I max: 6
+0.114294 - I max: 7
+0.856667 - I max: 8
+:::::8
+:36
+Image 248 - Desired Output 8 - 8
+4.58771e-11 - I max: 0
+1.73245e-08 - I max: 1
+8.27373e-07 - I max: 7
+0.897587 - I max: 8
+:::::8
+:37
+Image 249 - Desired Output 8 - 8
+0.0682524 - I max: 0
+0.941043 - I max: 1
+:::::1
+:5
+Image 250 - Desired Output 0 - 1
+5.86501e-05 - I max: 0
+0.016452 - I max: 1
+0.985764 - I max: 2
+:::::2
+:11
+Image 251 - Desired Output 2 - 2
+4.62845e-08 - I max: 0
+2.48971e-07 - I max: 1
+2.95136e-07 - I max: 3
+0.00126973 - I max: 5
+0.977948 - I max: 6
+:::::6
+:20
+Image 252 - Desired Output 6 - 6
+0.218973 - I max: 0
+0.794662 - I max: 1
+:::::1
+:6
+Image 253 - Desired Output 0 - 1
+5.37383e-10 - I max: 0
+5.07452e-08 - I max: 1
+0.000337129 - I max: 7
+0.995929 - I max: 8
+:::::8
+:38
+Image 254 - Desired Output 8 - 8
+4.64702e-08 - I max: 0
+2.59473e-07 - I max: 1
+2.99348e-07 - I max: 3
+0.000997073 - I max: 5
+0.972938 - I max: 6
+:::::6
+:21
+Image 255 - Desired Output 6 - 6
+0.00229941 - I max: 0
+0.987032 - I max: 1
+:::::1
+:8
+Image 256 - Desired Output 1 - 1
+0.00179045 - I max: 0
+0.985402 - I max: 1
+:::::1
+:9
+Image 257 - Desired Output 1 - 1
+4.38045e-06 - I max: 0
+4.33173e-05 - I max: 1
+0.000242035 - I max: 2
+0.543085 - I max: 3
+:::::3
+:10
+Image 258 - Desired Output 3 - 3
+0.997834 - I max: 0
+:::::0
+:21
+Image 259 - Desired Output 0 - 0
+0.995333 - I max: 0
+:::::0
+:22
+Image 260 - Desired Output 0 - 0
+3.35809e-08 - I max: 0
+2.68119e-07 - I max: 1
+3.04891e-07 - I max: 3
+1.33899e-06 - I max: 5
+0.000101017 - I max: 6
+0.894765 - I max: 7
+:::::7
+:28
+Image 261 - Desired Output 7 - 7
+4.14667e-13 - I max: 0
+1.85833e-09 - I max: 1
+0.00312107 - I max: 8
+0.999737 - I max: 9
+:::::9
+:70
+Image 262 - Desired Output 9 - 9
+4.68814e-12 - I max: 0
+6.13567e-09 - I max: 1
+0.057763 - I max: 8
+0.906889 - I max: 9
+:::::9
+:7
+Image 263 - Desired Output 8 - 9
+2.59584e-12 - I max: 0
+4.66861e-09 - I max: 1
+0.0196606 - I max: 8
+0.972897 - I max: 9
+:::::9
+:71
+Image 264 - Desired Output 9 - 9
+1.11476e-07 - I max: 0
+4.71474e-07 - I max: 1
+6.2751e-07 - I max: 3
+4.22912e-05 - I max: 5
+0.139854 - I max: 6
+0.904605 - I max: 7
+:::::7
+:2
+Image 265 - Desired Output 6 - 7
+2.83769e-12 - I max: 0
+4.86975e-09 - I max: 1
+0.0226288 - I max: 8
+0.967425 - I max: 9
+:::::9
+:72
+Image 266 - Desired Output 9 - 9
+7.18034e-13 - I max: 0
+2.49302e-09 - I max: 1
+0.00347033 - I max: 8
+0.998783 - I max: 9
+:::::9
+:73
+Image 267 - Desired Output 9 - 9
+3.34042e-13 - I max: 0
+1.64327e-09 - I max: 1
+0.00341706 - I max: 8
+0.999862 - I max: 9
+:::::9
+:74
+Image 268 - Desired Output 9 - 9
+2.90831e-12 - I max: 0
+4.94269e-09 - I max: 1
+0.0238975 - I max: 8
+0.965381 - I max: 9
+:::::9
+:75
+Image 269 - Desired Output 9 - 9
+1.96556e-11 - I max: 0
+1.2029e-08 - I max: 1
+9.51433e-08 - I max: 7
+0.57799 - I max: 8
+:::::8
+:39
+Image 270 - Desired Output 8 - 8
+1.19122e-12 - I max: 0
+3.21883e-09 - I max: 1
+0.00582516 - I max: 8
+0.995552 - I max: 9
+:::::9
+:76
+Image 271 - Desired Output 9 - 9
+1.14817e-07 - I max: 0
+4.57061e-07 - I max: 1
+6.86475e-07 - I max: 3
+6.39656e-06 - I max: 5
+0.00318636 - I max: 6
+0.984647 - I max: 7
+:::::7
+:29
+Image 272 - Desired Output 7 - 7
+3.38573e-10 - I max: 0
+4.18554e-08 - I max: 1
+0.000112505 - I max: 7
+0.995232 - I max: 8
+:::::8
+:40
+Image 273 - Desired Output 8 - 8
+1.88707e-12 - I max: 0
+4.05036e-09 - I max: 1
+0.0105248 - I max: 8
+0.987684 - I max: 9
+:::::9
+:77
+Image 274 - Desired Output 9 - 9
+3.70943e-06 - I max: 0
+2.54318e-05 - I max: 1
+3.87248e-05 - I max: 2
+0.0133523 - I max: 3
+0.986361 - I max: 4
+:::::4
+:16
+Image 275 - Desired Output 4 - 4
+5.78435e-13 - I max: 0
+2.2349e-09 - I max: 1
+0.00315031 - I max: 8
+0.999293 - I max: 9
+:::::9
+:78
+Image 276 - Desired Output 9 - 9
+3.54698e-08 - I max: 0
+1.86734e-07 - I max: 1
+2.24247e-07 - I max: 3
+0.00504495 - I max: 5
+0.994086 - I max: 6
+:::::6
+:22
+Image 277 - Desired Output 6 - 6
+7.64797e-10 - I max: 0
+6.03626e-08 - I max: 1
+0.000789852 - I max: 7
+0.995327 - I max: 8
+:::::8
+:41
+Image 278 - Desired Output 8 - 8
+2.25706e-11 - I max: 0
+1.27106e-08 - I max: 1
+1.36952e-07 - I max: 7
+0.651743 - I max: 8
+:::::8
+:42
+Image 279 - Desired Output 8 - 8
+1.10532e-07 - I max: 0
+4.55241e-07 - I max: 1
+6.17988e-07 - I max: 3
+4.69017e-05 - I max: 5
+0.151336 - I max: 6
+0.890742 - I max: 7
+:::::7
+:3
+Image 280 - Desired Output 6 - 7
+3.56456e-08 - I max: 0
+1.87284e-07 - I max: 1
+2.25498e-07 - I max: 3
+0.00489394 - I max: 5
+0.994094 - I max: 6
+:::::6
+:23
+Image 281 - Desired Output 6 - 6
+5.05722e-11 - I max: 0
+1.79402e-08 - I max: 1
+1.06214e-06 - I max: 7
+0.91332 - I max: 8
+:::::8
+:43
+Image 282 - Desired Output 8 - 8
+3.90338e-08 - I max: 0
+2.01813e-07 - I max: 1
+2.47573e-07 - I max: 3
+0.00407885 - I max: 5
+0.994309 - I max: 6
+:::::6
+:24
+Image 283 - Desired Output 6 - 6
+1.70754e-07 - I max: 0
+5.6736e-07 - I max: 1
+8.98704e-07 - I max: 3
+1.2172e-05 - I max: 5
+0.0147828 - I max: 6
+0.988515 - I max: 7
+:::::7
+:30
+Image 284 - Desired Output 7 - 7
+5.00803e-05 - I max: 0
+0.00786459 - I max: 1
+0.9692 - I max: 2
+:::::2
+:12
+Image 285 - Desired Output 2 - 2
+7.29361e-08 - I max: 0
+3.24725e-07 - I max: 1
+6.18567e-07 - I max: 3
+1.34166e-06 - I max: 4
+0.157409 - I max: 5
+0.863111 - I max: 6
+:::::6
+:4
+Image 286 - Desired Output 5 - 6
+6.27127e-13 - I max: 0
+2.31506e-09 - I max: 1
+0.0032673 - I max: 8
+0.999093 - I max: 9
+:::::9
+:79
+Image 287 - Desired Output 9 - 9
+3.84903e-13 - I max: 0
+1.78425e-09 - I max: 1
+0.00316001 - I max: 8
+0.999779 - I max: 9
+:::::9
+:80
+Image 288 - Desired Output 9 - 9
+9.65059e-12 - I max: 0
+8.6369e-09 - I max: 1
+1.58599e-08 - I max: 7
+0.219009 - I max: 8
+0.672192 - I max: 9
+:::::9
+:8
+Image 289 - Desired Output 8 - 9
+5.64818e-11 - I max: 0
+1.91617e-08 - I max: 1
+1.37122e-06 - I max: 7
+0.931043 - I max: 8
+:::::8
+:44
+Image 290 - Desired Output 8 - 8
+7.53011e-10 - I max: 0
+5.85382e-08 - I max: 1
+0.000763818 - I max: 7
+0.995584 - I max: 8
+:::::8
+:45
+Image 291 - Desired Output 8 - 8
+4.16833e-12 - I max: 0
+5.93785e-09 - I max: 1
+0.0427252 - I max: 8
+0.930932 - I max: 9
+:::::9
+:9
+Image 292 - Desired Output 8 - 9
+1.57513e-06 - I max: 0
+5.43424e-06 - I max: 1
+0.000239138 - I max: 3
+0.195393 - I max: 4
+0.826329 - I max: 5
+:::::5
+:4
+Image 293 - Desired Output 4 - 5
+3.39139e-10 - I max: 0
+4.21494e-08 - I max: 1
+0.000111315 - I max: 7
+0.9952 - I max: 8
+:::::8
+:46
+Image 294 - Desired Output 8 - 8
+0.978158 - I max: 0
+:::::0
+:23
+Image 295 - Desired Output 0 - 0
+4.09192e-12 - I max: 0
+5.88792e-09 - I max: 1
+0.0436915 - I max: 8
+0.931054 - I max: 9
+:::::9
+:81
+Image 296 - Desired Output 9 - 9
+2.75934e-12 - I max: 0
+4.80418e-09 - I max: 1
+0.0216259 - I max: 8
+0.96892 - I max: 9
+:::::9
+:82
+Image 297 - Desired Output 9 - 9
+3.69742e-08 - I max: 0
+1.96312e-07 - I max: 1
+2.35865e-07 - I max: 3
+0.00551057 - I max: 5
+0.994395 - I max: 6
+:::::6
+:25
+Image 298 - Desired Output 6 - 6
+5.20311e-11 - I max: 0
+1.89114e-08 - I max: 1
+1.02632e-06 - I max: 7
+0.910643 - I max: 8
+:::::8
+:47
+Image 299 - Desired Output 8 - 8
+6.8097e-08 - I max: 0
+3.52857e-07 - I max: 1
+4.15397e-07 - I max: 3
+0.000151867 - I max: 5
+0.580485 - I max: 6
+:::::6
+:26
+Image 300 - Desired Output 6 - 6
+5.55547e-13 - I max: 0
+2.20791e-09 - I max: 1
+0.0031195 - I max: 8
+0.999357 - I max: 9
+:::::9
+:83
+Image 301 - Desired Output 9 - 9
+1.60612e-08 - I max: 0
+1.97873e-07 - I max: 1
+2.01068e-07 - I max: 3
+5.40777e-07 - I max: 5
+1.59395e-05 - I max: 6
+0.629271 - I max: 7
+:::::7
+:31
+Image 302 - Desired Output 7 - 7
+3.87754e-08 - I max: 0
+2.76331e-07 - I max: 1
+3.35938e-07 - I max: 3
+1.64114e-06 - I max: 5
+0.000152391 - I max: 6
+0.918108 - I max: 7
+:::::7
+:32
+Image 303 - Desired Output 7 - 7
+6.43359e-08 - I max: 0
+3.62645e-07 - I max: 1
+4.01741e-07 - I max: 3
+0.000114958 - I max: 5
+0.500702 - I max: 6
+0.506231 - I max: 7
+:::::7
+:4
+Image 304 - Desired Output 6 - 7
+1.50842e-07 - I max: 0
+5.5222e-07 - I max: 1
+8.04131e-07 - I max: 3
+2.25419e-05 - I max: 5
+0.0507983 - I max: 6
+0.972295 - I max: 7
+:::::7
+:33
+Image 305 - Desired Output 7 - 7
+5.35143e-05 - I max: 0
+0.0139957 - I max: 1
+0.98775 - I max: 2
+:::::2
+:13
+Image 306 - Desired Output 2 - 2
+5.21491e-10 - I max: 0
+4.99664e-08 - I max: 1
+0.000317635 - I max: 7
+0.995978 - I max: 8
+:::::8
+:48
+Image 307 - Desired Output 8 - 8
+9.12867e-06 - I max: 0
+0.000116524 - I max: 1
+0.00247327 - I max: 2
+0.987905 - I max: 3
+:::::3
+:11
+Image 308 - Desired Output 3 - 3
+3.39966e-09 - I max: 0
+1.0845e-07 - I max: 1
+4.12552e-07 - I max: 6
+0.0329912 - I max: 7
+0.951309 - I max: 8
+:::::8
+:49
+Image 309 - Desired Output 8 - 8
+5.35235e-06 - I max: 0
+5.85672e-05 - I max: 1
+0.000577469 - I max: 2
+0.893109 - I max: 3
+:::::3
+:12
+Image 310 - Desired Output 3 - 3
+4.50628e-08 - I max: 0
+2.37332e-07 - I max: 1
+2.85095e-07 - I max: 3
+0.00153679 - I max: 5
+0.982099 - I max: 6
+:::::6
+:27
+Image 311 - Desired Output 6 - 6
+1.64951e-06 - I max: 0
+5.27731e-06 - I max: 1
+0.000179811 - I max: 3
+0.118766 - I max: 4
+0.896411 - I max: 5
+:::::5
+:5
+Image 312 - Desired Output 4 - 5
+9.32882e-08 - I max: 0
+4.17982e-07 - I max: 1
+5.91147e-07 - I max: 3
+4.86109e-06 - I max: 5
+0.00170455 - I max: 6
+0.979457 - I max: 7
+:::::7
+:34
+Image 313 - Desired Output 7 - 7
+6.55918e-09 - I max: 0
+1.41757e-07 - I max: 1
+1.82975e-07 - I max: 5
+1.88566e-06 - I max: 6
+0.159438 - I max: 7
+0.804115 - I max: 8
+:::::8
+:50
+Image 314 - Desired Output 8 - 8
+1.43777e-06 - I max: 0
+3.20422e-06 - I max: 1
+2.78923e-05 - I max: 3
+0.00314537 - I max: 4
+0.992968 - I max: 5
+:::::5
+:12
+Image 315 - Desired Output 5 - 5
+4.7844e-05 - I max: 0
+0.00336481 - I max: 1
+0.700904 - I max: 2
+:::::2
+:14
+Image 316 - Desired Output 2 - 2
+8.78487e-06 - I max: 0
+0.00010941 - I max: 1
+0.00218614 - I max: 2
+0.986316 - I max: 3
+:::::3
+:13
+Image 317 - Desired Output 3 - 3
+0.998688 - I max: 0
+:::::0
+:24
+Image 318 - Desired Output 0 - 0
+8.04046e-08 - I max: 0
+3.80915e-07 - I max: 1
+5.36342e-07 - I max: 3
+4.14997e-06 - I max: 5
+0.00114546 - I max: 6
+0.975112 - I max: 7
+:::::7
+:35
+Image 319 - Desired Output 7 - 7
+3.27699e-08 - I max: 0
+1.82027e-07 - I max: 1
+2.16983e-07 - I max: 3
+0.0144553 - I max: 5
+0.989368 - I max: 6
+:::::6
+:28
+Image 320 - Desired Output 6 - 6
+1.93881e-06 - I max: 0
+4.52587e-06 - I max: 1
+5.17821e-05 - I max: 3
+0.00995317 - I max: 4
+0.990175 - I max: 5
+:::::5
+:13
+Image 321 - Desired Output 5 - 5
+5.29546e-06 - I max: 0
+5.77446e-05 - I max: 1
+0.00055193 - I max: 2
+0.884297 - I max: 3
+:::::3
+:14
+Image 322 - Desired Output 3 - 3
+1.92531e-07 - I max: 0
+6.1396e-07 - I max: 1
+2.17081e-06 - I max: 3
+1.3883e-05 - I max: 4
+0.817854 - I max: 5
+:::::5
+:14
+Image 323 - Desired Output 5 - 5
+6.72101e-10 - I max: 0
+5.7294e-08 - I max: 1
+0.000581715 - I max: 7
+0.995158 - I max: 8
+:::::8
+:51
+Image 324 - Desired Output 8 - 8
+4.9606e-05 - I max: 0
+0.0127446 - I max: 1
+0.988587 - I max: 2
+:::::2
+:15
+Image 325 - Desired Output 2 - 2
+7.27496e-08 - I max: 0
+3.61893e-07 - I max: 1
+5.06471e-07 - I max: 3
+3.65041e-06 - I max: 5
+0.000847742 - I max: 6
+0.971454 - I max: 7
+:::::7
+:36
+Image 326 - Desired Output 7 - 7
+3.00275e-08 - I max: 0
+1.67377e-07 - I max: 1
+1.95098e-07 - I max: 3
+0.0121915 - I max: 5
+0.990445 - I max: 6
+:::::6
+:29
+Image 327 - Desired Output 6 - 6
+1.73701e-07 - I max: 0
+5.86898e-07 - I max: 1
+9.03332e-07 - I max: 3
+1.63909e-05 - I max: 5
+0.028305 - I max: 6
+0.984958 - I max: 7
+:::::7
+:37
+Image 328 - Desired Output 7 - 7
+1.01356e-07 - I max: 0
+4.58608e-07 - I max: 1
+5.82406e-07 - I max: 3
+4.64255e-05 - I max: 5
+0.168209 - I max: 6
+0.876628 - I max: 7
+:::::7
+:38
+Image 329 - Desired Output 7 - 7
+5.04501e-08 - I max: 0
+2.75212e-07 - I max: 1
+3.19253e-07 - I max: 3
+0.000665973 - I max: 5
+0.938219 - I max: 6
+:::::6
+:30
+Image 330 - Desired Output 6 - 6
+7.47074e-08 - I max: 0
+3.74133e-07 - I max: 1
+4.49398e-07 - I max: 3
+0.00011247 - I max: 5
+0.453723 - I max: 6
+0.577219 - I max: 7
+:::::7
+:5
+Image 331 - Desired Output 6 - 7
+1.67103e-07 - I max: 0
+5.55583e-07 - I max: 1
+8.7753e-07 - I max: 3
+1.3296e-05 - I max: 5
+0.0172769 - I max: 6
+0.986927 - I max: 7
+:::::7
+:39
+Image 332 - Desired Output 7 - 7
+4.59998e-08 - I max: 0
+2.45234e-07 - I max: 1
+2.92071e-07 - I max: 3
+0.00136406 - I max: 5
+0.979722 - I max: 6
+:::::6
+:31
+Image 333 - Desired Output 6 - 6
+1.94422e-06 - I max: 0
+4.58932e-06 - I max: 1
+5.49306e-05 - I max: 3
+0.0112113 - I max: 4
+0.989508 - I max: 5
+:::::5
+:15
+Image 334 - Desired Output 5 - 5
+3.66095e-06 - I max: 0
+2.53654e-05 - I max: 1
+3.96688e-05 - I max: 2
+0.014188 - I max: 3
+0.985449 - I max: 4
+:::::4
+:17
+Image 335 - Desired Output 4 - 4
+1.39996e-06 - I max: 0
+7.40102e-06 - I max: 1
+8.33828e-06 - I max: 2
+0.00140507 - I max: 3
+0.920229 - I max: 4
+:::::4
+:18
+Image 336 - Desired Output 4 - 4
+8.57793e-07 - I max: 0
+1.95627e-06 - I max: 1
+1.41522e-05 - I max: 3
+0.000793345 - I max: 4
+0.991091 - I max: 5
+:::::5
+:16
+Image 337 - Desired Output 5 - 5
+3.01832e-08 - I max: 0
+2.54448e-07 - I max: 1
+2.87691e-07 - I max: 3
+1.18205e-06 - I max: 5
+7.77074e-05 - I max: 6
+0.871553 - I max: 7
+:::::7
+:40
+Image 338 - Desired Output 7 - 7
+1.4015e-06 - I max: 0
+6.51964e-06 - I max: 1
+0.000790122 - I max: 3
+0.760489 - I max: 4
+:::::4
+:19
+Image 339 - Desired Output 4 - 4
+4.98938e-05 - I max: 0
+0.0076738 - I max: 1
+0.96637 - I max: 2
+:::::2
+:16
+Image 340 - Desired Output 2 - 2
+9.76278e-06 - I max: 0
+0.000140754 - I max: 1
+0.00382141 - I max: 2
+0.988974 - I max: 3
+:::::3
+:15
+Image 341 - Desired Output 3 - 3
+6.01176e-08 - I max: 0
+3.33294e-07 - I max: 1
+4.43332e-07 - I max: 3
+2.87176e-06 - I max: 5
+0.000501126 - I max: 6
+0.961074 - I max: 7
+:::::7
+:41
+Image 342 - Desired Output 7 - 7
+5.33271e-08 - I max: 0
+2.55155e-07 - I max: 1
+4.17756e-07 - I max: 3
+6.73627e-07 - I max: 4
+0.0849359 - I max: 5
+0.929964 - I max: 6
+:::::6
+:5
+Image 343 - Desired Output 5 - 6
+3.19718e-06 - I max: 0
+2.11109e-05 - I max: 1
+2.96685e-05 - I max: 2
+0.00876325 - I max: 3
+0.988219 - I max: 4
+:::::4
+:20
+Image 344 - Desired Output 4 - 4
+9.63562e-06 - I max: 0
+0.000145486 - I max: 1
+0.004244 - I max: 2
+0.988348 - I max: 3
+:::::3
+:16
+Image 345 - Desired Output 3 - 3
+4.0505e-08 - I max: 0
+2.08044e-07 - I max: 1
+2.55188e-07 - I max: 3
+0.00283892 - I max: 5
+0.992002 - I max: 6
+:::::6
+:32
+Image 346 - Desired Output 6 - 6
+2.04923e-08 - I max: 0
+2.17529e-07 - I max: 1
+2.30094e-07 - I max: 3
+7.28625e-07 - I max: 5
+2.90793e-05 - I max: 6
+0.748312 - I max: 7
+:::::7
+:42
+Image 347 - Desired Output 7 - 7
+8.25462e-11 - I max: 0
+2.30444e-08 - I max: 1
+3.44119e-06 - I max: 7
+0.966658 - I max: 8
+:::::8
+:52
+Image 348 - Desired Output 8 - 8
+5.93603e-07 - I max: 0
+1.44867e-06 - I max: 1
+8.71851e-06 - I max: 3
+0.00026646 - I max: 4
+0.981998 - I max: 5
+:::::5
+:17
+Image 349 - Desired Output 5 - 5
+2.92599e-07 - I max: 0
+8.32201e-07 - I max: 1
+3.6557e-06 - I max: 3
+4.12825e-05 - I max: 4
+0.931124 - I max: 5
+:::::5
+:18
+Image 350 - Desired Output 5 - 5
+8.3879e-08 - I max: 0
+4.06294e-07 - I max: 1
+4.95519e-07 - I max: 3
+7.35932e-05 - I max: 5
+0.297695 - I max: 6
+0.740554 - I max: 7
+:::::7
+:6
+Image 351 - Desired Output 6 - 7
+0.998658 - I max: 0
+:::::0
+:25
+Image 352 - Desired Output 0 - 0
+4.81176e-05 - I max: 0
+0.0095256 - I max: 1
+0.982191 - I max: 2
+:::::2
+:17
+Image 353 - Desired Output 2 - 2
+1.54805e-09 - I max: 0
+7.81302e-08 - I max: 1
+0.00448708 - I max: 7
+0.989976 - I max: 8
+:::::8
+:53
+Image 354 - Desired Output 8 - 8
+1.41707e-06 - I max: 0
+6.35507e-06 - I max: 1
+0.000682052 - I max: 3
+0.68566 - I max: 4
+:::::4
+:21
+Image 355 - Desired Output 4 - 4
+1.35907e-06 - I max: 0
+3.0294e-06 - I max: 1
+2.54734e-05 - I max: 3
+0.00260504 - I max: 4
+0.99276 - I max: 5
+:::::5
+:19
+Image 356 - Desired Output 5 - 5
+1.03529e-07 - I max: 0
+4.05691e-07 - I max: 1
+9.81694e-07 - I max: 3
+3.02396e-06 - I max: 4
+0.385997 - I max: 5
+0.619506 - I max: 6
+:::::6
+:6
+Image 357 - Desired Output 5 - 6
+0.99784 - I max: 0
+:::::0
+:26
+Image 358 - Desired Output 0 - 0
+0.000119854 - I max: 0
+0.108221 - I max: 1
+0.905125 - I max: 2
+:::::2
+:1
+Image 359 - Desired Output 1 - 2
+0.000907646 - I max: 0
+0.964626 - I max: 1
+:::::1
+:10
+Image 360 - Desired Output 1 - 1
+3.80372e-08 - I max: 0
+1.96055e-07 - I max: 1
+2.39943e-07 - I max: 3
+0.00384343 - I max: 5
+0.993811 - I max: 6
+:::::6
+:33
+Image 361 - Desired Output 6 - 6
+4.93632e-05 - I max: 0
+0.00841191 - I max: 1
+0.974249 - I max: 2
+:::::2
+:18
+Image 362 - Desired Output 2 - 2
+3.8647e-06 - I max: 0
+3.67635e-05 - I max: 1
+0.000161507 - I max: 2
+0.323594 - I max: 3
+0.633065 - I max: 4
+:::::4
+:5
+Image 363 - Desired Output 3 - 4
+7.16742e-06 - I max: 0
+8.31771e-05 - I max: 1
+0.00125143 - I max: 2
+0.972309 - I max: 3
+:::::3
+:17
+Image 364 - Desired Output 3 - 3
+0.998114 - I max: 0
+:::::0
+:27
+Image 365 - Desired Output 0 - 0
+9.68711e-06 - I max: 0
+0.000146617 - I max: 1
+0.00436409 - I max: 2
+0.988341 - I max: 3
+:::::3
+:18
+Image 366 - Desired Output 3 - 3
+0.000600895 - I max: 0
+0.91631 - I max: 1
+:::::1
+:11
+Image 367 - Desired Output 1 - 1
+0.0261195 - I max: 0
+0.97719 - I max: 1
+:::::1
+:12
+Image 368 - Desired Output 1 - 1
+1.59287e-06 - I max: 0
+9.45211e-06 - I max: 1
+1.20698e-05 - I max: 2
+0.00265941 - I max: 3
+0.973926 - I max: 4
+:::::4
+:22
+Image 369 - Desired Output 4 - 4
+4.80888e-05 - I max: 0
+0.00943798 - I max: 1
+0.981624 - I max: 2
+:::::2
+:19
+Image 370 - Desired Output 2 - 2
+0.996591 - I max: 0
+:::::0
+:28
+Image 371 - Desired Output 0 - 0
+1.0717e-12 - I max: 0
+3.05694e-09 - I max: 1
+0.00500142 - I max: 8
+0.996618 - I max: 9
+:::::9
+:84
+Image 372 - Desired Output 9 - 9
+2.34633e-10 - I max: 0
+3.58639e-08 - I max: 1
+4.57178e-05 - I max: 7
+0.993261 - I max: 8
+:::::8
+:54
+Image 373 - Desired Output 8 - 8
+0.988642 - I max: 0
+:::::0
+:29
+Image 374 - Desired Output 0 - 0
+0.0121178 - I max: 0
+0.987196 - I max: 1
+:::::1
+:13
+Image 375 - Desired Output 1 - 1
+0.993667 - I max: 0
+:::::0
+:30
+Image 376 - Desired Output 0 - 0
+0.984739 - I max: 0
+:::::0
+:31
+Image 377 - Desired Output 0 - 0
+1.41128e-06 - I max: 0
+3.1459e-06 - I max: 1
+2.70234e-05 - I max: 3
+0.00295031 - I max: 4
+0.992838 - I max: 5
+:::::5
+:20
+Image 378 - Desired Output 5 - 5
+0.988084 - I max: 0
+:::::0
+:32
+Image 379 - Desired Output 0 - 0
+7.9244e-06 - I max: 0
+9.49233e-05 - I max: 1
+0.00166516 - I max: 2
+0.981716 - I max: 3
+:::::3
+:19
+Image 380 - Desired Output 3 - 3
+0.997318 - I max: 0
+:::::0
+:33
+Image 381 - Desired Output 0 - 0
+4.73328e-05 - I max: 0
+0.0118143 - I max: 1
+0.988323 - I max: 2
+:::::2
+:20
+Image 382 - Desired Output 2 - 2
+3.85698e-09 - I max: 0
+1.13168e-07 - I max: 1
+5.48639e-07 - I max: 6
+0.0444138 - I max: 7
+0.938657 - I max: 8
+:::::8
+:55
+Image 383 - Desired Output 8 - 8
+1.07861e-07 - I max: 0
+4.34846e-07 - I max: 1
+6.56074e-07 - I max: 3
+6.05038e-06 - I max: 5
+0.00272922 - I max: 6
+0.98333 - I max: 7
+:::::7
+:43
+Image 384 - Desired Output 7 - 7
+1.75405e-12 - I max: 0
+3.90815e-09 - I max: 1
+0.00971779 - I max: 8
+0.989357 - I max: 9
+:::::9
+:85
+Image 385 - Desired Output 9 - 9
+8.34695e-13 - I max: 0
+2.70853e-09 - I max: 1
+0.00398039 - I max: 8
+0.998127 - I max: 9
+:::::9
+:86
+Image 386 - Desired Output 9 - 9
+3.78436e-11 - I max: 0
+1.61489e-08 - I max: 1
+4.95632e-07 - I max: 7
+0.853506 - I max: 8
+:::::8
+:56
+Image 387 - Desired Output 8 - 8
+1.07172e-06 - I max: 0
+2.40648e-06 - I max: 1
+1.87979e-05 - I max: 3
+0.00144033 - I max: 4
+0.992254 - I max: 5
+:::::5
+:21
+Image 388 - Desired Output 5 - 5
+3.13114e-06 - I max: 0
+2.05219e-05 - I max: 1
+2.84993e-05 - I max: 2
+0.00823938 - I max: 3
+0.988303 - I max: 4
+:::::4
+:23
+Image 389 - Desired Output 4 - 4
+1.33013e-12 - I max: 0
+3.40823e-09 - I max: 1
+0.0067652 - I max: 8
+0.994115 - I max: 9
+:::::9
+:87
+Image 390 - Desired Output 9 - 9
+3.0769e-10 - I max: 0
+3.9938e-08 - I max: 1
+8.90229e-05 - I max: 7
+0.994916 - I max: 8
+:::::8
+:57
+Image 391 - Desired Output 8 - 8
+3.02445e-10 - I max: 0
+4.05815e-08 - I max: 1
+8.36479e-05 - I max: 7
+0.994678 - I max: 8
+:::::8
+:58
+Image 392 - Desired Output 8 - 8
+5.91271e-05 - I max: 0
+0.0168432 - I max: 1
+0.985208 - I max: 2
+:::::2
+:21
+Image 393 - Desired Output 2 - 2
+0.998204 - I max: 0
+:::::0
+:34
+Image 394 - Desired Output 0 - 0
+4.87686e-13 - I max: 0
+2.03651e-09 - I max: 1
+0.00302321 - I max: 8
+0.999553 - I max: 9
+:::::9
+:88
+Image 395 - Desired Output 9 - 9
+0.00993392 - I max: 0
+0.988055 - I max: 1
+:::::1
+:14
+Image 396 - Desired Output 1 - 1
+1.04559e-07 - I max: 0
+4.29322e-07 - I max: 1
+6.40829e-07 - I max: 3
+5.79792e-06 - I max: 5
+0.00248454 - I max: 6
+0.982644 - I max: 7
+:::::7
+:44
+Image 397 - Desired Output 7 - 7
+1.0813e-09 - I max: 0
+6.74924e-08 - I max: 1
+0.00184513 - I max: 7
+0.994108 - I max: 8
+:::::8
+:59
+Image 398 - Desired Output 8 - 8
+0.993821 - I max: 0
+:::::0
+:35
+Image 399 - Desired Output 0 - 0
+0.00730416 - I max: 0
+0.98879 - I max: 1
+:::::1
+:15
+Image 400 - Desired Output 1 - 1
+5.57196e-08 - I max: 0
+3.21526e-07 - I max: 1
+3.54037e-07 - I max: 3
+0.000224125 - I max: 5
+0.748709 - I max: 6
+:::::6
+:34
+Image 401 - Desired Output 6 - 6
+2.12945e-07 - I max: 0
+6.54306e-07 - I max: 1
+2.46062e-06 - I max: 3
+1.80627e-05 - I max: 4
+0.863991 - I max: 5
+:::::5
+:22
+Image 402 - Desired Output 5 - 5
+0.998606 - I max: 0
+:::::0
+:36
+Image 403 - Desired Output 0 - 0
+4.77575e-11 - I max: 0
+1.81626e-08 - I max: 1
+8.60698e-07 - I max: 7
+0.902799 - I max: 8
+:::::8
+:60
+Image 404 - Desired Output 8 - 8
+6.05524e-08 - I max: 0
+3.37496e-07 - I max: 1
+4.49095e-07 - I max: 3
+2.8669e-06 - I max: 5
+0.00049898 - I max: 6
+0.961781 - I max: 7
+:::::7
+:45
+Image 405 - Desired Output 7 - 7
+3.12475e-06 - I max: 0
+2.05682e-05 - I max: 1
+2.86653e-05 - I max: 2
+0.00833488 - I max: 3
+0.988258 - I max: 4
+:::::4
+:24
+Image 406 - Desired Output 4 - 4
+5.32129e-07 - I max: 0
+1.33853e-06 - I max: 1
+7.56927e-06 - I max: 3
+0.000193203 - I max: 4
+0.975712 - I max: 5
+:::::5
+:23
+Image 407 - Desired Output 5 - 5
+3.49513e-08 - I max: 0
+1.87469e-07 - I max: 1
+2.4092e-07 - I max: 3
+2.58612e-07 - I max: 4
+0.0253419 - I max: 5
+0.980823 - I max: 6
+:::::6
+:35
+Image 408 - Desired Output 6 - 6
+1.39951e-07 - I max: 0
+5.3522e-07 - I max: 1
+7.57753e-07 - I max: 3
+2.61003e-05 - I max: 5
+0.0659415 - I max: 6
+0.962597 - I max: 7
+:::::7
+:46
+Image 409 - Desired Output 7 - 7
+9.88636e-06 - I max: 0
+0.000156502 - I max: 1
+0.00498786 - I max: 2
+0.988024 - I max: 3
+:::::3
+:20
+Image 410 - Desired Output 3 - 3
+0.427101 - I max: 0
+0.586557 - I max: 1
+:::::1
+:7
+Image 411 - Desired Output 0 - 1
+4.07975e-08 - I max: 0
+2.09421e-07 - I max: 1
+2.57086e-07 - I max: 3
+0.00274525 - I max: 5
+0.991497 - I max: 6
+:::::6
+:36
+Image 412 - Desired Output 6 - 6
+4.96323e-05 - I max: 0
+0.00821356 - I max: 1
+0.972168 - I max: 2
+:::::2
+:22
+Image 413 - Desired Output 2 - 2
+1.44689e-06 - I max: 0
+5.78116e-06 - I max: 1
+0.00041737 - I max: 3
+0.440593 - I max: 4
+0.579593 - I max: 5
+:::::5
+:6
+Image 414 - Desired Output 4 - 5
+8.93599e-06 - I max: 0
+0.000112571 - I max: 1
+0.00230252 - I max: 2
+0.986851 - I max: 3
+:::::3
+:21
+Image 415 - Desired Output 3 - 3
+0.998214 - I max: 0
+:::::0
+:37
+Image 416 - Desired Output 0 - 0
+1.05361e-05 - I max: 0
+0.000202066 - I max: 1
+0.00917746 - I max: 2
+0.982045 - I max: 3
+:::::3
+:22
+Image 417 - Desired Output 3 - 3
+4.5449e-08 - I max: 0
+2.42073e-07 - I max: 1
+2.89451e-07 - I max: 3
+0.00147965 - I max: 5
+0.98244 - I max: 6
+:::::6
+:37
+Image 418 - Desired Output 6 - 6
+3.21887e-06 - I max: 0
+2.14025e-05 - I max: 1
+3.04952e-05 - I max: 2
+0.00914595 - I max: 3
+0.988156 - I max: 4
+:::::4
+:25
+Image 419 - Desired Output 4 - 4
+1.00466e-05 - I max: 0
+0.000176945 - I max: 1
+0.00698399 - I max: 2
+0.985194 - I max: 3
+:::::3
+:23
+Image 420 - Desired Output 3 - 3
+3.84404e-08 - I max: 0
+1.97706e-07 - I max: 1
+2.42352e-07 - I max: 3
+0.0036296 - I max: 5
+0.993572 - I max: 6
+:::::6
+:38
+Image 421 - Desired Output 6 - 6
+0.000746141 - I max: 0
+0.948327 - I max: 1
+:::::1
+:16
+Image 422 - Desired Output 1 - 1
+4.82302e-05 - I max: 0
+0.0124247 - I max: 1
+0.988752 - I max: 2
+:::::2
+:23
+Image 423 - Desired Output 2 - 2
+2.26892e-05 - I max: 0
+0.000769165 - I max: 1
+0.0997577 - I max: 2
+0.855303 - I max: 3
+:::::3
+:4
+Image 424 - Desired Output 2 - 3
+0.000417966 - I max: 0
+0.814115 - I max: 1
+:::::1
+:17
+Image 425 - Desired Output 1 - 1
+0.00121337 - I max: 0
+0.978238 - I max: 1
+:::::1
+:18
+Image 426 - Desired Output 1 - 1
+4.68592e-05 - I max: 0
+0.0111745 - I max: 1
+0.987247 - I max: 2
+:::::2
+:24
+Image 427 - Desired Output 2 - 2
+7.87491e-05 - I max: 0
+0.0343091 - I max: 1
+0.969854 - I max: 2
+:::::2
+:25
+Image 428 - Desired Output 2 - 2
+0.00264433 - I max: 0
+0.987648 - I max: 1
+:::::1
+:19
+Image 429 - Desired Output 1 - 1
+0.0026831 - I max: 0
+0.987721 - I max: 1
+:::::1
+:20
+Image 430 - Desired Output 1 - 1
+0.00453397 - I max: 0
+0.988608 - I max: 1
+:::::1
+:21
+Image 431 - Desired Output 1 - 1
+4.61746e-10 - I max: 0
+4.75868e-08 - I max: 1
+0.00023477 - I max: 7
+0.995967 - I max: 8
+:::::8
+:61
+Image 432 - Desired Output 8 - 8
+2.80053e-11 - I max: 0
+1.39612e-08 - I max: 1
+2.26933e-07 - I max: 7
+0.735796 - I max: 8
+:::::8
+:62
+Image 433 - Desired Output 8 - 8
+3.42548e-08 - I max: 0
+1.81983e-07 - I max: 1
+2.16687e-07 - I max: 3
+0.00549065 - I max: 5
+0.993961 - I max: 6
+:::::6
+:39
+Image 434 - Desired Output 6 - 6
+2.46969e-09 - I max: 0
+9.68575e-08 - I max: 1
+2.08138e-07 - I max: 6
+0.0153693 - I max: 7
+0.970255 - I max: 8
+:::::8
+:63
+Image 435 - Desired Output 8 - 8
+8.05857e-13 - I max: 0
+2.64863e-09 - I max: 1
+0.00372975 - I max: 8
+0.998404 - I max: 9
+:::::9
+:89
+Image 436 - Desired Output 9 - 9
+3.81693e-13 - I max: 0
+1.78331e-09 - I max: 1
+0.0031611 - I max: 8
+0.999776 - I max: 9
+:::::9
+:90
+Image 437 - Desired Output 9 - 9
+0.00627662 - I max: 0
+0.988755 - I max: 1
+:::::1
+:22
+Image 438 - Desired Output 1 - 1
+5.2252e-08 - I max: 0
+2.95339e-07 - I max: 1
+3.33079e-07 - I max: 3
+0.000415104 - I max: 5
+0.883029 - I max: 6
+:::::6
+:40
+Image 439 - Desired Output 6 - 6
+0.610574 - I max: 0
+:::::0
+:38
+Image 440 - Desired Output 0 - 0
+0.45196 - I max: 0
+0.566029 - I max: 1
+:::::1
+:8
+Image 441 - Desired Output 0 - 1
+8.03869e-08 - I max: 0
+3.79379e-07 - I max: 1
+5.38282e-07 - I max: 3
+4.14823e-06 - I max: 5
+0.00113671 - I max: 6
+0.97516 - I max: 7
+:::::7
+:47
+Image 442 - Desired Output 7 - 7
+0.998548 - I max: 0
+:::::0
+:39
+Image 443 - Desired Output 0 - 0
+0.00312903 - I max: 0
+0.988017 - I max: 1
+:::::1
+:23
+Image 444 - Desired Output 1 - 1
+0.995362 - I max: 0
+:::::0
+:40
+Image 445 - Desired Output 0 - 0
+7.05405e-05 - I max: 0
+0.0258051 - I max: 1
+0.977079 - I max: 2
+:::::2
+:26
+Image 446 - Desired Output 2 - 2
+0.00789877 - I max: 0
+0.988763 - I max: 1
+:::::1
+:24
+Image 447 - Desired Output 1 - 1
+0.00185171 - I max: 0
+0.985785 - I max: 1
+:::::1
+:25
+Image 448 - Desired Output 1 - 1
+5.07388e-05 - I max: 0
+0.0131572 - I max: 1
+0.988736 - I max: 2
+:::::2
+:27
+Image 449 - Desired Output 2 - 2
+0.996971 - I max: 0
+:::::0
+:41
+Image 450 - Desired Output 0 - 0
+3.78115e-08 - I max: 0
+1.96034e-07 - I max: 1
+2.39229e-07 - I max: 3
+0.00417849 - I max: 5
+0.994111 - I max: 6
+:::::6
+:41
+Image 451 - Desired Output 6 - 6
+5.00627e-13 - I max: 0
+2.05071e-09 - I max: 1
+0.00306417 - I max: 8
+0.999576 - I max: 9
+:::::9
+:91
+Image 452 - Desired Output 9 - 9
+2.91411e-11 - I max: 0
+1.39912e-08 - I max: 1
+2.66791e-07 - I max: 7
+0.762393 - I max: 8
+:::::8
+:64
+Image 453 - Desired Output 8 - 8
+1.60841e-12 - I max: 0
+3.73732e-09 - I max: 1
+0.00879289 - I max: 8
+0.990974 - I max: 9
+:::::9
+:92
+Image 454 - Desired Output 9 - 9
+5.86853e-13 - I max: 0
+2.26363e-09 - I max: 1
+0.00316884 - I max: 8
+0.999264 - I max: 9
+:::::9
+:93
+Image 455 - Desired Output 9 - 9
+1.86234e-06 - I max: 0
+5.11167e-06 - I max: 1
+0.000103503 - I max: 3
+0.0397417 - I max: 4
+0.967785 - I max: 5
+:::::5
+:24
+Image 456 - Desired Output 5 - 5
+1.23421e-07 - I max: 0
+4.72343e-07 - I max: 1
+7.20192e-07 - I max: 3
+7.04403e-06 - I max: 5
+0.00401137 - I max: 6
+0.98588 - I max: 7
+:::::7
+:48
+Image 457 - Desired Output 7 - 7
+6.53571e-13 - I max: 0
+2.38464e-09 - I max: 1
+0.00333067 - I max: 8
+0.99899 - I max: 9
+:::::9
+:94
+Image 458 - Desired Output 9 - 9
+1.58183e-12 - I max: 0
+3.69916e-09 - I max: 1
+0.00857436 - I max: 8
+0.991219 - I max: 9
+:::::9
+:95
+Image 459 - Desired Output 9 - 9
+1.26263e-07 - I max: 0
+4.74923e-07 - I max: 1
+7.31138e-07 - I max: 3
+7.32991e-06 - I max: 5
+0.00438262 - I max: 6
+0.98621 - I max: 7
+:::::7
+:49
+Image 460 - Desired Output 7 - 7
+3.31131e-08 - I max: 0
+1.80453e-07 - I max: 1
+2.11357e-07 - I max: 3
+0.00719878 - I max: 5
+0.9935 - I max: 6
+:::::6
+:42
+Image 461 - Desired Output 6 - 6
+2.75982e-12 - I max: 0
+4.82317e-09 - I max: 1
+0.0218631 - I max: 8
+0.968936 - I max: 9
+:::::9
+:96
+Image 462 - Desired Output 9 - 9
+5.20074e-08 - I max: 0
+2.50892e-07 - I max: 1
+4.05641e-07 - I max: 3
+6.38527e-07 - I max: 4
+0.0803963 - I max: 5
+0.934384 - I max: 6
+:::::6
+:43
+Image 463 - Desired Output 6 - 6
+0.000236141 - I max: 0
+0.478546 - I max: 1
+0.579444 - I max: 2
+:::::2
+:2
+Image 464 - Desired Output 1 - 2
+1.43184e-07 - I max: 0
+5.22233e-07 - I max: 1
+7.67031e-07 - I max: 3
+2.48931e-05 - I max: 5
+0.0558008 - I max: 6
+0.965796 - I max: 7
+:::::7
+:50
+Image 465 - Desired Output 7 - 7
+1.50123e-10 - I max: 0
+2.93892e-08 - I max: 1
+1.54719e-05 - I max: 7
+0.98768 - I max: 8
+:::::8
+:65
+Image 466 - Desired Output 8 - 8
+1.08551e-07 - I max: 0
+4.41079e-07 - I max: 1
+6.59547e-07 - I max: 3
+6.01886e-06 - I max: 5
+0.00272766 - I max: 6
+0.983501 - I max: 7
+:::::7
+:51
+Image 467 - Desired Output 7 - 7
+1.6426e-11 - I max: 0
+1.08145e-08 - I max: 1
+6.36432e-08 - I max: 7
+0.480059 - I max: 8
+:::::8
+:66
+Image 468 - Desired Output 8 - 8
+4.10164e-08 - I max: 0
+2.10493e-07 - I max: 1
+2.58863e-07 - I max: 3
+0.00286215 - I max: 5
+0.992242 - I max: 6
+:::::6
+:44
+Image 469 - Desired Output 6 - 6
+1.70147e-12 - I max: 0
+3.88577e-09 - I max: 1
+0.00922377 - I max: 8
+0.990213 - I max: 9
+:::::9
+:97
+Image 470 - Desired Output 9 - 9
+4.43685e-09 - I max: 0
+1.2055e-07 - I max: 1
+7.53031e-07 - I max: 6
+0.0633882 - I max: 7
+0.916743 - I max: 8
+:::::8
+:67
+Image 471 - Desired Output 8 - 8
+0.0186231 - I max: 0
+0.9825 - I max: 1
+:::::1
+:26
+Image 472 - Desired Output 1 - 1
+5.42387e-10 - I max: 0
+5.27864e-08 - I max: 1
+0.00034097 - I max: 7
+0.995369 - I max: 8
+:::::8
+:68
+Image 473 - Desired Output 8 - 8
+2.48209e-12 - I max: 0
+4.61784e-09 - I max: 1
+0.0183592 - I max: 8
+0.975267 - I max: 9
+:::::9
+:98
+Image 474 - Desired Output 9 - 9
+4.88643e-08 - I max: 0
+2.7395e-07 - I max: 1
+3.12554e-07 - I max: 3
+0.000660162 - I max: 5
+0.942766 - I max: 6
+:::::6
+:45
+Image 475 - Desired Output 6 - 6
+0.0032074 - I max: 0
+0.98809 - I max: 1
+:::::1
+:27
+Image 476 - Desired Output 1 - 1
+9.41939e-08 - I max: 0
+4.08942e-07 - I max: 1
+5.98692e-07 - I max: 3
+5.06704e-06 - I max: 5
+0.00180414 - I max: 6
+0.980118 - I max: 7
+:::::7
+:52
+Image 477 - Desired Output 7 - 7
+3.86515e-13 - I max: 0
+1.78559e-09 - I max: 1
+0.00321355 - I max: 8
+0.999796 - I max: 9
+:::::9
+:99
+Image 478 - Desired Output 9 - 9
+4.32255e-08 - I max: 0
+2.23421e-07 - I max: 1
+2.73887e-07 - I max: 3
+0.00236599 - I max: 5
+0.990822 - I max: 6
+:::::6
+:46
+Image 479 - Desired Output 6 - 6
+1.04223e-07 - I max: 0
+4.01675e-07 - I max: 1
+9.96038e-07 - I max: 3
+3.09391e-06 - I max: 4
+0.423374 - I max: 5
+0.575886 - I max: 6
+:::::6
+:7
+Image 480 - Desired Output 5 - 6
+0.618764 - I max: 0
+:::::0
+:42
+Image 481 - Desired Output 0 - 0
+3.34853e-08 - I max: 0
+1.83375e-07 - I max: 1
+2.26986e-07 - I max: 3
+2.30885e-07 - I max: 4
+0.0200752 - I max: 5
+0.985164 - I max: 6
+:::::6
+:47
+Image 482 - Desired Output 6 - 6
+0.942992 - I max: 0
+:::::0
+:43
+Image 483 - Desired Output 0 - 0
+0.292423 - I max: 0
+0.722339 - I max: 1
+:::::1
+:9
+Image 484 - Desired Output 0 - 1
+3.77097e-08 - I max: 0
+1.99612e-07 - I max: 1
+2.66303e-07 - I max: 3
+3.08429e-07 - I max: 4
+0.0312431 - I max: 5
+0.976616 - I max: 6
+:::::6
+:48
+Image 485 - Desired Output 6 - 6
+4.13229e-08 - I max: 0
+2.12577e-07 - I max: 1
+2.6046e-07 - I max: 3
+0.00258165 - I max: 5
+0.991039 - I max: 6
+:::::6
+:49
+Image 486 - Desired Output 6 - 6
+4.56929e-05 - I max: 0
+0.0028389 - I max: 1
+0.5969 - I max: 2
+:::::2
+:28
+Image 487 - Desired Output 2 - 2
+3.95659e-06 - I max: 0
+3.09289e-05 - I max: 1
+6.82119e-05 - I max: 2
+0.0464062 - I max: 3
+0.955961 - I max: 4
+:::::4
+:6
+Image 488 - Desired Output 3 - 4
+1.10765e-06 - I max: 0
+2.48614e-06 - I max: 1
+1.95854e-05 - I max: 3
+0.00156407 - I max: 4
+0.99229 - I max: 5
+:::::5
+:25
+Image 489 - Desired Output 5 - 5
+3.84176e-06 - I max: 0
+3.55054e-05 - I max: 1
+0.000138192 - I max: 2
+0.242122 - I max: 3
+0.729008 - I max: 4
+:::::4
+:7
+Image 490 - Desired Output 3 - 4
+3.18712e-08 - I max: 0
+1.75699e-07 - I max: 1
+2.13349e-07 - I max: 3
+0.0178347 - I max: 5
+0.986667 - I max: 6
+:::::6
+:50
+Image 491 - Desired Output 6 - 6
+5.49909e-05 - I max: 0
+0.0146511 - I max: 1
+0.987196 - I max: 2
+:::::2
+:29
+Image 492 - Desired Output 2 - 2
+8.10975e-08 - I max: 0
+4.07357e-07 - I max: 1
+4.84855e-07 - I max: 3
+7.31748e-05 - I max: 5
+0.30909 - I max: 6
+0.730616 - I max: 7
+:::::7
+:7
+Image 493 - Desired Output 6 - 7
+2.10569e-06 - I max: 0
+1.31526e-05 - I max: 1
+1.74496e-05 - I max: 2
+0.00437239 - I max: 3
+0.984886 - I max: 4
+:::::4
+:26
+Image 494 - Desired Output 4 - 4
+0.998599 - I max: 0
+:::::0
+:44
+Image 495 - Desired Output 0 - 0
+4.72793e-05 - I max: 0
+0.0114578 - I max: 1
+0.987717 - I max: 2
+:::::2
+:30
+Image 496 - Desired Output 2 - 2
+3.24227e-05 - I max: 0
+0.0014117 - I max: 1
+0.25479 - I max: 2
+0.669366 - I max: 3
+:::::3
+:5
+Image 497 - Desired Output 2 - 3
+3.31406e-05 - I max: 0
+0.00152125 - I max: 1
+0.297307 - I max: 2
+0.622167 - I max: 3
+:::::3
+:24
+Image 498 - Desired Output 3 - 3
+1.70112e-07 - I max: 0
+5.7775e-07 - I max: 1
+1.83699e-06 - I max: 3
+9.89256e-06 - I max: 4
+0.705911 - I max: 5
+:::::5
+:26
+Image 499 - Desired Output 5 - 5
+3.6364e-07 - I max: 0
+9.97395e-07 - I max: 1
+4.7474e-06 - I max: 3
+7.11386e-05 - I max: 4
+0.948663 - I max: 5
+:::::5
+:27
+Image 500 - Desired Output 5 - 5
+3.43733e-08 - I max: 0
+1.91375e-07 - I max: 1
+2.27752e-07 - I max: 3
+0.0130315 - I max: 5
+0.990673 - I max: 6
+:::::6
+:51
+Image 501 - Desired Output 6 - 6
+3.63689e-08 - I max: 0
+1.95346e-07 - I max: 1
+2.52414e-07 - I max: 3
+2.78787e-07 - I max: 4
+0.025557 - I max: 5
+0.981051 - I max: 6
+:::::6
+:52
+Image 502 - Desired Output 6 - 6
+1.01263e-07 - I max: 0
+4.5077e-07 - I max: 1
+5.80069e-07 - I max: 3
+4.81629e-05 - I max: 5
+0.170327 - I max: 6
+0.87148 - I max: 7
+:::::7
+:8
+Image 503 - Desired Output 6 - 7
+1.99546e-06 - I max: 0
+4.67011e-06 - I max: 1
+5.36354e-05 - I max: 3
+0.0104422 - I max: 4
+0.989863 - I max: 5
+:::::5
+:28
+Image 504 - Desired Output 5 - 5
+4.91611e-05 - I max: 0
+0.0126934 - I max: 1
+0.988687 - I max: 2
+:::::2
+:31
+Image 505 - Desired Output 2 - 2
+1.01239e-05 - I max: 0
+0.000177072 - I max: 1
+0.00686157 - I max: 2
+0.985634 - I max: 3
+:::::3
+:25
+Image 506 - Desired Output 3 - 3
+3.10903e-08 - I max: 0
+1.69769e-07 - I max: 1
+1.9709e-07 - I max: 3
+0.00723348 - I max: 5
+0.993223 - I max: 6
+:::::6
+:53
+Image 507 - Desired Output 6 - 6
+1.97535e-05 - I max: 0
+0.000617085 - I max: 1
+0.0697149 - I max: 2
+0.896113 - I max: 3
+:::::3
+:26
+Image 508 - Desired Output 3 - 3
+4.8618e-05 - I max: 0
+0.00894017 - I max: 1
+0.978594 - I max: 2
+:::::2
+:32
+Image 509 - Desired Output 2 - 2
+4.6956e-05 - I max: 0
+0.0111818 - I max: 1
+0.987325 - I max: 2
+:::::2
+:33
+Image 510 - Desired Output 2 - 2
+4.80484e-05 - I max: 0
+0.0121884 - I max: 1
+0.988421 - I max: 2
+:::::2
+:34
+Image 511 - Desired Output 2 - 2
+1.40622e-05 - I max: 0
+0.000349824 - I max: 1
+0.0260907 - I max: 2
+0.956567 - I max: 3
+:::::3
+:27
+Image 512 - Desired Output 3 - 3
+3.624e-06 - I max: 0
+2.469e-05 - I max: 1
+3.68601e-05 - I max: 2
+0.0122222 - I max: 3
+0.986958 - I max: 4
+:::::4
+:27
+Image 513 - Desired Output 4 - 4
+0.000255039 - I max: 0
+0.532312 - I max: 1
+0.533003 - I max: 2
+:::::2
+:3
+Image 514 - Desired Output 1 - 2
+1.0683e-05 - I max: 0
+0.000207881 - I max: 1
+0.00983936 - I max: 2
+0.980979 - I max: 3
+:::::3
+:28
+Image 515 - Desired Output 3 - 3
+0.995929 - I max: 0
+:::::0
+:45
+Image 516 - Desired Output 0 - 0
+0.00308852 - I max: 0
+0.988017 - I max: 1
+:::::1
+:28
+Image 517 - Desired Output 1 - 1
+8.52318e-07 - I max: 0
+1.9547e-06 - I max: 1
+1.38943e-05 - I max: 3
+0.000744262 - I max: 4
+0.990362 - I max: 5
+:::::5
+:29
+Image 518 - Desired Output 5 - 5
+9.62727e-07 - I max: 0
+2.18339e-06 - I max: 1
+1.63115e-05 - I max: 3
+0.00106286 - I max: 4
+0.991453 - I max: 5
+:::::5
+:30
+Image 519 - Desired Output 5 - 5
+1.27124e-09 - I max: 0
+7.42301e-08 - I max: 1
+0.00281657 - I max: 7
+0.991156 - I max: 8
+:::::8
+:69
+Image 520 - Desired Output 8 - 8
+4.93636e-13 - I max: 0
+2.05697e-09 - I max: 1
+0.00303793 - I max: 8
+0.999526 - I max: 9
+:::::9
+:100
+Image 521 - Desired Output 9 - 9
+0.998369 - I max: 0
+:::::0
+:46
+Image 522 - Desired Output 0 - 0
+4.46573e-08 - I max: 0
+2.21847e-07 - I max: 1
+3.34681e-07 - I max: 3
+4.5761e-07 - I max: 4
+0.059214 - I max: 5
+0.952148 - I max: 6
+:::::6
+:54
+Image 523 - Desired Output 6 - 6
+3.37017e-07 - I max: 0
+9.37888e-07 - I max: 1
+4.32103e-06 - I max: 3
+5.80801e-05 - I max: 4
+0.940975 - I max: 5
+:::::5
+:31
+Image 524 - Desired Output 5 - 5
+0.957913 - I max: 0
+:::::0
+:47
+Image 525 - Desired Output 0 - 0
+6.81633e-08 - I max: 0
+2.95817e-07 - I max: 1
+5.81531e-07 - I max: 3
+1.18014e-06 - I max: 4
+0.193632 - I max: 5
+0.819941 - I max: 6
+:::::6
+:55
+Image 526 - Desired Output 6 - 6
+3.65065e-06 - I max: 0
+2.53801e-05 - I max: 1
+3.98202e-05 - I max: 2
+0.0142655 - I max: 3
+0.985798 - I max: 4
+:::::4
+:28
+Image 527 - Desired Output 4 - 4
+1.67325e-06 - I max: 0
+1.00674e-05 - I max: 1
+1.29766e-05 - I max: 2
+0.00296337 - I max: 3
+0.977733 - I max: 4
+:::::4
+:29
+Image 528 - Desired Output 4 - 4
+1.47247e-06 - I max: 0
+3.28602e-06 - I max: 1
+2.92001e-05 - I max: 3
+0.00346334 - I max: 4
+0.99306 - I max: 5
+:::::5
+:32
+Image 529 - Desired Output 5 - 5
+1.15128e-05 - I max: 0
+0.000247062 - I max: 1
+0.013926 - I max: 2
+0.974884 - I max: 3
+:::::3
+:29
+Image 530 - Desired Output 3 - 3
+3.80148e-06 - I max: 0
+3.24274e-05 - I max: 1
+9.40434e-05 - I max: 2
+0.105145 - I max: 3
+0.888047 - I max: 4
+:::::4
+:8
+Image 531 - Desired Output 3 - 4
+6.46554e-06 - I max: 0
+7.39842e-05 - I max: 1
+0.00099515 - I max: 2
+0.959774 - I max: 3
+:::::3
+:30
+Image 532 - Desired Output 3 - 3
+1.41306e-06 - I max: 0
+6.31556e-06 - I max: 1
+0.000660093 - I max: 3
+0.667413 - I max: 4
+:::::4
+:30
+Image 533 - Desired Output 4 - 4
+4.68623e-05 - I max: 0
+0.0109682 - I max: 1
+0.986954 - I max: 2
+:::::2
+:35
+Image 534 - Desired Output 2 - 2
+2.67188e-10 - I max: 0
+3.80049e-08 - I max: 1
+6.23219e-05 - I max: 7
+0.994174 - I max: 8
+:::::8
+:70
+Image 535 - Desired Output 8 - 8
+1.87622e-06 - I max: 0
+5.12746e-06 - I max: 1
+0.000103041 - I max: 3
+0.0392759 - I max: 4
+0.968348 - I max: 5
+:::::5
+:33
+Image 536 - Desired Output 5 - 5
+6.81309e-07 - I max: 0
+1.59328e-06 - I max: 1
+1.05358e-05 - I max: 3
+0.000418524 - I max: 4
+0.988639 - I max: 5
+:::::5
+:34
+Image 537 - Desired Output 5 - 5
+1.10973e-06 - I max: 0
+2.4861e-06 - I max: 1
+1.96747e-05 - I max: 3
+0.00158408 - I max: 4
+0.992403 - I max: 5
+:::::5
+:35
+Image 538 - Desired Output 5 - 5
+3.97135e-13 - I max: 0
+1.81552e-09 - I max: 1
+0.00313616 - I max: 8
+0.999759 - I max: 9
+:::::9
+:101
+Image 539 - Desired Output 9 - 9
+5.53818e-05 - I max: 0
+0.0150211 - I max: 1
+0.987303 - I max: 2
+:::::2
+:36
+Image 540 - Desired Output 2 - 2
+2.07904e-09 - I max: 0
+8.91146e-08 - I max: 1
+1.35445e-07 - I max: 6
+0.009575 - I max: 7
+0.982988 - I max: 8
+:::::8
+:71
+Image 541 - Desired Output 8 - 8
+8.81231e-08 - I max: 0
+4.08742e-07 - I max: 1
+5.65105e-07 - I max: 3
+4.49053e-06 - I max: 5
+0.00144329 - I max: 6
+0.977442 - I max: 7
+:::::7
+:53
+Image 542 - Desired Output 7 - 7
+1.50405e-07 - I max: 0
+5.21093e-07 - I max: 1
+8.20266e-07 - I max: 3
+9.56122e-06 - I max: 5
+0.00831975 - I max: 6
+0.988087 - I max: 7
+:::::7
+:54
+Image 543 - Desired Output 7 - 7
+1.60299e-07 - I max: 0
+5.4629e-07 - I max: 1
+8.42516e-07 - I max: 3
+1.76781e-05 - I max: 5
+0.029818 - I max: 6
+0.980935 - I max: 7
+:::::7
+:55
+Image 544 - Desired Output 7 - 7
+4.42228e-08 - I max: 0
+2.23256e-07 - I max: 1
+3.28027e-07 - I max: 3
+4.45687e-07 - I max: 4
+0.051677 - I max: 5
+0.95959 - I max: 6
+:::::6
+:56
+Image 545 - Desired Output 6 - 6
+8.29082e-05 - I max: 0
+0.0395235 - I max: 1
+0.964936 - I max: 2
+:::::2
+:37
+Image 546 - Desired Output 2 - 2
+8.69919e-09 - I max: 0
+1.56611e-07 - I max: 1
+2.5842e-07 - I max: 5
+3.64922e-06 - I max: 6
+0.275243 - I max: 7
+0.677959 - I max: 8
+:::::8
+:72
+Image 547 - Desired Output 8 - 8
+1.81574e-06 - I max: 0
+4.1354e-06 - I max: 1
+4.27373e-05 - I max: 3
+0.00698685 - I max: 4
+0.992124 - I max: 5
+:::::5
+:36
+Image 548 - Desired Output 5 - 5
+3.42362e-08 - I max: 0
+1.86802e-07 - I max: 1
+2.32939e-07 - I max: 3
+2.40852e-07 - I max: 4
+0.0208322 - I max: 5
+0.984736 - I max: 6
+:::::6
+:57
+Image 549 - Desired Output 6 - 6
+0.996974 - I max: 0
+:::::0
+:48
+Image 550 - Desired Output 0 - 0
+1.52381e-07 - I max: 0
+5.2338e-07 - I max: 1
+1.61474e-06 - I max: 3
+7.64798e-06 - I max: 4
+0.687297 - I max: 5
+:::::5
+:37
+Image 551 - Desired Output 5 - 5
+1.27242e-06 - I max: 0
+2.83864e-06 - I max: 1
+2.36861e-05 - I max: 3
+0.00231126 - I max: 4
+0.992862 - I max: 5
+:::::5
+:38
+Image 552 - Desired Output 5 - 5
+9.56859e-06 - I max: 0
+0.000128382 - I max: 1
+0.00302157 - I max: 2
+0.988784 - I max: 3
+:::::3
+:31
+Image 553 - Desired Output 3 - 3
+1.46303e-07 - I max: 0
+5.03742e-07 - I max: 1
+1.53972e-06 - I max: 3
+6.97063e-06 - I max: 4
+0.68306 - I max: 5
+:::::5
+:39
+Image 554 - Desired Output 5 - 5
+5.23522e-12 - I max: 0
+6.53932e-09 - I max: 1
+0.070765 - I max: 8
+0.885244 - I max: 9
+:::::9
+:102
+Image 555 - Desired Output 9 - 9
+3.05387e-12 - I max: 0
+5.08188e-09 - I max: 1
+0.0256927 - I max: 8
+0.961909 - I max: 9
+:::::9
+:103
+Image 556 - Desired Output 9 - 9
+9.41841e-06 - I max: 0
+0.00012497 - I max: 1
+0.00288147 - I max: 2
+0.988562 - I max: 3
+:::::3
+:32
+Image 557 - Desired Output 3 - 3
+1.32504e-06 - I max: 0
+2.95969e-06 - I max: 1
+2.44368e-05 - I max: 3
+0.00236464 - I max: 4
+0.99261 - I max: 5
+:::::5
+:40
+Image 558 - Desired Output 5 - 5
+3.00554e-06 - I max: 0
+1.96779e-05 - I max: 1
+2.72348e-05 - I max: 2
+0.00777313 - I max: 3
+0.988378 - I max: 4
+:::::4
+:31
+Image 559 - Desired Output 4 - 4
+1.39104e-06 - I max: 0
+7.45776e-06 - I max: 1
+8.52852e-06 - I max: 2
+0.00148806 - I max: 3
+0.930933 - I max: 4
+:::::4
+:32
+Image 560 - Desired Output 4 - 4
+7.72063e-06 - I max: 0
+9.06269e-05 - I max: 1
+0.00144515 - I max: 2
+0.977577 - I max: 3
+:::::3
+:33
+Image 561 - Desired Output 3 - 3
+5.38104e-11 - I max: 0
+1.8294e-08 - I max: 1
+1.24828e-06 - I max: 7
+0.921468 - I max: 8
+:::::8
+:73
+Image 562 - Desired Output 8 - 8
+2.12151e-06 - I max: 0
+1.32049e-05 - I max: 1
+1.73486e-05 - I max: 2
+0.00433733 - I max: 3
+0.984906 - I max: 4
+:::::4
+:33
+Image 563 - Desired Output 4 - 4
+1.50344e-07 - I max: 0
+5.3237e-07 - I max: 1
+7.98112e-07 - I max: 3
+2.14008e-05 - I max: 5
+0.0423138 - I max: 6
+0.973541 - I max: 7
+:::::7
+:56
+Image 564 - Desired Output 7 - 7
+0.997784 - I max: 0
+:::::0
+:49
+Image 565 - Desired Output 0 - 0
+3.98466e-10 - I max: 0
+4.6064e-08 - I max: 1
+0.000162552 - I max: 7
+0.995469 - I max: 8
+:::::8
+:74
+Image 566 - Desired Output 8 - 8
+9.07565e-08 - I max: 0
+4.17695e-07 - I max: 1
+5.2787e-07 - I max: 3
+6.75741e-05 - I max: 5
+0.25815 - I max: 6
+0.784685 - I max: 7
+:::::7
+:9
+Image 567 - Desired Output 6 - 7
+5.32005e-05 - I max: 0
+0.0139375 - I max: 1
+0.988031 - I max: 2
+:::::2
+:38
+Image 568 - Desired Output 2 - 2
+1.88607e-06 - I max: 0
+4.41176e-06 - I max: 1
+5.0743e-05 - I max: 3
+0.00976107 - I max: 4
+0.990296 - I max: 5
+:::::5
+:41
+Image 569 - Desired Output 5 - 5
+0.997335 - I max: 0
+:::::0
+:50
+Image 570 - Desired Output 0 - 0
+1.74746e-06 - I max: 0
+3.93275e-06 - I max: 1
+3.77576e-05 - I max: 3
+0.00544882 - I max: 4
+0.99249 - I max: 5
+:::::5
+:42
+Image 571 - Desired Output 5 - 5
+4.91182e-08 - I max: 0
+2.71494e-07 - I max: 1
+3.12948e-07 - I max: 3
+0.000722244 - I max: 5
+0.947304 - I max: 6
+:::::6
+:58
+Image 572 - Desired Output 6 - 6
+4.26931e-08 - I max: 0
+2.20655e-07 - I max: 1
+2.69664e-07 - I max: 3
+0.00225966 - I max: 5
+0.989591 - I max: 6
+:::::6
+:59
+Image 573 - Desired Output 6 - 6
+9.81231e-06 - I max: 0
+0.000150847 - I max: 1
+0.00462537 - I max: 2
+0.988296 - I max: 3
+:::::3
+:34
+Image 574 - Desired Output 3 - 3
+1.01301e-06 - I max: 0
+2.28243e-06 - I max: 1
+1.75591e-05 - I max: 3
+0.00125738 - I max: 4
+0.99212 - I max: 5
+:::::5
+:43
+Image 575 - Desired Output 5 - 5
+4.84239e-06 - I max: 0
+5.15113e-05 - I max: 1
+0.000411672 - I max: 2
+0.802248 - I max: 3
+:::::3
+:35
+Image 576 - Desired Output 3 - 3
+1.37873e-05 - I max: 0
+0.000339931 - I max: 1
+0.0249859 - I max: 2
+0.95868 - I max: 3
+:::::3
+:36
+Image 577 - Desired Output 3 - 3
+1.36986e-06 - I max: 0
+3.05241e-06 - I max: 1
+2.61013e-05 - I max: 3
+0.00278728 - I max: 4
+0.9929 - I max: 5
+:::::5
+:44
+Image 578 - Desired Output 5 - 5
+9.42093e-06 - I max: 0
+0.000132369 - I max: 1
+0.00339877 - I max: 2
+0.988605 - I max: 3
+:::::3
+:37
+Image 579 - Desired Output 3 - 3
+3.46467e-08 - I max: 0
+1.82536e-07 - I max: 1
+2.18714e-07 - I max: 3
+0.00501627 - I max: 5
+0.993925 - I max: 6
+:::::6
+:60
+Image 580 - Desired Output 6 - 6
+6.7562e-05 - I max: 0
+0.0228222 - I max: 1
+0.97948 - I max: 2
+:::::2
+:39
+Image 581 - Desired Output 2 - 2
+1.5143e-06 - I max: 0
+5.56284e-06 - I max: 1
+0.000301417 - I max: 3
+0.287023 - I max: 4
+0.731046 - I max: 5
+:::::5
+:7
+Image 582 - Desired Output 4 - 5
+0.000176742 - I max: 0
+0.279157 - I max: 1
+0.759919 - I max: 2
+:::::2
+:4
+Image 583 - Desired Output 1 - 2
+3.88927e-08 - I max: 0
+1.99693e-07 - I max: 1
+2.44942e-07 - I max: 3
+0.00344537 - I max: 5
+0.993362 - I max: 6
+:::::6
+:61
+Image 584 - Desired Output 6 - 6
+3.20654e-08 - I max: 0
+1.78637e-07 - I max: 1
+2.09466e-07 - I max: 3
+0.011814 - I max: 5
+0.991086 - I max: 6
+:::::6
+:62
+Image 585 - Desired Output 6 - 6
+4.78109e-05 - I max: 0
+0.00327372 - I max: 1
+0.679886 - I max: 2
+:::::2
+:40
+Image 586 - Desired Output 2 - 2
+6.4635e-07 - I max: 0
+1.528e-06 - I max: 1
+9.83198e-06 - I max: 3
+0.000355174 - I max: 4
+0.98733 - I max: 5
+:::::5
+:45
+Image 587 - Desired Output 5 - 5
+8.02816e-07 - I max: 0
+1.83965e-06 - I max: 1
+1.30104e-05 - I max: 3
+0.000664035 - I max: 4
+0.990659 - I max: 5
+:::::5
+:46
+Image 588 - Desired Output 5 - 5
+5.62369e-05 - I max: 0
+0.0150385 - I max: 1
+0.986609 - I max: 2
+:::::2
+:41
+Image 589 - Desired Output 2 - 2
+3.22522e-08 - I max: 0
+1.78349e-07 - I max: 1
+2.07376e-07 - I max: 3
+0.00871982 - I max: 5
+0.992821 - I max: 6
+:::::6
+:63
+Image 590 - Desired Output 6 - 6
+9.66037e-06 - I max: 0
+0.000142386 - I max: 1
+0.00403774 - I max: 2
+0.988644 - I max: 3
+:::::3
+:38
+Image 591 - Desired Output 3 - 3
+7.54429e-05 - I max: 0
+0.0298388 - I max: 1
+0.972955 - I max: 2
+:::::2
+:42
+Image 592 - Desired Output 2 - 2
+9.70064e-06 - I max: 0
+0.000150982 - I max: 1
+0.00469952 - I max: 2
+0.987951 - I max: 3
+:::::3
+:39
+Image 593 - Desired Output 3 - 3
+9.63816e-06 - I max: 0
+0.000150432 - I max: 1
+0.00468776 - I max: 2
+0.98781 - I max: 3
+:::::3
+:40
+Image 594 - Desired Output 3 - 3
+0.000920763 - I max: 0
+0.965101 - I max: 1
+:::::1
+:29
+Image 595 - Desired Output 1 - 1
+4.7005e-05 - I max: 0
+0.0107664 - I max: 1
+0.986456 - I max: 2
+:::::2
+:43
+Image 596 - Desired Output 2 - 2
+0.00836459 - I max: 0
+0.988614 - I max: 1
+:::::1
+:30
+Image 597 - Desired Output 1 - 1
+3.70393e-08 - I max: 0
+1.91846e-07 - I max: 1
+2.33548e-07 - I max: 3
+0.00417745 - I max: 5
+0.993942 - I max: 6
+:::::6
+:64
+Image 598 - Desired Output 6 - 6
+3.41583e-08 - I max: 0
+1.80679e-07 - I max: 1
+2.15467e-07 - I max: 3
+0.00531208 - I max: 5
+0.993909 - I max: 6
+:::::6
+:65
+Image 599 - Desired Output 6 - 6
+4.79328e-12 - I max: 0
+6.25881e-09 - I max: 1
+0.0599238 - I max: 8
+0.90316 - I max: 9
+:::::9
+:10
+Image 600 - Desired Output 8 - 9
+3.08028e-13 - I max: 0
+1.52237e-09 - I max: 1
+0.0037089 - I max: 8
+0.999905 - I max: 9
+:::::9
+:104
+Image 601 - Desired Output 9 - 9
+0.965063 - I max: 0
+:::::0
+:51
+Image 602 - Desired Output 0 - 0
+0.9978 - I max: 0
+:::::0
+:52
+Image 603 - Desired Output 0 - 0
+0.00448431 - I max: 0
+0.988618 - I max: 1
+:::::1
+:31
+Image 604 - Desired Output 1 - 1
+4.78066e-05 - I max: 0
+0.0121574 - I max: 1
+0.988602 - I max: 2
+:::::2
+:44
+Image 605 - Desired Output 2 - 2
+0.000962476 - I max: 0
+0.968182 - I max: 1
+:::::1
+:32
+Image 606 - Desired Output 1 - 1
+3.79811e-08 - I max: 0
+2.782e-07 - I max: 1
+3.2937e-07 - I max: 3
+1.58395e-06 - I max: 5
+0.000141829 - I max: 6
+0.915383 - I max: 7
+:::::7
+:57
+Image 607 - Desired Output 7 - 7
+6.39124e-13 - I max: 0
+2.35811e-09 - I max: 1
+0.00328219 - I max: 8
+0.999052 - I max: 9
+:::::9
+:105
+Image 608 - Desired Output 9 - 9
+4.09511e-12 - I max: 0
+5.77961e-09 - I max: 1
+0.0452308 - I max: 8
+0.928631 - I max: 9
+:::::9
+:106
+Image 609 - Desired Output 9 - 9
+5.19289e-12 - I max: 0
+6.42195e-09 - I max: 1
+0.0703392 - I max: 8
+0.886107 - I max: 9
+:::::9
+:11
+Image 610 - Desired Output 8 - 9
+1.22175e-10 - I max: 0
+2.72016e-08 - I max: 1
+9.14623e-06 - I max: 7
+0.982953 - I max: 8
+:::::8
+:75
+Image 611 - Desired Output 8 - 8
+1.32649e-07 - I max: 0
+4.84226e-07 - I max: 1
+7.53442e-07 - I max: 3
+7.98142e-06 - I max: 5
+0.00532314 - I max: 6
+0.986705 - I max: 7
+:::::7
+:58
+Image 612 - Desired Output 7 - 7
+9.73957e-09 - I max: 0
+1.64132e-07 - I max: 1
+2.94102e-07 - I max: 5
+4.74167e-06 - I max: 6
+0.336427 - I max: 7
+0.623904 - I max: 8
+:::::8
+:3
+Image 613 - Desired Output 7 - 8
+1.92437e-08 - I max: 0
+2.14994e-07 - I max: 1
+2.20137e-07 - I max: 3
+6.71558e-07 - I max: 5
+2.45974e-05 - I max: 6
+0.721257 - I max: 7
+:::::7
+:59
+Image 614 - Desired Output 7 - 7
+1.69652e-07 - I max: 0
+5.65748e-07 - I max: 1
+8.91694e-07 - I max: 3
+1.27939e-05 - I max: 5
+0.0162444 - I max: 6
+0.987797 - I max: 7
+:::::7
+:60
+Image 615 - Desired Output 7 - 7
+1.28099e-12 - I max: 0
+3.32462e-09 - I max: 1
+0.00647274 - I max: 8
+0.994534 - I max: 9
+:::::9
+:107
+Image 616 - Desired Output 9 - 9
+6.39085e-13 - I max: 0
+2.36238e-09 - I max: 1
+0.00326433 - I max: 8
+0.999067 - I max: 9
+:::::9
+:108
+Image 617 - Desired Output 9 - 9
+2.2326e-08 - I max: 0
+2.23161e-07 - I max: 1
+2.41811e-07 - I max: 3
+8.17027e-07 - I max: 5
+3.64051e-05 - I max: 6
+0.779995 - I max: 7
+:::::7
+:61
+Image 618 - Desired Output 7 - 7
+1.13799e-11 - I max: 0
+9.32597e-09 - I max: 1
+2.38885e-08 - I max: 7
+0.283852 - I max: 8
+0.592926 - I max: 9
+:::::9
+:12
+Image 619 - Desired Output 8 - 9
+1.41946e-06 - I max: 0
+3.16587e-06 - I max: 1
+2.74852e-05 - I max: 3
+0.00306566 - I max: 4
+0.992961 - I max: 5
+:::::5
+:47
+Image 620 - Desired Output 5 - 5
+1.00476e-05 - I max: 0
+0.000169602 - I max: 1
+0.00616304 - I max: 2
+0.986629 - I max: 3
+:::::3
+:41
+Image 621 - Desired Output 3 - 3
+6.89328e-10 - I max: 0
+5.79739e-08 - I max: 1
+0.000610623 - I max: 7
+0.995251 - I max: 8
+:::::8
+:76
+Image 622 - Desired Output 8 - 8
+0.025503 - I max: 0
+0.978435 - I max: 1
+:::::1
+:33
+Image 623 - Desired Output 1 - 1
+6.23657e-07 - I max: 0
+1.47685e-06 - I max: 1
+9.38709e-06 - I max: 3
+0.000322202 - I max: 4
+0.98697 - I max: 5
+:::::5
+:48
+Image 624 - Desired Output 5 - 5
+1.39145e-06 - I max: 0
+7.18147e-06 - I max: 1
+7.84036e-06 - I max: 2
+0.00125292 - I max: 3
+0.90317 - I max: 4
+:::::4
+:34
+Image 625 - Desired Output 4 - 4
+1.38164e-06 - I max: 0
+7.21776e-06 - I max: 1
+8.01991e-06 - I max: 2
+0.00131645 - I max: 3
+0.910728 - I max: 4
+:::::4
+:35
+Image 626 - Desired Output 4 - 4
+0.997513 - I max: 0
+:::::0
+:53
+Image 627 - Desired Output 0 - 0
+1.64722e-07 - I max: 0
+5.51887e-07 - I max: 1
+8.6404e-07 - I max: 3
+1.48044e-05 - I max: 5
+0.0212042 - I max: 6
+0.98498 - I max: 7
+:::::7
+:62
+Image 628 - Desired Output 7 - 7
+0.830918 - I max: 0
+:::::0
+:54
+Image 629 - Desired Output 0 - 0
+0.155103 - I max: 0
+0.858067 - I max: 1
+:::::1
+:10
+Image 630 - Desired Output 0 - 1
+1.29208e-07 - I max: 0
+4.65145e-07 - I max: 1
+1.31078e-06 - I max: 3
+5.121e-06 - I max: 4
+0.581826 - I max: 5
+:::::5
+:49
+Image 631 - Desired Output 5 - 5
+5.77666e-07 - I max: 0
+1.40371e-06 - I max: 1
+8.47139e-06 - I max: 3
+0.000253724 - I max: 4
+0.983087 - I max: 5
+:::::5
+:50
+Image 632 - Desired Output 5 - 5
+6.78759e-09 - I max: 0
+1.41369e-07 - I max: 1
+1.92056e-07 - I max: 5
+2.03971e-06 - I max: 6
+0.166937 - I max: 7
+0.793946 - I max: 8
+:::::8
+:77
+Image 633 - Desired Output 8 - 8
+9.20372e-08 - I max: 0
+3.86943e-07 - I max: 1
+8.29269e-07 - I max: 3
+2.25058e-06 - I max: 4
+0.243903 - I max: 5
+0.778716 - I max: 6
+:::::6
+:8
+Image 634 - Desired Output 5 - 6
+3.41003e-08 - I max: 0
+1.8406e-07 - I max: 1
+2.33946e-07 - I max: 3
+2.46766e-07 - I max: 4
+0.0242153 - I max: 5
+0.981743 - I max: 6
+:::::6
+:66
+Image 635 - Desired Output 6 - 6
+1.43447e-07 - I max: 0
+5.25944e-07 - I max: 1
+7.69288e-07 - I max: 3
+2.42703e-05 - I max: 5
+0.0540483 - I max: 6
+0.966914 - I max: 7
+:::::7
+:63
+Image 636 - Desired Output 7 - 7
+7.72577e-07 - I max: 0
+1.78045e-06 - I max: 1
+1.23957e-05 - I max: 3
+0.000597416 - I max: 4
+0.990244 - I max: 5
+:::::5
+:51
+Image 637 - Desired Output 5 - 5
+1.45095e-06 - I max: 0
+8.07894e-06 - I max: 1
+9.6567e-06 - I max: 2
+0.00183651 - I max: 3
+0.952319 - I max: 4
+:::::4
+:36
+Image 638 - Desired Output 4 - 4
+7.82279e-06 - I max: 0
+9.226e-05 - I max: 1
+0.00151607 - I max: 2
+0.979209 - I max: 3
+:::::3
+:42
+Image 639 - Desired Output 3 - 3
+5.00656e-06 - I max: 0
+5.33946e-05 - I max: 1
+0.0004439 - I max: 2
+0.82508 - I max: 3
+:::::3
+:43
+Image 640 - Desired Output 3 - 3
+4.00632e-06 - I max: 0
+3.22233e-05 - I max: 1
+7.85301e-05 - I max: 2
+0.0645992 - I max: 3
+0.936847 - I max: 4
+:::::4
+:9
+Image 641 - Desired Output 3 - 4
+1.91799e-06 - I max: 0
+4.45936e-06 - I max: 1
+5.04746e-05 - I max: 3
+0.00953203 - I max: 4
+0.990557 - I max: 5
+:::::5
+:52
+Image 642 - Desired Output 5 - 5
+0.00107119 - I max: 0
+0.97313 - I max: 1
+:::::1
+:34
+Image 643 - Desired Output 1 - 1
+3.00995e-08 - I max: 0
+1.66606e-07 - I max: 1
+1.91952e-07 - I max: 3
+0.00875855 - I max: 5
+0.992436 - I max: 6
+:::::6
+:67
+Image 644 - Desired Output 6 - 6
+3.69964e-08 - I max: 0
+1.93968e-07 - I max: 1
+2.34507e-07 - I max: 3
+0.00485783 - I max: 5
+0.994333 - I max: 6
+:::::6
+:68
+Image 645 - Desired Output 6 - 6
+9.81081e-08 - I max: 0
+3.8061e-07 - I max: 1
+9.27901e-07 - I max: 3
+2.68321e-06 - I max: 4
+0.410374 - I max: 5
+0.590218 - I max: 6
+:::::6
+:69
+Image 646 - Desired Output 6 - 6
+2.09704e-05 - I max: 0
+0.000677391 - I max: 1
+0.081766 - I max: 2
+0.878847 - I max: 3
+:::::3
+:6
+Image 647 - Desired Output 2 - 3
+1.47014e-07 - I max: 0
+5.11409e-07 - I max: 1
+8.04631e-07 - I max: 3
+9.42809e-06 - I max: 5
+0.00794493 - I max: 6
+0.987659 - I max: 7
+:::::7
+:64
+Image 648 - Desired Output 7 - 7
+3.50186e-07 - I max: 0
+9.42758e-07 - I max: 1
+4.56511e-06 - I max: 3
+6.65928e-05 - I max: 4
+0.957801 - I max: 5
+:::::5
+:53
+Image 649 - Desired Output 5 - 5
+1.44956e-06 - I max: 0
+6.38089e-06 - I max: 1
+0.000643067 - I max: 3
+0.645945 - I max: 4
+:::::4
+:37
+Image 650 - Desired Output 4 - 4
+0.00641124 - I max: 0
+0.988864 - I max: 1
+:::::1
+:35
+Image 651 - Desired Output 1 - 1
+5.14008e-05 - I max: 0
+0.00633715 - I max: 1
+0.939255 - I max: 2
+:::::2
+:45
+Image 652 - Desired Output 2 - 2
+3.89856e-06 - I max: 0
+2.8198e-05 - I max: 1
+4.9507e-05 - I max: 2
+0.021975 - I max: 3
+0.979109 - I max: 4
+:::::4
+:38
+Image 653 - Desired Output 4 - 4
+1.89459e-06 - I max: 0
+1.16327e-05 - I max: 1
+1.51649e-05 - I max: 2
+0.00365398 - I max: 3
+0.982487 - I max: 4
+:::::4
+:39
+Image 654 - Desired Output 4 - 4
+4.36391e-06 - I max: 0
+4.44132e-05 - I max: 1
+0.000275931 - I max: 2
+0.624674 - I max: 3
+:::::3
+:44
+Image 655 - Desired Output 3 - 3
+3.77306e-08 - I max: 0
+1.94671e-07 - I max: 1
+2.37984e-07 - I max: 3
+0.00394114 - I max: 5
+0.993857 - I max: 6
+:::::6
+:70
+Image 656 - Desired Output 6 - 6
+1.38798e-07 - I max: 0
+5.00661e-07 - I max: 1
+7.75809e-07 - I max: 3
+8.36769e-06 - I max: 5
+0.00609507 - I max: 6
+0.987421 - I max: 7
+:::::7
+:65
+Image 657 - Desired Output 7 - 7
+1.41333e-06 - I max: 0
+6.95997e-06 - I max: 1
+7.21267e-06 - I max: 2
+0.00103058 - I max: 3
+0.84652 - I max: 4
+:::::4
+:40
+Image 658 - Desired Output 4 - 4
+3.96995e-06 - I max: 0
+3.79265e-05 - I max: 1
+0.000172668 - I max: 2
+0.354909 - I max: 3
+0.602482 - I max: 4
+:::::4
+:10
+Image 659 - Desired Output 3 - 4
+7.54273e-07 - I max: 0
+1.73959e-06 - I max: 1
+1.20211e-05 - I max: 3
+0.000558901 - I max: 4
+0.990127 - I max: 5
+:::::5
+:54
+Image 660 - Desired Output 5 - 5
+3.86576e-06 - I max: 0
+3.17498e-05 - I max: 1
+8.27781e-05 - I max: 2
+0.0761173 - I max: 3
+0.920187 - I max: 4
+:::::4
+:11
+Image 661 - Desired Output 3 - 4
+1.64914e-06 - I max: 0
+3.67984e-06 - I max: 1
+3.37039e-05 - I max: 3
+0.00441047 - I max: 4
+0.992757 - I max: 5
+:::::5
+:55
+Image 662 - Desired Output 5 - 5
+1.62842e-09 - I max: 0
+7.98377e-08 - I max: 1
+0.0050363 - I max: 7
+0.98902 - I max: 8
+:::::8
+:78
+Image 663 - Desired Output 8 - 8
+4.94896e-05 - I max: 0
+0.00381193 - I max: 1
+0.767498 - I max: 2
+:::::2
+:46
+Image 664 - Desired Output 2 - 2
+2.35232e-06 - I max: 0
+1.4966e-05 - I max: 1
+2.00603e-05 - I max: 2
+0.00524876 - I max: 3
+0.986565 - I max: 4
+:::::4
+:41
+Image 665 - Desired Output 4 - 4
+4.73391e-05 - I max: 0
+0.0101812 - I max: 1
+0.984671 - I max: 2
+:::::2
+:47
+Image 666 - Desired Output 2 - 2
+0.00333203 - I max: 0
+0.988162 - I max: 1
+:::::1
+:36
+Image 667 - Desired Output 1 - 1
+9.51162e-06 - I max: 0
+0.000131555 - I max: 1
+0.00329098 - I max: 2
+0.988862 - I max: 3
+:::::3
+:45
+Image 668 - Desired Output 3 - 3
+5.48613e-05 - I max: 0
+0.0146199 - I max: 1
+0.987464 - I max: 2
+:::::2
+:48
+Image 669 - Desired Output 2 - 2
+1.42943e-06 - I max: 0
+7.0287e-06 - I max: 1
+7.2758e-06 - I max: 2
+0.00104015 - I max: 3
+0.847073 - I max: 4
+:::::4
+:42
+Image 670 - Desired Output 4 - 4
+0.0803508 - I max: 0
+0.92955 - I max: 1
+:::::1
+:37
+Image 671 - Desired Output 1 - 1
+2.17046e-06 - I max: 0
+1.3641e-05 - I max: 1
+1.81971e-05 - I max: 2
+0.00461933 - I max: 3
+0.985449 - I max: 4
+:::::4
+:43
+Image 672 - Desired Output 4 - 4
+6.56904e-07 - I max: 0
+1.5443e-06 - I max: 1
+1.00686e-05 - I max: 3
+0.0003761 - I max: 4
+0.988145 - I max: 5
+:::::5
+:56
+Image 673 - Desired Output 5 - 5
+3.57028e-08 - I max: 0
+1.86901e-07 - I max: 1
+2.25574e-07 - I max: 3
+0.00476674 - I max: 5
+0.994062 - I max: 6
+:::::6
+:71
+Image 674 - Desired Output 6 - 6
+0.7361 - I max: 0
+:::::0
+:55
+Image 675 - Desired Output 0 - 0
+3.09448e-08 - I max: 0
+1.70312e-07 - I max: 1
+1.97169e-07 - I max: 3
+0.00793972 - I max: 5
+0.992943 - I max: 6
+:::::6
+:72
+Image 676 - Desired Output 6 - 6
+0.00885476 - I max: 0
+0.988404 - I max: 1
+:::::1
+:38
+Image 677 - Desired Output 1 - 1
+7.90662e-05 - I max: 0
+0.0352414 - I max: 1
+0.969445 - I max: 2
+:::::2
+:49
+Image 678 - Desired Output 2 - 2
+3.89451e-06 - I max: 0
+3.21222e-05 - I max: 1
+8.4444e-05 - I max: 2
+0.0788289 - I max: 3
+0.918794 - I max: 4
+:::::4
+:44
+Image 679 - Desired Output 4 - 4
+0.998202 - I max: 0
+:::::0
+:56
+Image 680 - Desired Output 0 - 0
+4.79886e-05 - I max: 0
+0.0123766 - I max: 1
+0.988903 - I max: 2
+:::::2
+:50
+Image 681 - Desired Output 2 - 2
+0.0815428 - I max: 0
+0.927331 - I max: 1
+:::::1
+:39
+Image 682 - Desired Output 1 - 1
+0.673329 - I max: 0
+:::::0
+:57
+Image 683 - Desired Output 0 - 0
+2.54193e-08 - I max: 0
+2.40735e-07 - I max: 1
+2.5851e-07 - I max: 3
+9.36787e-07 - I max: 5
+4.89037e-05 - I max: 6
+0.826164 - I max: 7
+:::::7
+:66
+Image 684 - Desired Output 7 - 7
+1.62243e-06 - I max: 0
+3.64035e-06 - I max: 1
+3.39196e-05 - I max: 3
+0.0045395 - I max: 4
+0.992827 - I max: 5
+:::::5
+:57
+Image 685 - Desired Output 5 - 5
+5.5493e-06 - I max: 0
+6.00372e-05 - I max: 1
+0.000575282 - I max: 2
+0.888101 - I max: 3
+:::::3
+:46
+Image 686 - Desired Output 3 - 3
+0.742723 - I max: 0
+:::::0
+:58
+Image 687 - Desired Output 0 - 0
+1.52535e-06 - I max: 0
+8.9162e-06 - I max: 1
+1.11599e-05 - I max: 2
+0.00238087 - I max: 3
+0.970686 - I max: 4
+:::::4
+:45
+Image 688 - Desired Output 4 - 4
+0.993051 - I max: 0
+:::::0
+:59
+Image 689 - Desired Output 0 - 0
+0.000170811 - I max: 0
+0.260058 - I max: 1
+0.780292 - I max: 2
+:::::2
+:51
+Image 690 - Desired Output 2 - 2
+1.03704e-05 - I max: 0
+0.00019444 - I max: 1
+0.0084885 - I max: 2
+0.982874 - I max: 3
+:::::3
+:47
+Image 691 - Desired Output 3 - 3
+1.45198e-07 - I max: 0
+5.08346e-07 - I max: 1
+7.99842e-07 - I max: 3
+9.13011e-06 - I max: 5
+0.00737714 - I max: 6
+0.987672 - I max: 7
+:::::7
+:67
+Image 692 - Desired Output 7 - 7
+2.22677e-10 - I max: 0
+3.47958e-08 - I max: 1
+4.01415e-05 - I max: 7
+0.992874 - I max: 8
+:::::8
+:79
+Image 693 - Desired Output 8 - 8
+3.1029e-08 - I max: 0
+1.70595e-07 - I max: 1
+1.97485e-07 - I max: 3
+0.00794533 - I max: 5
+0.992998 - I max: 6
+:::::6
+:73
+Image 694 - Desired Output 6 - 6
+3.38925e-13 - I max: 0
+1.65007e-09 - I max: 1
+0.00344701 - I max: 8
+0.999864 - I max: 9
+:::::9
+:109
+Image 695 - Desired Output 9 - 9
+8.88109e-10 - I max: 0
+6.31241e-08 - I max: 1
+0.00113804 - I max: 7
+0.994765 - I max: 8
+:::::8
+:80
+Image 696 - Desired Output 8 - 8
+1.52652e-07 - I max: 0
+5.25753e-07 - I max: 1
+8.28249e-07 - I max: 3
+9.84867e-06 - I max: 5
+0.00890345 - I max: 6
+0.988133 - I max: 7
+:::::7
+:68
+Image 697 - Desired Output 7 - 7
+1.24534e-10 - I max: 0
+2.71268e-08 - I max: 1
+9.64294e-06 - I max: 7
+0.983477 - I max: 8
+:::::8
+:81
+Image 698 - Desired Output 8 - 8
+1.02503e-05 - I max: 0
+0.000184178 - I max: 1
+0.0075416 - I max: 2
+0.984744 - I max: 3
+:::::3
+:48
+Image 699 - Desired Output 3 - 3
+4.28466e-05 - I max: 0
+0.00258438 - I max: 1
+0.562453 - I max: 2
+:::::2
+:52
+Image 700 - Desired Output 2 - 2
+1.32865e-06 - I max: 0
+2.96211e-06 - I max: 1
+2.50047e-05 - I max: 3
+0.0025484 - I max: 4
+0.992908 - I max: 5
+:::::5
+:58
+Image 701 - Desired Output 5 - 5
+3.97732e-08 - I max: 0
+2.03834e-07 - I max: 1
+2.50778e-07 - I max: 3
+0.00326645 - I max: 5
+0.993141 - I max: 6
+:::::6
+:74
+Image 702 - Desired Output 6 - 6
+3.00764e-09 - I max: 0
+1.04923e-07 - I max: 1
+3.20059e-07 - I max: 6
+0.0250737 - I max: 7
+0.957226 - I max: 8
+:::::8
+:82
+Image 703 - Desired Output 8 - 8
+0.998242 - I max: 0
+:::::0
+:60
+Image 704 - Desired Output 0 - 0
+0.00269802 - I max: 0
+0.987616 - I max: 1
+:::::1
+:40
+Image 705 - Desired Output 1 - 1
+0.55481 - I max: 0
+:::::0
+:61
+Image 706 - Desired Output 0 - 0
+4.61841e-06 - I max: 0
+4.86213e-05 - I max: 1
+0.000361527 - I max: 2
+0.755853 - I max: 3
+:::::3
+:49
+Image 707 - Desired Output 3 - 3
+9.87751e-06 - I max: 0
+0.00014087 - I max: 1
+0.00367641 - I max: 2
+0.98905 - I max: 3
+:::::3
+:50
+Image 708 - Desired Output 3 - 3
+2.64378e-12 - I max: 0
+4.7321e-09 - I max: 1
+0.0197113 - I max: 8
+0.972229 - I max: 9
+:::::9
+:110
+Image 709 - Desired Output 9 - 9
+0.00669403 - I max: 0
+0.988788 - I max: 1
+:::::1
+:41
+Image 710 - Desired Output 1 - 1
+4.73736e-05 - I max: 0
+0.0120479 - I max: 1
+0.988681 - I max: 2
+:::::2
+:53
+Image 711 - Desired Output 2 - 2
+9.63582e-09 - I max: 0
+1.6363e-07 - I max: 1
+2.89588e-07 - I max: 5
+4.62159e-06 - I max: 6
+0.33036 - I max: 7
+0.630402 - I max: 8
+:::::8
+:83
+Image 712 - Desired Output 8 - 8
+6.86841e-08 - I max: 0
+3.6245e-07 - I max: 1
+4.2045e-07 - I max: 3
+0.000128501 - I max: 5
+0.520787 - I max: 6
+:::::6
+:75
+Image 713 - Desired Output 6 - 6
+1.48621e-06 - I max: 0
+8.5618e-06 - I max: 1
+1.06094e-05 - I max: 2
+0.00218738 - I max: 3
+0.965579 - I max: 4
+:::::4
+:46
+Image 714 - Desired Output 4 - 4
+0.997751 - I max: 0
+:::::0
+:62
+Image 715 - Desired Output 0 - 0
+4.93763e-05 - I max: 0
+0.0126597 - I max: 1
+0.988585 - I max: 2
+:::::2
+:54
+Image 716 - Desired Output 2 - 2
+1.76822e-06 - I max: 0
+5.2489e-06 - I max: 1
+0.000139404 - I max: 3
+0.0718683 - I max: 4
+0.941109 - I max: 5
+:::::5
+:59
+Image 717 - Desired Output 5 - 5
+4.5388e-08 - I max: 0
+2.4144e-07 - I max: 1
+2.8865e-07 - I max: 3
+0.00149991 - I max: 5
+0.982676 - I max: 6
+:::::6
+:76
+Image 718 - Desired Output 6 - 6
+0.00223853 - I max: 0
+0.986964 - I max: 1
+:::::1
+:42
+Image 719 - Desired Output 1 - 1
+5.18408e-05 - I max: 0
+0.00559595 - I max: 1
+0.909668 - I max: 2
+:::::2
+:55
+Image 720 - Desired Output 2 - 2
+1.39307e-06 - I max: 0
+7.48072e-06 - I max: 1
+8.58573e-06 - I max: 2
+0.00149463 - I max: 3
+0.929564 - I max: 4
+:::::4
+:47
+Image 721 - Desired Output 4 - 4
+3.12996e-06 - I max: 0
+2.06829e-05 - I max: 1
+2.92367e-05 - I max: 2
+0.00860115 - I max: 3
+0.988347 - I max: 4
+:::::4
+:48
+Image 722 - Desired Output 4 - 4
+1.1583e-06 - I max: 0
+2.59265e-06 - I max: 1
+2.07897e-05 - I max: 3
+0.00177304 - I max: 4
+0.992524 - I max: 5
+:::::5
+:60
+Image 723 - Desired Output 5 - 5
+5.21934e-05 - I max: 0
+0.0136206 - I max: 1
+0.988308 - I max: 2
+:::::2
+:56
+Image 724 - Desired Output 2 - 2
+3.11166e-06 - I max: 0
+2.05315e-05 - I max: 1
+2.87348e-05 - I max: 2
+0.0083899 - I max: 3
+0.988254 - I max: 4
+:::::4
+:49
+Image 725 - Desired Output 4 - 4
+4.10969e-08 - I max: 0
+2.12206e-07 - I max: 1
+2.98058e-07 - I max: 3
+3.75704e-07 - I max: 4
+0.0410187 - I max: 5
+0.968688 - I max: 6
+:::::6
+:77
+Image 726 - Desired Output 6 - 6
+3.42221e-06 - I max: 0
+2.30402e-05 - I max: 1
+3.39732e-05 - I max: 2
+0.0107742 - I max: 3
+0.987739 - I max: 4
+:::::4
+:50
+Image 727 - Desired Output 4 - 4
+0.977638 - I max: 0
+:::::0
+:63
+Image 728 - Desired Output 0 - 0
+4.93104e-05 - I max: 0
+0.012668 - I max: 1
+0.988666 - I max: 2
+:::::2
+:57
+Image 729 - Desired Output 2 - 2
+2.63091e-06 - I max: 0
+1.69414e-05 - I max: 1
+2.30407e-05 - I max: 2
+0.0062475 - I max: 3
+0.987662 - I max: 4
+:::::4
+:51
+Image 730 - Desired Output 4 - 4
+5.61213e-05 - I max: 0
+0.0153209 - I max: 1
+0.98726 - I max: 2
+:::::2
+:58
+Image 731 - Desired Output 2 - 2
+3.24826e-05 - I max: 0
+0.00142154 - I max: 1
+0.26341 - I max: 2
+0.658676 - I max: 3
+:::::3
+:7
+Image 732 - Desired Output 2 - 3
+9.89019e-06 - I max: 0
+0.000167101 - I max: 1
+0.00602294 - I max: 2
+0.986371 - I max: 3
+:::::3
+:51
+Image 733 - Desired Output 3 - 3
+7.09627e-08 - I max: 0
+3.11282e-07 - I max: 1
+6.0624e-07 - I max: 3
+1.28319e-06 - I max: 4
+0.181126 - I max: 5
+0.836693 - I max: 6
+:::::6
+:78
+Image 734 - Desired Output 6 - 6
+0.00223865 - I max: 0
+0.986945 - I max: 1
+:::::1
+:43
+Image 735 - Desired Output 1 - 1
+0.000614818 - I max: 0
+0.922663 - I max: 1
+:::::1
+:44
+Image 736 - Desired Output 1 - 1
+0.00180673 - I max: 0
+0.985492 - I max: 1
+:::::1
+:45
+Image 737 - Desired Output 1 - 1
+5.21852e-05 - I max: 0
+0.0135672 - I max: 1
+0.988407 - I max: 2
+:::::2
+:59
+Image 738 - Desired Output 2 - 2
+4.16634e-05 - I max: 0
+0.00223334 - I max: 1
+0.455882 - I max: 2
+0.457038 - I max: 3
+:::::3
+:52
+Image 739 - Desired Output 3 - 3
+0.00349995 - I max: 0
+0.988303 - I max: 1
+:::::1
+:46
+Image 740 - Desired Output 1 - 1
+5.19259e-05 - I max: 0
+0.00548098 - I max: 1
+0.904503 - I max: 2
+:::::2
+:60
+Image 741 - Desired Output 2 - 2
+4.81854e-05 - I max: 0
+0.0123664 - I max: 1
+0.988792 - I max: 2
+:::::2
+:61
+Image 742 - Desired Output 2 - 2
+0.0139272 - I max: 0
+0.986226 - I max: 1
+:::::1
+:47
+Image 743 - Desired Output 1 - 1
+4.03372e-08 - I max: 0
+2.06964e-07 - I max: 1
+2.54938e-07 - I max: 3
+0.00315718 - I max: 5
+0.993057 - I max: 6
+:::::6
+:79
+Image 744 - Desired Output 6 - 6
+1.59318e-05 - I max: 0
+0.00043713 - I max: 1
+0.0395487 - I max: 2
+0.937825 - I max: 3
+:::::3
+:53
+Image 745 - Desired Output 3 - 3
+8.38254e-07 - I max: 0
+1.92346e-06 - I max: 1
+1.36068e-05 - I max: 3
+0.000716261 - I max: 4
+0.990275 - I max: 5
+:::::5
+:61
+Image 746 - Desired Output 5 - 5
+1.11578e-07 - I max: 0
+4.17091e-07 - I max: 1
+1.09072e-06 - I max: 3
+3.60586e-06 - I max: 4
+0.493178 - I max: 5
+0.501254 - I max: 6
+:::::6
+:9
+Image 747 - Desired Output 5 - 6
+8.2729e-08 - I max: 0
+3.50525e-07 - I max: 1
+7.33706e-07 - I max: 3
+1.80015e-06 - I max: 4
+0.234553 - I max: 5
+0.784373 - I max: 6
+:::::6
+:10
+Image 748 - Desired Output 5 - 6
+0.991048 - I max: 0
+:::::0
+:64
+Image 749 - Desired Output 0 - 0
+5.51005e-07 - I max: 0
+1.34632e-06 - I max: 1
+8.01083e-06 - I max: 3
+0.000225099 - I max: 4
+0.982552 - I max: 5
+:::::5
+:62
+Image 750 - Desired Output 5 - 5
+0.930818 - I max: 0
+:::::0
+:65
+Image 751 - Desired Output 0 - 0
+4.84739e-05 - I max: 0
+0.00907385 - I max: 1
+0.979725 - I max: 2
+:::::2
+:62
+Image 752 - Desired Output 2 - 2
+6.2677e-07 - I max: 0
+1.48116e-06 - I max: 1
+9.5072e-06 - I max: 3
+0.000335586 - I max: 4
+0.987683 - I max: 5
+:::::5
+:63
+Image 753 - Desired Output 5 - 5
+0.000900761 - I max: 0
+0.96391 - I max: 1
+:::::1
+:48
+Image 754 - Desired Output 1 - 1
+0.00151071 - I max: 0
+0.983274 - I max: 1
+:::::1
+:49
+Image 755 - Desired Output 1 - 1
+2.14515e-06 - I max: 0
+1.34345e-05 - I max: 1
+1.78387e-05 - I max: 2
+0.00450631 - I max: 3
+0.985268 - I max: 4
+:::::4
+:52
+Image 756 - Desired Output 4 - 4
+1.00052e-10 - I max: 0
+2.49039e-08 - I max: 1
+5.52193e-06 - I max: 7
+0.975322 - I max: 8
+:::::8
+:84
+Image 757 - Desired Output 8 - 8
+4.02375e-08 - I max: 0
+2.06528e-07 - I max: 1
+2.547e-07 - I max: 3
+0.00342874 - I max: 5
+0.993692 - I max: 6
+:::::6
+:80
+Image 758 - Desired Output 6 - 6
+1.59875e-06 - I max: 0
+5.47653e-06 - I max: 1
+0.000234197 - I max: 3
+0.189186 - I max: 4
+0.82957 - I max: 5
+:::::5
+:8
+Image 759 - Desired Output 4 - 5
+5.31905e-13 - I max: 0
+2.13568e-09 - I max: 1
+0.00305628 - I max: 8
+0.999432 - I max: 9
+:::::9
+:111
+Image 760 - Desired Output 9 - 9
+5.94778e-13 - I max: 0
+2.25462e-09 - I max: 1
+0.00315835 - I max: 8
+0.999234 - I max: 9
+:::::9
+:112
+Image 761 - Desired Output 9 - 9
+1.31558e-07 - I max: 0
+4.74455e-07 - I max: 1
+1.33409e-06 - I max: 3
+5.29435e-06 - I max: 4
+0.574194 - I max: 5
+:::::5
+:64
+Image 762 - Desired Output 5 - 5
+1.31838e-07 - I max: 0
+4.84615e-07 - I max: 1
+7.50838e-07 - I max: 3
+7.84504e-06 - I max: 5
+0.00513471 - I max: 6
+0.986702 - I max: 7
+:::::7
+:69
+Image 763 - Desired Output 7 - 7
+3.18978e-08 - I max: 0
+1.73707e-07 - I max: 1
+2.02503e-07 - I max: 3
+0.0069995 - I max: 5
+0.993442 - I max: 6
+:::::6
+:81
+Image 764 - Desired Output 6 - 6
+3.75034e-08 - I max: 0
+1.94261e-07 - I max: 1
+2.36738e-07 - I max: 3
+0.00416566 - I max: 5
+0.994038 - I max: 6
+:::::6
+:82
+Image 765 - Desired Output 6 - 6
+3.37295e-07 - I max: 0
+9.67713e-07 - I max: 1
+4.27994e-06 - I max: 3
+5.58738e-05 - I max: 4
+0.921618 - I max: 5
+:::::5
+:65
+Image 766 - Desired Output 5 - 5
+1.08489e-09 - I max: 0
+6.78533e-08 - I max: 1
+0.00182482 - I max: 7
+0.993809 - I max: 8
+:::::8
+:85
+Image 767 - Desired Output 8 - 8
+1.46466e-07 - I max: 0
+5.16919e-07 - I max: 1
+8.06871e-07 - I max: 3
+8.99899e-06 - I max: 5
+0.00725601 - I max: 6
+0.988009 - I max: 7
+:::::7
+:70
+Image 768 - Desired Output 7 - 7
+1.77071e-06 - I max: 0
+4.00799e-06 - I max: 1
+4.00737e-05 - I max: 3
+0.00619077 - I max: 4
+0.992362 - I max: 5
+:::::5
+:66
+Image 769 - Desired Output 5 - 5
+1.36568e-07 - I max: 0
+4.93346e-07 - I max: 1
+7.68318e-07 - I max: 3
+8.28713e-06 - I max: 5
+0.00584914 - I max: 6
+0.987098 - I max: 7
+:::::7
+:71
+Image 770 - Desired Output 7 - 7
+8.38874e-06 - I max: 0
+0.000101304 - I max: 1
+0.00184002 - I max: 2
+0.9841 - I max: 3
+:::::3
+:54
+Image 771 - Desired Output 3 - 3
+2.45819e-06 - I max: 0
+1.56677e-05 - I max: 1
+2.11543e-05 - I max: 2
+0.00558082 - I max: 3
+0.987221 - I max: 4
+:::::4
+:53
+Image 772 - Desired Output 4 - 4
+1.08959e-07 - I max: 0
+4.8003e-07 - I max: 1
+6.19393e-07 - I max: 3
+3.91058e-05 - I max: 5
+0.131164 - I max: 6
+0.908774 - I max: 7
+:::::7
+:72
+Image 773 - Desired Output 7 - 7
+3.54664e-10 - I max: 0
+4.31031e-08 - I max: 1
+0.000121637 - I max: 7
+0.995325 - I max: 8
+:::::8
+:86
+Image 774 - Desired Output 8 - 8
+3.23265e-08 - I max: 0
+1.77971e-07 - I max: 1
+2.06967e-07 - I max: 3
+0.00795876 - I max: 5
+0.993228 - I max: 6
+:::::6
+:83
+Image 775 - Desired Output 6 - 6
+4.6773e-11 - I max: 0
+1.81969e-08 - I max: 1
+7.97823e-07 - I max: 7
+0.89652 - I max: 8
+:::::8
+:87
+Image 776 - Desired Output 8 - 8
+6.07848e-07 - I max: 0
+1.45239e-06 - I max: 1
+9.10435e-06 - I max: 3
+0.000301928 - I max: 4
+0.986081 - I max: 5
+:::::5
+:67
+Image 777 - Desired Output 5 - 5
+1.14144e-06 - I max: 0
+2.56524e-06 - I max: 1
+2.00903e-05 - I max: 3
+0.00159846 - I max: 4
+0.992084 - I max: 5
+:::::5
+:68
+Image 778 - Desired Output 5 - 5
+1.41579e-06 - I max: 0
+6.36206e-06 - I max: 1
+0.00068352 - I max: 3
+0.685092 - I max: 4
+:::::4
+:54
+Image 779 - Desired Output 4 - 4
+1.41098e-06 - I max: 0
+6.3479e-06 - I max: 1
+0.000684954 - I max: 3
+0.690769 - I max: 4
+:::::4
+:55
+Image 780 - Desired Output 4 - 4
+7.19298e-06 - I max: 0
+8.2355e-05 - I max: 1
+0.00115271 - I max: 2
+0.96773 - I max: 3
+:::::3
+:55
+Image 781 - Desired Output 3 - 3
+1.9394e-06 - I max: 0
+1.20117e-05 - I max: 1
+1.58353e-05 - I max: 2
+0.00386663 - I max: 3
+0.983222 - I max: 4
+:::::4
+:56
+Image 782 - Desired Output 4 - 4
+3.55279e-08 - I max: 0
+1.86217e-07 - I max: 1
+2.24346e-07 - I max: 3
+0.00479111 - I max: 5
+0.994045 - I max: 6
+:::::6
+:84
+Image 783 - Desired Output 6 - 6
+0.998221 - I max: 0
+:::::0
+:66
+Image 784 - Desired Output 0 - 0
+1.70672e-11 - I max: 0
+1.09584e-08 - I max: 1
+7.0777e-08 - I max: 7
+0.499356 - I max: 8
+:::::8
+:88
+Image 785 - Desired Output 8 - 8
+1.44143e-06 - I max: 0
+5.82723e-06 - I max: 1
+0.000434923 - I max: 3
+0.455989 - I max: 4
+0.571313 - I max: 5
+:::::5
+:9
+Image 786 - Desired Output 4 - 5
+5.48863e-06 - I max: 0
+5.96468e-05 - I max: 1
+0.000577827 - I max: 2
+0.890338 - I max: 3
+:::::3
+:56
+Image 787 - Desired Output 3 - 3
+3.48607e-08 - I max: 0
+1.84109e-07 - I max: 1
+2.20337e-07 - I max: 3
+0.00513894 - I max: 5
+0.994011 - I max: 6
+:::::6
+:85
+Image 788 - Desired Output 6 - 6
+5.57626e-08 - I max: 0
+3.10246e-07 - I max: 1
+3.51261e-07 - I max: 3
+0.000305358 - I max: 5
+0.818605 - I max: 6
+:::::6
+:86
+Image 789 - Desired Output 6 - 6
+1.66294e-07 - I max: 0
+5.4953e-07 - I max: 1
+1.81124e-06 - I max: 3
+9.61743e-06 - I max: 4
+0.7637 - I max: 5
+:::::5
+:69
+Image 790 - Desired Output 5 - 5
+0.997083 - I max: 0
+:::::0
+:67
+Image 791 - Desired Output 0 - 0
+1.52492e-06 - I max: 0
+5.51927e-06 - I max: 1
+0.000283888 - I max: 3
+0.257064 - I max: 4
+0.768569 - I max: 5
+:::::5
+:70
+Image 792 - Desired Output 5 - 5
+1.40483e-06 - I max: 0
+7.33982e-06 - I max: 1
+8.16481e-06 - I max: 2
+0.00133161 - I max: 3
+0.908169 - I max: 4
+:::::4
+:57
+Image 793 - Desired Output 4 - 4
+3.52948e-08 - I max: 0
+2.72131e-07 - I max: 1
+3.14795e-07 - I max: 3
+1.43724e-06 - I max: 5
+0.00011576 - I max: 6
+0.902906 - I max: 7
+:::::7
+:73
+Image 794 - Desired Output 7 - 7
+1.94384e-06 - I max: 0
+4.58099e-06 - I max: 1
+5.4519e-05 - I max: 3
+0.0110484 - I max: 4
+0.989593 - I max: 5
+:::::5
+:71
+Image 795 - Desired Output 5 - 5
+0.163886 - I max: 0
+0.848945 - I max: 1
+:::::1
+:50
+Image 796 - Desired Output 1 - 1
+0.00209793 - I max: 0
+0.986574 - I max: 1
+:::::1
+:51
+Image 797 - Desired Output 1 - 1
+8.9156e-06 - I max: 0
+0.000112068 - I max: 1
+0.00228777 - I max: 2
+0.987031 - I max: 3
+:::::3
+:57
+Image 798 - Desired Output 3 - 3
+3.84401e-08 - I max: 0
+1.97804e-07 - I max: 1
+2.42399e-07 - I max: 3
+0.00355241 - I max: 5
+0.993411 - I max: 6
+:::::6
+:87
+Image 799 - Desired Output 6 - 6
+6.77974e-06 - I max: 0
+7.82525e-05 - I max: 1
+0.00111047 - I max: 2
+0.966315 - I max: 3
+:::::3
+:58
+Image 800 - Desired Output 3 - 3
+0.998369 - I max: 0
+:::::0
+:68
+Image 801 - Desired Output 0 - 0
+0.398683 - I max: 0
+0.616797 - I max: 1
+:::::1
+:11
+Image 802 - Desired Output 0 - 1
+7.77226e-05 - I max: 0
+0.0319477 - I max: 1
+0.9704 - I max: 2
+:::::2
+:63
+Image 803 - Desired Output 2 - 2
+1.72907e-05 - I max: 0
+0.000498975 - I max: 1
+0.0494825 - I max: 2
+0.923519 - I max: 3
+:::::3
+:59
+Image 804 - Desired Output 3 - 3
+4.95113e-08 - I max: 0
+3.10157e-07 - I max: 1
+3.9021e-07 - I max: 3
+2.22542e-06 - I max: 5
+0.000290145 - I max: 6
+0.94623 - I max: 7
+:::::7
+:74
+Image 805 - Desired Output 7 - 7
+9.95241e-06 - I max: 0
+0.000163975 - I max: 1
+0.00565179 - I max: 2
+0.987221 - I max: 3
+:::::3
+:60
+Image 806 - Desired Output 3 - 3
+7.32727e-08 - I max: 0
+3.63019e-07 - I max: 1
+5.05772e-07 - I max: 3
+3.69391e-06 - I max: 5
+0.000872736 - I max: 6
+0.971452 - I max: 7
+:::::7
+:75
+Image 807 - Desired Output 7 - 7
+0.987371 - I max: 0
+:::::0
+:69
+Image 808 - Desired Output 0 - 0
+1.04241e-06 - I max: 0
+2.34465e-06 - I max: 1
+1.82155e-05 - I max: 3
+0.00135985 - I max: 4
+0.992261 - I max: 5
+:::::5
+:72
+Image 809 - Desired Output 5 - 5
+0.985509 - I max: 0
+:::::0
+:70
+Image 810 - Desired Output 0 - 0
+3.87104e-06 - I max: 0
+3.30608e-05 - I max: 1
+9.73759e-05 - I max: 2
+0.111848 - I max: 3
+0.882151 - I max: 4
+:::::4
+:12
+Image 811 - Desired Output 3 - 4
+1.75016e-06 - I max: 0
+5.29384e-06 - I max: 1
+0.000149713 - I max: 3
+0.0820398 - I max: 4
+0.933345 - I max: 5
+:::::5
+:73
+Image 812 - Desired Output 5 - 5
+8.30278e-06 - I max: 0
+0.000100456 - I max: 1
+0.00183086 - I max: 2
+0.983704 - I max: 3
+:::::3
+:61
+Image 813 - Desired Output 3 - 3
+1.01612e-05 - I max: 0
+0.000183821 - I max: 1
+0.00763893 - I max: 2
+0.984204 - I max: 3
+:::::3
+:62
+Image 814 - Desired Output 3 - 3
+0.99564 - I max: 0
+:::::0
+:71
+Image 815 - Desired Output 0 - 0
+0.00100764 - I max: 0
+0.970104 - I max: 1
+:::::1
+:52
+Image 816 - Desired Output 1 - 1
+4.84078e-05 - I max: 0
+0.00927133 - I max: 1
+0.980774 - I max: 2
+:::::2
+:64
+Image 817 - Desired Output 2 - 2
+2.53353e-06 - I max: 0
+1.62088e-05 - I max: 1
+2.17969e-05 - I max: 2
+0.0058079 - I max: 3
+0.987341 - I max: 4
+:::::4
+:58
+Image 818 - Desired Output 4 - 4
+1.39288e-06 - I max: 0
+7.19071e-06 - I max: 1
+7.87442e-06 - I max: 2
+0.00125567 - I max: 3
+0.900409 - I max: 4
+:::::4
+:59
+Image 819 - Desired Output 4 - 4
+4.83298e-05 - I max: 0
+0.0124916 - I max: 1
+0.988953 - I max: 2
+:::::2
+:65
+Image 820 - Desired Output 2 - 2
+3.22105e-06 - I max: 0
+2.135e-05 - I max: 1
+3.02672e-05 - I max: 2
+0.00903998 - I max: 3
+0.988107 - I max: 4
+:::::4
+:60
+Image 821 - Desired Output 4 - 4
+4.81794e-05 - I max: 0
+0.0121351 - I max: 1
+0.988192 - I max: 2
+:::::2
+:66
+Image 822 - Desired Output 2 - 2
+4.78107e-05 - I max: 0
+0.00973671 - I max: 1
+0.983188 - I max: 2
+:::::2
+:67
+Image 823 - Desired Output 2 - 2
+1.58858e-06 - I max: 0
+9.41529e-06 - I max: 1
+1.19567e-05 - I max: 2
+0.00262822 - I max: 3
+0.974162 - I max: 4
+:::::4
+:61
+Image 824 - Desired Output 4 - 4
+1.96355e-06 - I max: 0
+4.78966e-06 - I max: 1
+6.50868e-05 - I max: 3
+0.0156585 - I max: 4
+0.986767 - I max: 5
+:::::5
+:74
+Image 825 - Desired Output 5 - 5
+5.1113e-05 - I max: 0
+0.013264 - I max: 1
+0.988659 - I max: 2
+:::::2
+:68
+Image 826 - Desired Output 2 - 2
+4.68329e-05 - I max: 0
+0.0110812 - I max: 1
+0.987096 - I max: 2
+:::::2
+:69
+Image 827 - Desired Output 2 - 2
+0.0197932 - I max: 0
+0.982668 - I max: 1
+:::::1
+:53
+Image 828 - Desired Output 1 - 1
+0.00675244 - I max: 0
+0.988893 - I max: 1
+:::::1
+:54
+Image 829 - Desired Output 1 - 1
+0.00331443 - I max: 0
+0.988181 - I max: 1
+:::::1
+:55
+Image 830 - Desired Output 1 - 1
+0.000237217 - I max: 0
+0.473918 - I max: 1
+0.587167 - I max: 2
+:::::2
+:5
+Image 831 - Desired Output 1 - 2
+1.48064e-06 - I max: 0
+8.50068e-06 - I max: 1
+1.04726e-05 - I max: 2
+0.00214384 - I max: 3
+0.964939 - I max: 4
+:::::4
+:62
+Image 832 - Desired Output 4 - 4
+1.41648e-06 - I max: 0
+7.67344e-06 - I max: 1
+8.90606e-06 - I max: 2
+0.00159318 - I max: 3
+0.937388 - I max: 4
+:::::4
+:63
+Image 833 - Desired Output 4 - 4
+1.11617e-05 - I max: 0
+0.000228314 - I max: 1
+0.0118399 - I max: 2
+0.978295 - I max: 3
+:::::3
+:63
+Image 834 - Desired Output 3 - 3
+4.78721e-05 - I max: 0
+0.00323711 - I max: 1
+0.674049 - I max: 2
+:::::2
+:70
+Image 835 - Desired Output 2 - 2
+5.1699e-05 - I max: 0
+0.00485696 - I max: 1
+0.86408 - I max: 2
+:::::2
+:71
+Image 836 - Desired Output 2 - 2
+4.68809e-05 - I max: 0
+0.0111346 - I max: 1
+0.987352 - I max: 2
+:::::2
+:72
+Image 837 - Desired Output 2 - 2
+4.99478e-05 - I max: 0
+0.00786534 - I max: 1
+0.968291 - I max: 2
+:::::2
+:73
+Image 838 - Desired Output 2 - 2
+0.000876115 - I max: 0
+0.961906 - I max: 1
+:::::1
+:56
+Image 839 - Desired Output 1 - 1
+7.99585e-05 - I max: 0
+0.0351875 - I max: 1
+0.968396 - I max: 2
+:::::2
+:74
+Image 840 - Desired Output 2 - 2
+4.0404e-06 - I max: 0
+4.19339e-05 - I max: 1
+0.000273514 - I max: 2
+0.635375 - I max: 3
+:::::3
+:64
+Image 841 - Desired Output 3 - 3
+0.232642 - I max: 0
+0.78253 - I max: 1
+:::::1
+:12
+Image 842 - Desired Output 0 - 1
+0.964641 - I max: 0
+:::::0
+:72
+Image 843 - Desired Output 0 - 0
+6.3514e-11 - I max: 0
+1.99578e-08 - I max: 1
+1.85652e-06 - I max: 7
+0.944141 - I max: 8
+:::::8
+:89
+Image 844 - Desired Output 8 - 8
+2.11673e-09 - I max: 0
+8.82625e-08 - I max: 1
+1.42515e-07 - I max: 6
+0.00973261 - I max: 7
+0.98163 - I max: 8
+:::::8
+:90
+Image 845 - Desired Output 8 - 8
+1.5079e-07 - I max: 0
+5.23369e-07 - I max: 1
+8.23737e-07 - I max: 3
+9.514e-06 - I max: 5
+0.00820251 - I max: 6
+0.988163 - I max: 7
+:::::7
+:76
+Image 846 - Desired Output 7 - 7
+3.98122e-06 - I max: 0
+2.87957e-05 - I max: 1
+5.05454e-05 - I max: 2
+0.022626 - I max: 3
+0.979347 - I max: 4
+:::::4
+:64
+Image 847 - Desired Output 4 - 4
+1.24614e-07 - I max: 0
+4.77067e-07 - I max: 1
+7.22791e-07 - I max: 3
+7.12225e-06 - I max: 5
+0.00414001 - I max: 6
+0.985969 - I max: 7
+:::::7
+:77
+Image 848 - Desired Output 7 - 7
+3.40792e-08 - I max: 0
+1.81222e-07 - I max: 1
+2.15265e-07 - I max: 3
+0.0056381 - I max: 5
+0.993939 - I max: 6
+:::::6
+:88
+Image 849 - Desired Output 6 - 6
+0.0017703 - I max: 0
+0.985184 - I max: 1
+:::::1
+:57
+Image 850 - Desired Output 1 - 1
+9.63257e-06 - I max: 0
+0.000136842 - I max: 1
+0.0036618 - I max: 2
+0.988854 - I max: 3
+:::::3
+:65
+Image 851 - Desired Output 3 - 3
+0.211503 - I max: 0
+0.800871 - I max: 1
+:::::1
+:58
+Image 852 - Desired Output 1 - 1
+0.00291462 - I max: 0
+0.987924 - I max: 1
+:::::1
+:59
+Image 853 - Desired Output 1 - 1
+0.00666931 - I max: 0
+0.98893 - I max: 1
+:::::1
+:60
+Image 854 - Desired Output 1 - 1
+0.995561 - I max: 0
+:::::0
+:73
+Image 855 - Desired Output 0 - 0
+0.00236607 - I max: 0
+0.987244 - I max: 1
+:::::1
+:61
+Image 856 - Desired Output 1 - 1
+1.76427e-07 - I max: 0
+5.94757e-07 - I max: 1
+9.17731e-07 - I max: 3
+1.53572e-05 - I max: 5
+0.0250932 - I max: 6
+0.986352 - I max: 7
+:::::7
+:78
+Image 857 - Desired Output 7 - 7
+9.7085e-06 - I max: 0
+0.000139516 - I max: 1
+0.00375752 - I max: 2
+0.988808 - I max: 3
+:::::3
+:66
+Image 858 - Desired Output 3 - 3
+4.10665e-08 - I max: 0
+2.88346e-07 - I max: 1
+3.46123e-07 - I max: 3
+1.74587e-06 - I max: 5
+0.000173936 - I max: 6
+0.925626 - I max: 7
+:::::7
+:79
+Image 859 - Desired Output 7 - 7
+3.72655e-08 - I max: 0
+2.75346e-07 - I max: 1
+3.28885e-07 - I max: 3
+1.54483e-06 - I max: 5
+0.000134133 - I max: 6
+0.911897 - I max: 7
+:::::7
+:80
+Image 860 - Desired Output 7 - 7
+3.13962e-13 - I max: 0
+1.58544e-09 - I max: 1
+0.00357176 - I max: 8
+0.999887 - I max: 9
+:::::9
+:113
+Image 861 - Desired Output 9 - 9
+6.05997e-08 - I max: 0
+3.27698e-07 - I max: 1
+3.76682e-07 - I max: 3
+0.000233939 - I max: 5
+0.738488 - I max: 6
+:::::6
+:89
+Image 862 - Desired Output 6 - 6
+1.04016e-07 - I max: 0
+4.38819e-07 - I max: 1
+6.42141e-07 - I max: 3
+5.58653e-06 - I max: 5
+0.00231357 - I max: 6
+0.982439 - I max: 7
+:::::7
+:81
+Image 863 - Desired Output 7 - 7
+1.79225e-09 - I max: 0
+8.3193e-08 - I max: 1
+9.81214e-08 - I max: 6
+0.0064472 - I max: 7
+0.98674 - I max: 8
+:::::8
+:91
+Image 864 - Desired Output 8 - 8
+1.50676e-07 - I max: 0
+5.36158e-07 - I max: 1
+7.99866e-07 - I max: 3
+2.18457e-05 - I max: 5
+0.0447072 - I max: 6
+0.973073 - I max: 7
+:::::7
+:82
+Image 865 - Desired Output 7 - 7
+1.34533e-07 - I max: 0
+4.76441e-07 - I max: 1
+1.38504e-06 - I max: 3
+5.71745e-06 - I max: 4
+0.625657 - I max: 5
+:::::5
+:75
+Image 866 - Desired Output 5 - 5
+1.61676e-11 - I max: 0
+1.07517e-08 - I max: 1
+6.05843e-08 - I max: 7
+0.468984 - I max: 8
+:::::8
+:92
+Image 867 - Desired Output 8 - 8
+1.46013e-07 - I max: 0
+5.13857e-07 - I max: 1
+8.05249e-07 - I max: 3
+9.06974e-06 - I max: 5
+0.00733797 - I max: 6
+0.987911 - I max: 7
+:::::7
+:83
+Image 868 - Desired Output 7 - 7
+1.07837e-08 - I max: 0
+1.68985e-07 - I max: 1
+3.33396e-07 - I max: 5
+6.07628e-06 - I max: 6
+0.390601 - I max: 7
+0.568482 - I max: 8
+:::::8
+:4
+Image 869 - Desired Output 7 - 8
+1.57386e-06 - I max: 0
+5.35309e-06 - I max: 1
+0.000222872 - I max: 3
+0.174586 - I max: 4
+0.844304 - I max: 5
+:::::5
+:76
+Image 870 - Desired Output 5 - 5
+3.0786e-08 - I max: 0
+1.70568e-07 - I max: 1
+2.03317e-07 - I max: 3
+0.0157226 - I max: 5
+0.988122 - I max: 6
+:::::6
+:90
+Image 871 - Desired Output 6 - 6
+0.998435 - I max: 0
+:::::0
+:74
+Image 872 - Desired Output 0 - 0
+1.83397e-11 - I max: 0
+1.14354e-08 - I max: 1
+8.30175e-08 - I max: 7
+0.540255 - I max: 8
+:::::8
+:93
+Image 873 - Desired Output 8 - 8
+1.40013e-06 - I max: 0
+6.38286e-06 - I max: 1
+0.000720684 - I max: 3
+0.714027 - I max: 4
+:::::4
+:65
+Image 874 - Desired Output 4 - 4
+1.61488e-07 - I max: 0
+5.40537e-07 - I max: 1
+8.56061e-07 - I max: 3
+1.18264e-05 - I max: 5
+0.0132324 - I max: 6
+0.987445 - I max: 7
+:::::7
+:84
+Image 875 - Desired Output 7 - 7
+0.996032 - I max: 0
+:::::0
+:75
+Image 876 - Desired Output 0 - 0
+0.997186 - I max: 0
+:::::0
+:76
+Image 877 - Desired Output 0 - 0
+2.74884e-07 - I max: 0
+8.01194e-07 - I max: 1
+3.36495e-06 - I max: 3
+3.44283e-05 - I max: 4
+0.91309 - I max: 5
+:::::5
+:77
+Image 878 - Desired Output 5 - 5
+0.00354746 - I max: 0
+0.988326 - I max: 1
+:::::1
+:62
+Image 879 - Desired Output 1 - 1
+6.21225e-06 - I max: 0
+6.89944e-05 - I max: 1
+0.000794969 - I max: 2
+0.938425 - I max: 3
+:::::3
+:67
+Image 880 - Desired Output 3 - 3
+1.43054e-06 - I max: 0
+6.64345e-06 - I max: 1
+0.000806388 - I max: 3
+0.755727 - I max: 4
+:::::4
+:66
+Image 881 - Desired Output 4 - 4
+1.54647e-05 - I max: 0
+0.00041674 - I max: 1
+0.036345 - I max: 2
+0.942401 - I max: 3
+:::::3
+:68
+Image 882 - Desired Output 3 - 3
+9.34873e-06 - I max: 0
+0.000122403 - I max: 1
+0.00276975 - I max: 2
+0.98858 - I max: 3
+:::::3
+:69
+Image 883 - Desired Output 3 - 3
+3.16044e-08 - I max: 0
+1.75728e-07 - I max: 1
+2.03526e-07 - I max: 3
+0.00971453 - I max: 5
+0.992326 - I max: 6
+:::::6
+:91
+Image 884 - Desired Output 6 - 6
+5.39227e-05 - I max: 0
+0.0141953 - I max: 1
+0.987766 - I max: 2
+:::::2
+:75
+Image 885 - Desired Output 2 - 2
+5.16552e-05 - I max: 0
+0.0135374 - I max: 1
+0.988717 - I max: 2
+:::::2
+:76
+Image 886 - Desired Output 2 - 2
+5.21967e-05 - I max: 0
+0.0135124 - I max: 1
+0.988224 - I max: 2
+:::::2
+:77
+Image 887 - Desired Output 2 - 2
+0.000635478 - I max: 0
+0.927007 - I max: 1
+:::::1
+:63
+Image 888 - Desired Output 1 - 1
+1.44096e-06 - I max: 0
+3.21274e-06 - I max: 1
+2.80769e-05 - I max: 3
+0.0032015 - I max: 4
+0.992979 - I max: 5
+:::::5
+:78
+Image 889 - Desired Output 5 - 5
+4.90454e-05 - I max: 0
+0.00863749 - I max: 1
+0.97709 - I max: 2
+:::::2
+:78
+Image 890 - Desired Output 2 - 2
+4.70241e-05 - I max: 0
+0.0117143 - I max: 1
+0.98818 - I max: 2
+:::::2
+:79
+Image 891 - Desired Output 2 - 2
+0.00288814 - I max: 0
+0.987933 - I max: 1
+:::::1
+:64
+Image 892 - Desired Output 1 - 1
+0.00192192 - I max: 0
+0.986007 - I max: 1
+:::::1
+:65
+Image 893 - Desired Output 1 - 1
+1.9967e-06 - I max: 0
+1.24103e-05 - I max: 1
+1.64015e-05 - I max: 2
+0.00404921 - I max: 3
+0.983882 - I max: 4
+:::::4
+:67
+Image 894 - Desired Output 4 - 4
+6.22126e-06 - I max: 0
+6.99634e-05 - I max: 1
+0.000853673 - I max: 2
+0.94648 - I max: 3
+:::::3
+:70
+Image 895 - Desired Output 3 - 3
+9.31553e-06 - I max: 0
+0.000123516 - I max: 1
+0.0028479 - I max: 2
+0.988523 - I max: 3
+:::::3
+:71
+Image 896 - Desired Output 3 - 3
+4.93749e-05 - I max: 0
+0.0127557 - I max: 1
+0.988802 - I max: 2
+:::::2
+:80
+Image 897 - Desired Output 2 - 2
+1.72093e-06 - I max: 0
+1.04245e-05 - I max: 1
+1.34795e-05 - I max: 2
+0.00313176 - I max: 3
+0.979439 - I max: 4
+:::::4
+:68
+Image 898 - Desired Output 4 - 4
+0.997358 - I max: 0
+:::::0
+:77
+Image 899 - Desired Output 0 - 0
+4.50636e-06 - I max: 0
+4.62684e-05 - I max: 1
+0.000314294 - I max: 2
+0.68684 - I max: 3
+:::::3
+:72
+Image 900 - Desired Output 3 - 3
+0.00557978 - I max: 0
+0.988777 - I max: 1
+:::::1
+:66
+Image 901 - Desired Output 1 - 1
+4.746e-10 - I max: 0
+4.86034e-08 - I max: 1
+0.000250758 - I max: 7
+0.995932 - I max: 8
+:::::8
+:94
+Image 902 - Desired Output 8 - 8
+1.51314e-08 - I max: 0
+1.92289e-07 - I max: 1
+1.97377e-07 - I max: 3
+5.02034e-07 - I max: 5
+1.37715e-05 - I max: 6
+0.58864 - I max: 7
+:::::7
+:85
+Image 903 - Desired Output 7 - 7
+2.11103e-08 - I max: 0
+2.23507e-07 - I max: 1
+2.316e-07 - I max: 3
+7.51187e-07 - I max: 5
+3.08974e-05 - I max: 6
+0.761217 - I max: 7
+:::::7
+:86
+Image 904 - Desired Output 7 - 7
+5.52743e-08 - I max: 0
+3.29555e-07 - I max: 1
+4.17101e-07 - I max: 3
+2.53367e-06 - I max: 5
+0.000388405 - I max: 6
+0.955017 - I max: 7
+:::::7
+:87
+Image 905 - Desired Output 7 - 7
+1.21466e-10 - I max: 0
+2.74536e-08 - I max: 1
+8.83277e-06 - I max: 7
+0.982808 - I max: 8
+:::::8
+:95
+Image 906 - Desired Output 8 - 8
+6.37761e-05 - I max: 0
+0.0198351 - I max: 1
+0.982126 - I max: 2
+:::::2
+:81
+Image 907 - Desired Output 2 - 2
+1.49046e-06 - I max: 0
+5.63258e-06 - I max: 1
+0.000335232 - I max: 3
+0.327354 - I max: 4
+0.700499 - I max: 5
+:::::5
+:79
+Image 908 - Desired Output 5 - 5
+1.07387e-12 - I max: 0
+3.0912e-09 - I max: 1
+0.00499983 - I max: 8
+0.996624 - I max: 9
+:::::9
+:114
+Image 909 - Desired Output 9 - 9
+0.09745 - I max: 0
+0.913512 - I max: 1
+:::::1
+:67
+Image 910 - Desired Output 1 - 1
+5.28894e-06 - I max: 0
+5.82625e-05 - I max: 1
+0.000588186 - I max: 2
+0.89559 - I max: 3
+:::::3
+:73
+Image 911 - Desired Output 3 - 3
+0.996321 - I max: 0
+:::::0
+:78
+Image 912 - Desired Output 0 - 0
+0.000679402 - I max: 0
+0.937297 - I max: 1
+:::::1
+:68
+Image 913 - Desired Output 1 - 1
+0.998204 - I max: 0
+:::::0
+:79
+Image 914 - Desired Output 0 - 0
+2.19296e-10 - I max: 0
+3.56175e-08 - I max: 1
+3.76487e-05 - I max: 7
+0.992564 - I max: 8
+:::::8
+:96
+Image 915 - Desired Output 8 - 8
+9.9158e-06 - I max: 0
+0.000146536 - I max: 1
+0.00418441 - I max: 2
+0.988888 - I max: 3
+:::::3
+:74
+Image 916 - Desired Output 3 - 3
+1.58417e-06 - I max: 0
+5.41908e-06 - I max: 1
+0.000231542 - I max: 3
+0.184652 - I max: 4
+0.836772 - I max: 5
+:::::5
+:80
+Image 917 - Desired Output 5 - 5
+8.78268e-09 - I max: 0
+1.53459e-07 - I max: 1
+2.61514e-07 - I max: 5
+3.77764e-06 - I max: 6
+0.272834 - I max: 7
+0.682459 - I max: 8
+:::::8
+:97
+Image 918 - Desired Output 8 - 8
+7.14724e-06 - I max: 0
+8.19201e-05 - I max: 1
+0.00116116 - I max: 2
+0.968203 - I max: 3
+:::::3
+:75
+Image 919 - Desired Output 3 - 3
+8.01313e-10 - I max: 0
+5.99676e-08 - I max: 1
+0.00087596 - I max: 7
+0.995365 - I max: 8
+:::::8
+:98
+Image 920 - Desired Output 8 - 8
+1.25233e-07 - I max: 0
+4.83556e-07 - I max: 1
+6.84634e-07 - I max: 3
+3.56025e-05 - I max: 5
+0.0977366 - I max: 6
+0.934586 - I max: 7
+:::::7
+:88
+Image 921 - Desired Output 7 - 7
+1.6943e-09 - I max: 0
+8.15655e-08 - I max: 1
+8.69032e-08 - I max: 6
+0.00559775 - I max: 7
+0.987746 - I max: 8
+:::::8
+:99
+Image 922 - Desired Output 8 - 8
+7.68075e-08 - I max: 0
+3.71752e-07 - I max: 1
+5.20856e-07 - I max: 3
+3.92263e-06 - I max: 5
+0.000999461 - I max: 6
+0.973272 - I max: 7
+:::::7
+:89
+Image 923 - Desired Output 7 - 7
+4.81213e-08 - I max: 0
+2.70588e-07 - I max: 1
+3.08463e-07 - I max: 3
+0.000714966 - I max: 5
+0.949319 - I max: 6
+:::::6
+:92
+Image 924 - Desired Output 6 - 6
+3.27991e-08 - I max: 0
+1.78791e-07 - I max: 1
+2.08803e-07 - I max: 3
+0.007085 - I max: 5
+0.993585 - I max: 6
+:::::6
+:93
+Image 925 - Desired Output 6 - 6
+4.14752e-08 - I max: 0
+2.83722e-07 - I max: 1
+3.50346e-07 - I max: 3
+1.79026e-06 - I max: 5
+0.00018191 - I max: 6
+0.927486 - I max: 7
+:::::7
+:90
+Image 926 - Desired Output 7 - 7
+2.70289e-06 - I max: 0
+1.74465e-05 - I max: 1
+2.37773e-05 - I max: 2
+0.00649534 - I max: 3
+0.987902 - I max: 4
+:::::4
+:69
+Image 927 - Desired Output 4 - 4
+0.000958193 - I max: 0
+0.967533 - I max: 1
+:::::1
+:69
+Image 928 - Desired Output 1 - 1
+3.03732e-08 - I max: 0
+1.68923e-07 - I max: 1
+1.94685e-07 - I max: 3
+0.00950668 - I max: 5
+0.992226 - I max: 6
+:::::6
+:94
+Image 929 - Desired Output 6 - 6
+4.105e-08 - I max: 0
+2.10621e-07 - I max: 1
+2.58967e-07 - I max: 3
+0.00290374 - I max: 5
+0.992459 - I max: 6
+:::::6
+:95
+Image 930 - Desired Output 6 - 6
+4.84115e-05 - I max: 0
+0.0124564 - I max: 1
+0.988876 - I max: 2
+:::::2
+:82
+Image 931 - Desired Output 2 - 2
+1.67628e-07 - I max: 0
+5.54882e-07 - I max: 1
+1.82672e-06 - I max: 3
+9.86454e-06 - I max: 4
+0.7607 - I max: 5
+:::::5
+:1
+Image 932 - Desired Output 6 - 5
+1.16262e-05 - I max: 0
+0.000250304 - I max: 1
+0.0143465 - I max: 2
+0.974694 - I max: 3
+:::::3
+:76
+Image 933 - Desired Output 3 - 3
+0.0154834 - I max: 0
+0.985161 - I max: 1
+:::::1
+:70
+Image 934 - Desired Output 1 - 1
+1.4389e-05 - I max: 0
+0.000365855 - I max: 1
+0.0286323 - I max: 2
+0.953271 - I max: 3
+:::::3
+:77
+Image 935 - Desired Output 3 - 3
+5.02279e-05 - I max: 0
+0.00766166 - I max: 1
+0.966245 - I max: 2
+:::::2
+:83
+Image 936 - Desired Output 2 - 2
+2.30223e-06 - I max: 0
+1.45668e-05 - I max: 1
+1.94391e-05 - I max: 2
+0.0050355 - I max: 3
+0.986264 - I max: 4
+:::::4
+:70
+Image 937 - Desired Output 4 - 4
+9.79053e-06 - I max: 0
+0.000156444 - I max: 1
+0.00509307 - I max: 2
+0.987646 - I max: 3
+:::::3
+:78
+Image 938 - Desired Output 3 - 3
+0.000124863 - I max: 0
+0.121241 - I max: 1
+0.895561 - I max: 2
+:::::2
+:84
+Image 939 - Desired Output 2 - 2
+5.1275e-05 - I max: 0
+0.00540409 - I max: 1
+0.903611 - I max: 2
+:::::2
+:85
+Image 940 - Desired Output 2 - 2
+0.000934472 - I max: 0
+0.965948 - I max: 1
+:::::1
+:71
+Image 941 - Desired Output 1 - 1
+0.224215 - I max: 0
+0.791086 - I max: 1
+:::::1
+:13
+Image 942 - Desired Output 0 - 1
+0.00188404 - I max: 0
+0.985853 - I max: 1
+:::::1
+:72
+Image 943 - Desired Output 1 - 1
+0.00015475 - I max: 0
+0.208463 - I max: 1
+0.824386 - I max: 2
+:::::2
+:86
+Image 944 - Desired Output 2 - 2
+1.27471e-05 - I max: 0
+0.000294018 - I max: 1
+0.0190361 - I max: 2
+0.967258 - I max: 3
+:::::3
+:79
+Image 945 - Desired Output 3 - 3
+3.40959e-06 - I max: 0
+2.28967e-05 - I max: 1
+3.33573e-05 - I max: 2
+0.0104428 - I max: 3
+0.988048 - I max: 4
+:::::4
+:71
+Image 946 - Desired Output 4 - 4
+0.041907 - I max: 0
+0.963845 - I max: 1
+:::::1
+:73
+Image 947 - Desired Output 1 - 1
+0.992768 - I max: 0
+:::::0
+:80
+Image 948 - Desired Output 0 - 0
+1.4692e-06 - I max: 0
+3.27707e-06 - I max: 1
+2.85428e-05 - I max: 3
+0.0032529 - I max: 4
+0.992879 - I max: 5
+:::::5
+:81
+Image 949 - Desired Output 5 - 5
+8.27065e-06 - I max: 0
+0.000100129 - I max: 1
+0.00182752 - I max: 2
+0.983654 - I max: 3
+:::::3
+:80
+Image 950 - Desired Output 3 - 3
+1.6859e-12 - I max: 0
+3.78272e-09 - I max: 1
+0.00932741 - I max: 8
+0.98983 - I max: 9
+:::::9
+:115
+Image 951 - Desired Output 9 - 9
+2.6305e-07 - I max: 0
+7.68019e-07 - I max: 1
+3.19019e-06 - I max: 3
+3.09947e-05 - I max: 4
+0.911508 - I max: 5
+:::::5
+:82
+Image 952 - Desired Output 5 - 5
+1.51009e-06 - I max: 0
+8.74362e-06 - I max: 1
+1.08706e-05 - I max: 2
+0.00228029 - I max: 3
+0.968501 - I max: 4
+:::::4
+:72
+Image 953 - Desired Output 4 - 4
+1.56426e-07 - I max: 0
+5.46483e-07 - I max: 1
+8.26129e-07 - I max: 3
+1.99154e-05 - I max: 5
+0.0379402 - I max: 6
+0.977326 - I max: 7
+:::::7
+:91
+Image 954 - Desired Output 7 - 7
+1.16045e-07 - I max: 0
+4.53841e-07 - I max: 1
+6.88037e-07 - I max: 3
+6.60575e-06 - I max: 5
+0.00339402 - I max: 6
+0.98471 - I max: 7
+:::::7
+:92
+Image 955 - Desired Output 7 - 7
+1.18046e-09 - I max: 0
+7.05545e-08 - I max: 1
+0.00227467 - I max: 7
+0.992996 - I max: 8
+:::::8
+:100
+Image 956 - Desired Output 8 - 8
+0.00085729 - I max: 0
+0.959762 - I max: 1
+:::::1
+:74
+Image 957 - Desired Output 1 - 1
+5.65141e-08 - I max: 0
+3.3706e-07 - I max: 1
+3.60881e-07 - I max: 3
+0.000163562 - I max: 5
+0.653162 - I max: 6
+:::::6
+:96
+Image 958 - Desired Output 6 - 6
+0.96716 - I max: 0
+:::::0
+:81
+Image 959 - Desired Output 0 - 0
+1.28192e-08 - I max: 0
+1.78963e-07 - I max: 1
+1.81262e-07 - I max: 3
+4.11513e-07 - I max: 5
+9.27085e-06 - I max: 6
+0.490469 - I max: 7
+:::::7
+:93
+Image 960 - Desired Output 7 - 7
+1.60779e-06 - I max: 0
+5.3674e-06 - I max: 1
+0.000209562 - I max: 3
+0.154908 - I max: 4
+0.866035 - I max: 5
+:::::5
+:83
+Image 961 - Desired Output 5 - 5
+1.13591e-06 - I max: 0
+2.54493e-06 - I max: 1
+2.00933e-05 - I max: 3
+0.00163275 - I max: 4
+0.992285 - I max: 5
+:::::5
+:84
+Image 962 - Desired Output 5 - 5
+1.25911e-07 - I max: 0
+4.79232e-07 - I max: 1
+7.28882e-07 - I max: 3
+7.20798e-06 - I max: 5
+0.00424826 - I max: 6
+0.986132 - I max: 7
+:::::7
+:94
+Image 963 - Desired Output 7 - 7
+1.02967e-12 - I max: 0
+3.00201e-09 - I max: 1
+0.00493507 - I max: 8
+0.996777 - I max: 9
+:::::9
+:116
+Image 964 - Desired Output 9 - 9
+2.18877e-06 - I max: 0
+1.37127e-05 - I max: 1
+1.81884e-05 - I max: 2
+0.00460737 - I max: 3
+0.985534 - I max: 4
+:::::4
+:73
+Image 965 - Desired Output 4 - 4
+1.77664e-06 - I max: 0
+4.02317e-06 - I max: 1
+4.04006e-05 - I max: 3
+0.00630237 - I max: 4
+0.992265 - I max: 5
+:::::5
+:85
+Image 966 - Desired Output 5 - 5
+1.46219e-05 - I max: 0
+0.000374863 - I max: 1
+0.0299413 - I max: 2
+0.951195 - I max: 3
+:::::3
+:81
+Image 967 - Desired Output 3 - 3
+1.87034e-06 - I max: 0
+5.10492e-06 - I max: 1
+0.000101717 - I max: 3
+0.0385362 - I max: 4
+0.968583 - I max: 5
+:::::5
+:86
+Image 968 - Desired Output 5 - 5
+5.49662e-08 - I max: 0
+3.10877e-07 - I max: 1
+3.48467e-07 - I max: 3
+0.000306709 - I max: 5
+0.821602 - I max: 6
+:::::6
+:97
+Image 969 - Desired Output 6 - 6
+5.35548e-06 - I max: 0
+5.73788e-05 - I max: 1
+0.000507567 - I max: 2
+0.860243 - I max: 3
+:::::3
+:82
+Image 970 - Desired Output 3 - 3
+4.78678e-05 - I max: 0
+0.00338053 - I max: 1
+0.704663 - I max: 2
+:::::2
+:87
+Image 971 - Desired Output 2 - 2
+5.05439e-05 - I max: 0
+0.00731667 - I max: 1
+0.960943 - I max: 2
+:::::2
+:88
+Image 972 - Desired Output 2 - 2
+1.04322e-05 - I max: 0
+0.00019758 - I max: 1
+0.00878504 - I max: 2
+0.982743 - I max: 3
+:::::3
+:83
+Image 973 - Desired Output 3 - 3
+1.43928e-06 - I max: 0
+6.30458e-06 - I max: 1
+0.000621708 - I max: 3
+0.631847 - I max: 4
+:::::4
+:74
+Image 974 - Desired Output 4 - 4
+6.97041e-07 - I max: 0
+1.62266e-06 - I max: 1
+1.08624e-05 - I max: 3
+0.000446382 - I max: 4
+0.989242 - I max: 5
+:::::5
+:87
+Image 975 - Desired Output 5 - 5
+1.33994e-05 - I max: 0
+0.00031972 - I max: 1
+0.0220781 - I max: 2
+0.962064 - I max: 3
+:::::3
+:84
+Image 976 - Desired Output 3 - 3
+3.59724e-06 - I max: 0
+2.46201e-05 - I max: 1
+3.74716e-05 - I max: 2
+0.0127534 - I max: 3
+0.986221 - I max: 4
+:::::4
+:75
+Image 977 - Desired Output 4 - 4
+0.000205145 - I max: 0
+0.37947 - I max: 1
+0.676106 - I max: 2
+:::::2
+:89
+Image 978 - Desired Output 2 - 2
+0.00148827 - I max: 0
+0.982813 - I max: 1
+:::::1
+:75
+Image 979 - Desired Output 1 - 1
+3.85701e-06 - I max: 0
+3.63272e-05 - I max: 1
+0.000151914 - I max: 2
+0.288193 - I max: 3
+0.677063 - I max: 4
+:::::4
+:76
+Image 980 - Desired Output 4 - 4
+0.998619 - I max: 0
+:::::0
+:82
+Image 981 - Desired Output 0 - 0
+5.09369e-05 - I max: 0
+0.00698839 - I max: 1
+0.954468 - I max: 2
+:::::2
+:90
+Image 982 - Desired Output 2 - 2
+0.00358054 - I max: 0
+0.988232 - I max: 1
+:::::1
+:76
+Image 983 - Desired Output 1 - 1
+0.225054 - I max: 0
+0.788547 - I max: 1
+:::::1
+:77
+Image 984 - Desired Output 1 - 1
+0.997698 - I max: 0
+:::::0
+:83
+Image 985 - Desired Output 0 - 0
+5.15124e-05 - I max: 0
+0.0133139 - I max: 1
+0.988446 - I max: 2
+:::::2
+:91
+Image 986 - Desired Output 2 - 2
+8.58397e-06 - I max: 0
+0.000106039 - I max: 1
+0.00207081 - I max: 2
+0.985719 - I max: 3
+:::::3
+:85
+Image 987 - Desired Output 3 - 3
+3.67706e-08 - I max: 0
+2.7711e-07 - I max: 1
+3.21394e-07 - I max: 3
+1.51423e-06 - I max: 5
+0.000129736 - I max: 6
+0.909944 - I max: 7
+:::::7
+:95
+Image 988 - Desired Output 7 - 7
+0.0140826 - I max: 0
+0.985808 - I max: 1
+:::::1
+:78
+Image 989 - Desired Output 1 - 1
+3.46692e-08 - I max: 0
+1.87194e-07 - I max: 1
+2.38954e-07 - I max: 3
+2.55273e-07 - I max: 4
+0.0248551 - I max: 5
+0.981522 - I max: 6
+:::::6
+:98
+Image 990 - Desired Output 6 - 6
+9.02688e-07 - I max: 0
+2.05863e-06 - I max: 1
+1.49289e-05 - I max: 3
+0.000866081 - I max: 4
+0.990875 - I max: 5
+:::::5
+:88
+Image 991 - Desired Output 5 - 5
+5.48308e-09 - I max: 0
+1.30671e-07 - I max: 1
+1.48323e-07 - I max: 5
+1.22983e-06 - I max: 6
+0.103588 - I max: 7
+0.867075 - I max: 8
+:::::8
+:101
+Image 992 - Desired Output 8 - 8
+1.86523e-06 - I max: 0
+1.14132e-05 - I max: 1
+1.49478e-05 - I max: 2
+0.00355951 - I max: 3
+0.981725 - I max: 4
+:::::4
+:77
+Image 993 - Desired Output 4 - 4
+1.01134e-07 - I max: 0
+4.26841e-07 - I max: 1
+6.28224e-07 - I max: 3
+5.50046e-06 - I max: 5
+0.002197 - I max: 6
+0.981848 - I max: 7
+:::::7
+:96
+Image 994 - Desired Output 7 - 7
+1.28394e-07 - I max: 0
+4.98362e-07 - I max: 1
+7.02062e-07 - I max: 3
+3.20233e-05 - I max: 5
+0.0856438 - I max: 6
+0.944745 - I max: 7
+:::::7
+:97
+Image 995 - Desired Output 7 - 7
+1.05426e-07 - I max: 0
+4.54791e-07 - I max: 1
+5.98012e-07 - I max: 3
+4.69352e-05 - I max: 5
+0.158169 - I max: 6
+0.882264 - I max: 7
+:::::7
+:98
+Image 996 - Desired Output 7 - 7
+1.26327e-07 - I max: 0
+4.8778e-07 - I max: 1
+6.89992e-07 - I max: 3
+3.34455e-05 - I max: 5
+0.0890598 - I max: 6
+0.939958 - I max: 7
+:::::7
+:99
+Image 997 - Desired Output 7 - 7
+9.64357e-06 - I max: 0
+0.0001406 - I max: 1
+0.00389541 - I max: 2
+0.988627 - I max: 3
+:::::3
+:86
+Image 998 - Desired Output 3 - 3
+3.07726e-08 - I max: 0
+1.68631e-07 - I max: 1
+1.95203e-07 - I max: 3
+0.00762252 - I max: 5
+0.993074 - I max: 6
+:::::6
+:99
+Image 999 - Desired Output 6 - 6
+1.95123e-06 - I max: 0
+5.03105e-06 - I max: 1
+8.27762e-05 - I max: 3
+0.0253449 - I max: 4
+0.978845 - I max: 5
+:::::5
+:89
+Image 1000 - Desired Output 5 - 5
+4.80292e-05 - I max: 0
+0.00953357 - I max: 1
+0.982192 - I max: 2
+:::::2
+:92
+Image 1001 - Desired Output 2 - 2
+9.53127e-06 - I max: 0
+0.000130895 - I max: 1
+0.00323899 - I max: 2
+0.98875 - I max: 3
+:::::3
+:87
+Image 1002 - Desired Output 3 - 3
+3.30068e-07 - I max: 0
+9.27664e-07 - I max: 1
+4.21035e-06 - I max: 3
+5.50164e-05 - I max: 4
+0.936777 - I max: 5
+:::::5
+:90
+Image 1003 - Desired Output 5 - 5
+4.93039e-05 - I max: 0
+0.00844849 - I max: 1
+0.975037 - I max: 2
+:::::2
+:93
+Image 1004 - Desired Output 2 - 2
+4.69563e-05 - I max: 0
+0.0109228 - I max: 1
+0.986774 - I max: 2
+:::::2
+:94
+Image 1005 - Desired Output 2 - 2
+1.82633e-06 - I max: 0
+4.14728e-06 - I max: 1
+4.1837e-05 - I max: 3
+0.00662749 - I max: 4
+0.991949 - I max: 5
+:::::5
+:91
+Image 1006 - Desired Output 5 - 5
+5.28117e-08 - I max: 0
+2.94922e-07 - I max: 1
+3.3493e-07 - I max: 3
+0.000428064 - I max: 5
+0.885201 - I max: 6
+:::::6
+:100
+Image 1007 - Desired Output 6 - 6
+1.38967e-06 - I max: 0
+5.90911e-06 - I max: 1
+0.000521571 - I max: 3
+0.557287 - I max: 4
+:::::4
+:78
+Image 1008 - Desired Output 4 - 4
+4.70689e-05 - I max: 0
+0.0106631 - I max: 1
+0.986152 - I max: 2
+:::::2
+:95
+Image 1009 - Desired Output 2 - 2
+1.39633e-06 - I max: 0
+7.36531e-06 - I max: 1
+8.27938e-06 - I max: 2
+0.00139319 - I max: 3
+0.919864 - I max: 4
+:::::4
+:79
+Image 1010 - Desired Output 4 - 4
+1.34909e-05 - I max: 0
+0.000327292 - I max: 1
+0.0232869 - I max: 2
+0.961204 - I max: 3
+:::::3
+:88
+Image 1011 - Desired Output 3 - 3
+0.000279829 - I max: 0
+0.602184 - I max: 1
+:::::1
+:1
+Image 1012 - Desired Output 2 - 1
+4.67192e-06 - I max: 0
+5.02001e-05 - I max: 1
+0.000414609 - I max: 2
+0.809404 - I max: 3
+:::::3
+:89
+Image 1013 - Desired Output 3 - 3
+0.00429087 - I max: 0
+0.988575 - I max: 1
+:::::1
+:79
+Image 1014 - Desired Output 1 - 1
+2.78874e-06 - I max: 0
+1.8196e-05 - I max: 1
+2.51814e-05 - I max: 2
+0.00703647 - I max: 3
+0.988036 - I max: 4
+:::::4
+:80
+Image 1015 - Desired Output 4 - 4
+4.70918e-05 - I max: 0
+0.0109644 - I max: 1
+0.986899 - I max: 2
+:::::2
+:96
+Image 1016 - Desired Output 2 - 2
+0.00704807 - I max: 0
+0.98895 - I max: 1
+:::::1
+:80
+Image 1017 - Desired Output 1 - 1
+0.76758 - I max: 0
+:::::0
+:84
+Image 1018 - Desired Output 0 - 0
+3.89887e-08 - I max: 0
+2.03211e-07 - I max: 1
+2.7914e-07 - I max: 3
+3.36854e-07 - I max: 4
+0.037165 - I max: 5
+0.971454 - I max: 6
+:::::6
+:101
+Image 1019 - Desired Output 6 - 6
+0.000148399 - I max: 0
+0.192716 - I max: 1
+0.839114 - I max: 2
+:::::2
+:97
+Image 1020 - Desired Output 2 - 2
+0.000720015 - I max: 0
+0.943177 - I max: 1
+:::::1
+:81
+Image 1021 - Desired Output 1 - 1
+0.322383 - I max: 0
+0.688673 - I max: 1
+:::::1
+:82
+Image 1022 - Desired Output 1 - 1
+0.397828 - I max: 0
+0.614298 - I max: 1
+:::::1
+:83
+Image 1023 - Desired Output 1 - 1
+4.45686e-08 - I max: 0
+2.33126e-07 - I max: 1
+2.81949e-07 - I max: 3
+0.00178467 - I max: 5
+0.985748 - I max: 6
+:::::6
+:102
+Image 1024 - Desired Output 6 - 6
+4.68093e-05 - I max: 0
+0.0109628 - I max: 1
+0.986857 - I max: 2
+:::::2
+:98
+Image 1025 - Desired Output 2 - 2
+3.66737e-07 - I max: 0
+9.73059e-07 - I max: 1
+4.83844e-06 - I max: 3
+7.54518e-05 - I max: 4
+0.963235 - I max: 5
+:::::5
+:92
+Image 1026 - Desired Output 5 - 5
+0.000593599 - I max: 0
+0.915366 - I max: 1
+:::::1
+:84
+Image 1027 - Desired Output 1 - 1
+0.249535 - I max: 0
+0.764357 - I max: 1
+:::::1
+:85
+Image 1028 - Desired Output 1 - 1
+0.07394 - I max: 0
+0.935691 - I max: 1
+:::::1
+:86
+Image 1029 - Desired Output 1 - 1
+0.0336434 - I max: 0
+0.971466 - I max: 1
+:::::1
+:87
+Image 1030 - Desired Output 1 - 1
+1.12172e-10 - I max: 0
+2.63827e-08 - I max: 1
+7.27991e-06 - I max: 7
+0.980392 - I max: 8
+:::::8
+:102
+Image 1031 - Desired Output 8 - 8
+4.36283e-08 - I max: 0
+2.26765e-07 - I max: 1
+2.75282e-07 - I max: 3
+0.00198452 - I max: 5
+0.987565 - I max: 6
+:::::6
+:103
+Image 1032 - Desired Output 6 - 6
+6.21448e-05 - I max: 0
+0.0190373 - I max: 1
+0.983744 - I max: 2
+:::::2
+:99
+Image 1033 - Desired Output 2 - 2
+0.0190919 - I max: 0
+0.982372 - I max: 1
+:::::1
+:88
+Image 1034 - Desired Output 1 - 1
+4.94239e-05 - I max: 0
+0.0128115 - I max: 1
+0.988967 - I max: 2
+:::::2
+:100
+Image 1035 - Desired Output 2 - 2
+3.1904e-06 - I max: 0
+2.08943e-05 - I max: 1
+2.88508e-05 - I max: 2
+0.00831352 - I max: 3
+0.988684 - I max: 4
+:::::4
+:81
+Image 1036 - Desired Output 4 - 4
+4.69637e-05 - I max: 0
+0.0113822 - I max: 1
+0.987812 - I max: 2
+:::::2
+:101
+Image 1037 - Desired Output 2 - 2
+2.06911e-06 - I max: 0
+1.29099e-05 - I max: 1
+1.71576e-05 - I max: 2
+0.00427676 - I max: 3
+0.984578 - I max: 4
+:::::4
+:82
+Image 1038 - Desired Output 4 - 4
+3.94612e-06 - I max: 0
+2.91297e-05 - I max: 1
+5.43669e-05 - I max: 2
+0.0269937 - I max: 3
+0.974693 - I max: 4
+:::::4
+:83
+Image 1039 - Desired Output 4 - 4
+1.93044e-07 - I max: 0
+6.29435e-07 - I max: 1
+2.15947e-06 - I max: 3
+1.36936e-05 - I max: 4
+0.783981 - I max: 5
+:::::5
+:93
+Image 1040 - Desired Output 5 - 5
+0.996922 - I max: 0
+:::::0
+:85
+Image 1041 - Desired Output 0 - 0
+0.000304594 - I max: 0
+0.655291 - I max: 1
+:::::1
+:2
+Image 1042 - Desired Output 2 - 1
+4.77315e-05 - I max: 0
+0.00976292 - I max: 1
+0.98316 - I max: 2
+:::::2
+:102
+Image 1043 - Desired Output 2 - 2
+1.44806e-06 - I max: 0
+6.83735e-06 - I max: 1
+0.000879143 - I max: 3
+0.785372 - I max: 4
+:::::4
+:84
+Image 1044 - Desired Output 4 - 4
+0.000108108 - I max: 0
+0.0812393 - I max: 1
+0.928959 - I max: 2
+:::::2
+:103
+Image 1045 - Desired Output 2 - 2
+7.98138e-08 - I max: 0
+3.78568e-07 - I max: 1
+5.36069e-07 - I max: 3
+4.10773e-06 - I max: 5
+0.00110592 - I max: 6
+0.974841 - I max: 7
+:::::7
+:100
+Image 1046 - Desired Output 7 - 7
+9.76202e-08 - I max: 0
+4.2682e-07 - I max: 1
+6.10397e-07 - I max: 3
+5.16752e-06 - I max: 5
+0.00194456 - I max: 6
+0.980667 - I max: 7
+:::::7
+:101
+Image 1047 - Desired Output 7 - 7
+0.997921 - I max: 0
+:::::0
+:86
+Image 1048 - Desired Output 0 - 0
+4.84333e-05 - I max: 0
+0.0125302 - I max: 1
+0.989012 - I max: 2
+:::::2
+:104
+Image 1049 - Desired Output 2 - 2
+4.16021e-08 - I max: 0
+2.89206e-07 - I max: 1
+3.48952e-07 - I max: 3
+1.77901e-06 - I max: 5
+0.000180388 - I max: 6
+0.927338 - I max: 7
+:::::7
+:102
+Image 1050 - Desired Output 7 - 7
+3.50839e-09 - I max: 0
+1.07646e-07 - I max: 1
+4.4367e-07 - I max: 6
+0.0344643 - I max: 7
+0.948886 - I max: 8
+:::::8
+:103
+Image 1051 - Desired Output 8 - 8
+4.89392e-08 - I max: 0
+2.68149e-07 - I max: 1
+3.11358e-07 - I max: 3
+0.000818574 - I max: 5
+0.955525 - I max: 6
+:::::6
+:104
+Image 1052 - Desired Output 6 - 6
+2.33171e-06 - I max: 0
+1.47427e-05 - I max: 1
+1.96876e-05 - I max: 2
+0.00509658 - I max: 3
+0.986484 - I max: 4
+:::::4
+:85
+Image 1053 - Desired Output 4 - 4
+1.43353e-06 - I max: 0
+6.77502e-06 - I max: 1
+0.000868536 - I max: 3
+0.789039 - I max: 4
+:::::4
+:86
+Image 1054 - Desired Output 4 - 4
+1.32608e-06 - I max: 0
+2.95876e-06 - I max: 1
+2.50346e-05 - I max: 3
+0.00256921 - I max: 4
+0.992939 - I max: 5
+:::::5
+:94
+Image 1055 - Desired Output 5 - 5
+3.42404e-06 - I max: 0
+2.31564e-05 - I max: 1
+3.39817e-05 - I max: 2
+0.0108238 - I max: 3
+0.987658 - I max: 4
+:::::4
+:87
+Image 1056 - Desired Output 4 - 4
+8.80273e-08 - I max: 0
+3.57322e-07 - I max: 1
+8.035e-07 - I max: 3
+2.0792e-06 - I max: 4
+0.312875 - I max: 5
+0.697485 - I max: 6
+:::::6
+:105
+Image 1057 - Desired Output 6 - 6
+5.10812e-05 - I max: 0
+0.00653706 - I max: 1
+0.945037 - I max: 2
+:::::2
+:105
+Image 1058 - Desired Output 2 - 2
+4.08143e-06 - I max: 0
+3.45225e-05 - I max: 1
+9.99927e-05 - I max: 2
+0.112089 - I max: 3
+0.888692 - I max: 4
+:::::4
+:88
+Image 1059 - Desired Output 4 - 4
+5.86167e-07 - I max: 0
+1.40241e-06 - I max: 1
+8.7135e-06 - I max: 3
+0.000273829 - I max: 4
+0.98611 - I max: 5
+:::::5
+:95
+Image 1060 - Desired Output 5 - 5
+0.866493 - I max: 0
+:::::0
+:87
+Image 1061 - Desired Output 0 - 0
+1.33464e-06 - I max: 0
+2.97276e-06 - I max: 1
+2.47036e-05 - I max: 3
+0.00244473 - I max: 4
+0.992696 - I max: 5
+:::::5
+:96
+Image 1062 - Desired Output 5 - 5
+0.0335233 - I max: 0
+0.972452 - I max: 1
+:::::1
+:89
+Image 1063 - Desired Output 1 - 1
+4.00783e-07 - I max: 0
+1.05366e-06 - I max: 1
+5.3763e-06 - I max: 3
+9.45041e-05 - I max: 4
+0.965515 - I max: 5
+:::::5
+:97
+Image 1064 - Desired Output 5 - 5
+5.2824e-06 - I max: 0
+5.72992e-05 - I max: 1
+0.000533904 - I max: 2
+0.874281 - I max: 3
+:::::3
+:90
+Image 1065 - Desired Output 3 - 3
+0.000914097 - I max: 0
+0.964654 - I max: 1
+:::::1
+:90
+Image 1066 - Desired Output 1 - 1
+3.36967e-06 - I max: 0
+2.25211e-05 - I max: 1
+3.2416e-05 - I max: 2
+0.00997842 - I max: 3
+0.988054 - I max: 4
+:::::4
+:89
+Image 1067 - Desired Output 4 - 4
+2.12525e-06 - I max: 0
+1.32749e-05 - I max: 1
+1.76453e-05 - I max: 2
+0.00442538 - I max: 3
+0.985004 - I max: 4
+:::::4
+:90
+Image 1068 - Desired Output 4 - 4
+0.00180133 - I max: 0
+0.98541 - I max: 1
+:::::1
+:91
+Image 1069 - Desired Output 1 - 1
+2.60816e-06 - I max: 0
+1.67413e-05 - I max: 1
+2.26958e-05 - I max: 2
+0.00610549 - I max: 3
+0.987614 - I max: 4
+:::::4
+:91
+Image 1070 - Desired Output 4 - 4
+9.77236e-06 - I max: 0
+0.000152828 - I max: 1
+0.00483158 - I max: 2
+0.987944 - I max: 3
+:::::3
+:91
+Image 1071 - Desired Output 3 - 3
+4.80909e-05 - I max: 0
+0.0122477 - I max: 1
+0.988573 - I max: 2
+:::::2
+:106
+Image 1072 - Desired Output 2 - 2
+5.35113e-05 - I max: 0
+0.0138869 - I max: 1
+0.987744 - I max: 2
+:::::2
+:107
+Image 1073 - Desired Output 2 - 2
+0.754846 - I max: 0
+:::::0
+:88
+Image 1074 - Desired Output 0 - 0
+0.154059 - I max: 0
+0.857024 - I max: 1
+:::::1
+:92
+Image 1075 - Desired Output 1 - 1
+3.86663e-06 - I max: 0
+3.05781e-05 - I max: 1
+6.86552e-05 - I max: 2
+0.0480809 - I max: 3
+0.954932 - I max: 4
+:::::4
+:92
+Image 1076 - Desired Output 4 - 4
+1.09464e-05 - I max: 0
+0.000216989 - I max: 1
+0.0105887 - I max: 2
+0.980069 - I max: 3
+:::::3
+:92
+Image 1077 - Desired Output 3 - 3
+0.00360214 - I max: 0
+0.98825 - I max: 1
+:::::1
+:93
+Image 1078 - Desired Output 1 - 1
+0.983026 - I max: 0
+:::::0
+:89
+Image 1079 - Desired Output 0 - 0
+3.17254e-08 - I max: 0
+2.64979e-07 - I max: 1
+2.90365e-07 - I max: 3
+1.24507e-06 - I max: 5
+8.75006e-05 - I max: 6
+0.882875 - I max: 7
+:::::7
+:103
+Image 1080 - Desired Output 7 - 7
+1.98045e-06 - I max: 0
+1.22158e-05 - I max: 1
+1.60097e-05 - I max: 2
+0.00390507 - I max: 3
+0.983499 - I max: 4
+:::::4
+:93
+Image 1081 - Desired Output 4 - 4
+3.47329e-08 - I max: 0
+1.86048e-07 - I max: 1
+2.20992e-07 - I max: 3
+0.00594838 - I max: 5
+0.994074 - I max: 6
+:::::6
+:106
+Image 1082 - Desired Output 6 - 6
+5.8418e-06 - I max: 0
+6.49597e-05 - I max: 1
+0.000725241 - I max: 2
+0.928525 - I max: 3
+:::::3
+:93
+Image 1083 - Desired Output 3 - 3
+3.69156e-05 - I max: 0
+0.00177986 - I max: 1
+0.349719 - I max: 2
+0.564526 - I max: 3
+:::::3
+:94
+Image 1084 - Desired Output 3 - 3
+0.000774395 - I max: 0
+0.950798 - I max: 1
+:::::1
+:94
+Image 1085 - Desired Output 1 - 1
+0.00365621 - I max: 0
+0.988308 - I max: 1
+:::::1
+:95
+Image 1086 - Desired Output 1 - 1
+0.994237 - I max: 0
+:::::0
+:90
+Image 1087 - Desired Output 0 - 0
+0.000557501 - I max: 0
+0.901161 - I max: 1
+:::::1
+:96
+Image 1088 - Desired Output 1 - 1
+4.9225e-05 - I max: 0
+0.00855468 - I max: 1
+0.975797 - I max: 2
+:::::2
+:108
+Image 1089 - Desired Output 2 - 2
+4.96347e-08 - I max: 0
+2.72158e-07 - I max: 1
+3.15503e-07 - I max: 3
+0.000734244 - I max: 5
+0.94715 - I max: 6
+:::::6
+:107
+Image 1090 - Desired Output 6 - 6
+4.11086e-08 - I max: 0
+2.1098e-07 - I max: 1
+2.61153e-07 - I max: 3
+0.00364439 - I max: 5
+0.994298 - I max: 6
+:::::6
+:108
+Image 1091 - Desired Output 6 - 6
+1.58911e-07 - I max: 0
+5.61135e-07 - I max: 1
+8.39057e-07 - I max: 3
+1.93746e-05 - I max: 5
+0.0375391 - I max: 6
+0.978722 - I max: 7
+:::::7
+:104
+Image 1092 - Desired Output 7 - 7
+4.97518e-05 - I max: 0
+0.00811406 - I max: 1
+0.972126 - I max: 2
+:::::2
+:109
+Image 1093 - Desired Output 2 - 2
+7.06671e-06 - I max: 0
+8.23335e-05 - I max: 1
+0.00124652 - I max: 2
+0.971678 - I max: 3
+:::::3
+:95
+Image 1094 - Desired Output 3 - 3
+2.61661e-05 - I max: 0
+0.00100041 - I max: 1
+0.157646 - I max: 2
+0.783031 - I max: 3
+:::::3
+:96
+Image 1095 - Desired Output 3 - 3
+4.02168e-08 - I max: 0
+2.06146e-07 - I max: 1
+2.5377e-07 - I max: 3
+0.00345066 - I max: 5
+0.993716 - I max: 6
+:::::6
+:109
+Image 1096 - Desired Output 6 - 6
+1.67847e-06 - I max: 0
+5.37457e-06 - I max: 1
+0.000183279 - I max: 3
+0.120608 - I max: 4
+0.899067 - I max: 5
+:::::5
+:98
+Image 1097 - Desired Output 5 - 5
+0.0109537 - I max: 0
+0.987731 - I max: 1
+:::::1
+:97
+Image 1098 - Desired Output 1 - 1
+8.61956e-05 - I max: 0
+0.0418861 - I max: 1
+0.961764 - I max: 2
+:::::2
+:110
+Image 1099 - Desired Output 2 - 2
+6.53488e-05 - I max: 0
+0.0215072 - I max: 1
+0.981787 - I max: 2
+:::::2
+:111
+Image 1100 - Desired Output 2 - 2
+0.00103391 - I max: 0
+0.971399 - I max: 1
+:::::1
+:98
+Image 1101 - Desired Output 1 - 1
+9.75996e-06 - I max: 0
+0.000141391 - I max: 1
+0.00387063 - I max: 2
+0.988895 - I max: 3
+:::::3
+:97
+Image 1102 - Desired Output 3 - 3
+0.992247 - I max: 0
+:::::0
+:91
+Image 1103 - Desired Output 0 - 0
+1.43682e-06 - I max: 0
+7.67003e-06 - I max: 1
+8.72425e-06 - I max: 2
+0.0015034 - I max: 3
+0.9305 - I max: 4
+:::::4
+:94
+Image 1104 - Desired Output 4 - 4
+3.33981e-08 - I max: 0
+1.77801e-07 - I max: 1
+2.1071e-07 - I max: 3
+0.00563617 - I max: 5
+0.993816 - I max: 6
+:::::6
+:110
+Image 1105 - Desired Output 6 - 6
+1.43864e-06 - I max: 0
+8.01089e-06 - I max: 1
+9.57082e-06 - I max: 2
+0.00182779 - I max: 3
+0.953117 - I max: 4
+:::::4
+:95
+Image 1106 - Desired Output 4 - 4
+3.9773e-08 - I max: 0
+2.03701e-07 - I max: 1
+2.50033e-07 - I max: 3
+0.00312247 - I max: 5
+0.992643 - I max: 6
+:::::6
+:111
+Image 1107 - Desired Output 6 - 6
+4.01819e-06 - I max: 0
+3.25668e-05 - I max: 1
+8.10245e-05 - I max: 2
+0.069109 - I max: 3
+0.933951 - I max: 4
+:::::4
+:96
+Image 1108 - Desired Output 4 - 4
+1.3014e-05 - I max: 0
+0.000305988 - I max: 1
+0.0207374 - I max: 2
+0.964782 - I max: 3
+:::::3
+:98
+Image 1109 - Desired Output 3 - 3
+0.0284249 - I max: 0
+0.976192 - I max: 1
+:::::1
+:99
+Image 1110 - Desired Output 1 - 1
+1.56163e-09 - I max: 0
+7.8764e-08 - I max: 1
+0.00453343 - I max: 7
+0.989285 - I max: 8
+:::::8
+:104
+Image 1111 - Desired Output 8 - 8
+3.74001e-08 - I max: 0
+1.9816e-07 - I max: 1
+2.64476e-07 - I max: 3
+3.06866e-07 - I max: 4
+0.0324186 - I max: 5
+0.975865 - I max: 6
+:::::6
+:112
+Image 1112 - Desired Output 6 - 6
+2.33844e-06 - I max: 0
+1.47379e-05 - I max: 1
+1.96762e-05 - I max: 2
+0.00506909 - I max: 3
+0.986522 - I max: 4
+:::::4
+:97
+Image 1113 - Desired Output 4 - 4
+0.369793 - I max: 0
+0.643531 - I max: 1
+:::::1
+:100
+Image 1114 - Desired Output 1 - 1
+0.997824 - I max: 0
+:::::0
+:92
+Image 1115 - Desired Output 0 - 0
+4.70244e-05 - I max: 0
+0.0114098 - I max: 1
+0.987598 - I max: 2
+:::::2
+:112
+Image 1116 - Desired Output 2 - 2
+1.00663e-05 - I max: 0
+0.000177274 - I max: 1
+0.00703941 - I max: 2
+0.984924 - I max: 3
+:::::3
+:99
+Image 1117 - Desired Output 3 - 3
+4.7009e-05 - I max: 0
+0.0117121 - I max: 1
+0.988265 - I max: 2
+:::::2
+:113
+Image 1118 - Desired Output 2 - 2
+0.00354057 - I max: 0
+0.988333 - I max: 1
+:::::1
+:101
+Image 1119 - Desired Output 1 - 1
+0.00192328 - I max: 0
+0.985402 - I max: 1
+:::::1
+:102
+Image 1120 - Desired Output 1 - 1
+9.83943e-06 - I max: 0
+0.000144371 - I max: 1
+0.00407126 - I max: 2
+0.988849 - I max: 3
+:::::3
+:100
+Image 1121 - Desired Output 3 - 3
+6.46622e-06 - I max: 0
+7.35788e-05 - I max: 1
+0.0009739 - I max: 2
+0.957411 - I max: 3
+:::::3
+:1
+Image 1122 - Desired Output 4 - 3
+0.997704 - I max: 0
+:::::0
+:93
+Image 1123 - Desired Output 0 - 0
+0.0283915 - I max: 0
+0.975797 - I max: 1
+:::::1
+:103
+Image 1124 - Desired Output 1 - 1
+3.22814e-08 - I max: 0
+1.75148e-07 - I max: 1
+2.04183e-07 - I max: 3
+0.00693164 - I max: 5
+0.9935 - I max: 6
+:::::6
+:113
+Image 1125 - Desired Output 6 - 6
+3.01223e-08 - I max: 0
+1.67266e-07 - I max: 1
+1.92159e-07 - I max: 3
+0.00905852 - I max: 5
+0.9924 - I max: 6
+:::::6
+:114
+Image 1126 - Desired Output 6 - 6
+4.52896e-08 - I max: 0
+3.05587e-07 - I max: 1
+3.64349e-07 - I max: 3
+1.95843e-06 - I max: 5
+0.000224096 - I max: 6
+0.936427 - I max: 7
+:::::7
+:105
+Image 1127 - Desired Output 7 - 7
+4.22894e-07 - I max: 0
+1.08076e-06 - I max: 1
+5.77791e-06 - I max: 3
+0.000111547 - I max: 4
+0.974101 - I max: 5
+:::::5
+:2
+Image 1128 - Desired Output 6 - 5
+0.998157 - I max: 0
+:::::0
+:94
+Image 1129 - Desired Output 0 - 0
+Numero de neuronios de teste: 
+	107	108	122	112	107	108	125	109	116	116
+
+
+	0	1	2	3	4	5	6	7	8	9
+0	94	13	0	0	0	0	0	0	0	0
+1	0	103	5	0	0	0	0	0	0	0
+2	0	2	113	7	0	0	0	0	0	0
+3	0	0	0	100	12	0	0	0	0	0
+4	0	0	0	1	97	9	0	0	0	0
+5	0	0	0	0	0	98	10	0	0	0
+6	0	0	0	0	0	2	114	9	0	0
+7	0	0	0	0	0	0	0	105	4	0
+8	0	0	0	0	0	0	0	0	104	12
+9	0	0	0	0	0	0	0	0	0	116
+Quantidade de acertos:1044
+Percent error: 7.61062%.
+S U C E S S O

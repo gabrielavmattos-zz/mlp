@@ -60,35 +60,65 @@ void NeuralNet::training(int numRowsTrain, int numRowsCross, int numCols, int nu
 	layers[numberLayers-1].setLayer(numNeuronsOutput, 0, true);
 	
 	int valor = 0;
-	while (valor < 500)
+	while (valor < 600)
 	{
 		for (i=0; i < numRowsTrain; i++)
 		{
 		//for (i=0; i<5; i++)
 		//{
 			layers[0].presentsInput(dataTrain, i, numNeuronsInput);
-			cout << "Aw" << dataTrain[i*numCols+numCols-1] << endl;
+			//cout << "Aw" << dataTrain[i*numCols+numCols-1] << endl;
 			layers[numberLayers-1].presentDesiredOutputs(dataTrain[i*numCols+numCols-1], numNeuronsOutput);
-			cout << i << endl;
-			layers[0].getOutputs();
+			//cout << i << endl;
+			//layers[0].getOutputs();
 			fowardPropagation();
-			cout << "CAMADA DE ENTRADA" << endl;
-			layers[numberLayers-1].getOutputs();
-			cout << "CAMADA ESCONDIDA" << endl;
-			layers[1].getOutputs();
-			cout << "CAMADA SAÍDA" << endl;
-			layers[numberLayers-1].getOutputs();
+			//cout << "CAMADA DE ENTRADA" << endl;
+			//layers[numberLayers-1].getOutputs();
+			//cout << "CAMADA ESCONDIDA" << endl;
+			//layers[1].getOutputs();
+			//cout << "CAMADA SAÍDA" << endl;
+			//layers[numberLayers-1].getOutputs();
 
 			backPropagation();	
 		
-			cout << "CAMADA DE ENTRADA back" << endl;
-			layers[0].getOutputs();
-			cout << "CAMADA ESCONDIDA back" << endl;
-			layers[1].getOutputs();
-			cout << "CAMADA SAÍDA back" << endl;
-			layers[numberLayers-1].getOutputs();
+			//cout << "CAMADA DE ENTRADA back" << endl;
+			//layers[0].getOutputs();
+			//cout << "CAMADA ESCONDIDA back" << endl;
+			//layers[1].getOutputs();
+			//cout << "CAMADA SAÍDA back" << endl;
+			//layers[numberLayers-1].getOutputs();
 		}
-		valor++;	
+		valor++;
+
+		for (i=0; i < numRowsCross; i++)
+		{
+		//for (i=0; i<5; i++)
+		//{
+			layers[0].presentsInput(dataCross, i, numNeuronsInput);
+			//cout << "Aw" << dataTrain[i*numCols+numCols-1] << endl;
+			layers[numberLayers-1].presentDesiredOutputs(dataCross[i*numCols+numCols-1], numNeuronsOutput);
+			//cout << i << endl;
+			//layers[0].getOutputs();
+			fowardPropagation();
+			//cout << "CAMADA DE ENTRADA" << endl;
+			//layers[numberLayers-1].getOutputs();
+			//cout << "CAMADA ESCONDIDA" << endl;
+			//layers[1].getOutputs();
+			//cout << "CAMADA SAÍDA" << endl;
+			//layers[numberLayers-1].getOutputs();
+
+			backPropagation();	
+		
+			//cout << "CAMADA DE ENTRADA back" << endl;
+			//layers[0].getOutputs();
+			//cout << "CAMADA ESCONDIDA back" << endl;
+			//layers[1].getOutputs();
+			//cout << "CAMADA SAÍDA back" << endl;
+			//layers[numberLayers-1].getOutputs();
+		}
+	
+
+			
 	}
 }
 
@@ -146,7 +176,7 @@ void NeuralNet::backPropagation()
 		
 }
 
-void NeuralNet::testing(float *data, int numberImages, int numberRows, int numberCols)
+void NeuralNet::testing(float *data, int numberImages, int numNeuronsInput, int numCols)
 {
 
 	int i = layers[numberLayers-1].getNumberNeuron();
@@ -155,30 +185,32 @@ void NeuralNet::testing(float *data, int numberImages, int numberRows, int numbe
 	double error;
 	int cont[i];
 
+	//inicializa os contadores
 	for(i=0; i<layers[numberLayers-1].getNumberNeuron(); i++)
 		cont[i]=0;
 
+	//inicializa a matriz 
 	for (i=0; i<layers[numberLayers-1].getNumberNeuron(); i++)
 		for (j=0; j<layers[numberLayers-1].getNumberNeuron(); j++)
 			matriz[i][j] = 0;
 
 	for (i=0; i<numberImages; i++)
 	{	
-		k = layers[numberLayers-1].getPositionOutput(data[i*numberCols+numberCols-1]);
+		k = data[i*numCols+numCols-1];
 	
-		cout << "Image " << i << " - Desired Output " << data[i*numberCols+numberCols-1] << " - " << k << endl; 
-		layers[0].presentsInput(data, i, numberRows);
-		cout << "Antes" << endl;
+		layers[0].presentsInput(data, i, numNeuronsInput);
+		//cout << "Antes" << endl;
 		fowardPropagation();
 
-		cout << "Depois" << endl;
-		layers[numberLayers-1].getOutputs();
+		//cout << "Depois" << endl;
+		//layers[numberLayers-1].getOutputs();
 		
 		j = layers[numberLayers-1].getPositionGreaterValue();
 		cont[k]++;
 		cout << ":::::" << j << endl;
 		matriz[k][j]++;
 		cout << ":" << matriz[k][j] << endl;
+		cout << "Image " << i << " - Desired Output " << data[i*numCols+numCols-1] << " - " << j << endl; 
 
 	}
 

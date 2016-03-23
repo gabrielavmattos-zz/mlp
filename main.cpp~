@@ -181,9 +181,9 @@ int main(int argc, char ** argv)
 
 
 	// num_cols - 2, já que as duas ultimas colunas é categoria e tipo de entrada
-	mlp.training(numRowsTrain, numRowsCross, num_cols-2, num_cols-2, numberNeuronsOutput, numberNeuronsHidden, dataTrain, dataCross);
+	mlp.training(numRowsTrain, numRowsCross, num_cols-2, num_cols-1, numberNeuronsOutput, numberNeuronsHidden, dataTrain, dataCross);
 	//mlp.training(numRowsTrain, numRowsTrain, num_colunas_conv-1, dataTrain, num_colunas_conv-1, numberNeuronsOutput, &numberNeuronsHidden);
-	//mlp.testing(dataTest, numRowsTest,  numberNeuronsOutput, num_colunas_conv-1);
+	mlp.testing(dataTest, numRowsTest,  num_cols-2, num_cols-1);
 
 	cout << "S U C E S S O" << endl;
 
